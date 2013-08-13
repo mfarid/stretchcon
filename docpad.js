@@ -1,27 +1,28 @@
 module.exports = {
 
   prompts: false,
+  outPath: "www/",
 
   // These are variables will be accessible via our templates
   templateData: {
 
     // Conference info
     conf: {
-      name: "Conference name",
-      description: "Conference description",
-      date: "November 15",
-      price: "$100",
-      venue: "Coco Bongo",
-      address: "Boulevard Kukulcan, 30",
-      city: "Cancún",
-      state: "Quintana"
+      name: "Stretch",
+        description: "First you grew. Now you lead. Join us at Stretch in Budapest this December and get inspired by stories from leads and founders of great organisations as they talk about the challenges of leadership and management.",
+      date: "December 5-6, 2013",
+//      price: "$100",
+//      venue: "Coco Bongo",
+//      address: "Boulevard Kukulcan, 30",
+      city: "Budapest",
+//      state: "Quintana"
     },
 
     // Site info
     site: {
       theme: "yellow-swan",
-      url: "http://confboilerplate.com",
-      googleanalytics: "UA-33656081-1"
+      url: "http://stretchcon.com",
+//      googleanalytics: "UA-33656081-1"
     },
 
     // Active sections on the website
@@ -29,11 +30,11 @@ module.exports = {
     // you can also change order here and it will reflect on page
     sections: [
       'about',
-      'location',
-      'speakers',
-      'schedule',
-      'sponsors',
-      'partners'
+      // 'location',
+      // 'speakers',
+      // 'schedule',
+      // 'sponsors',
+      // 'partners'
       // 'contact'
     ],
 
