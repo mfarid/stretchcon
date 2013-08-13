@@ -1,5 +1,7 @@
 <h2 class="section-title"><%= @labels['speakers'] %></h2>
 
+<p><a href="https://twitter.com/stretchcon">Follow us on Twitter</a> or <a href="lanyrd.com/2013/stretchcon/">track the conference on Lanyrd</a> to get the latest updates.</p>
+
 <ul class="speakers-list">
 <% for speaker in @schedule: %>
   <% if speaker.presentation: %>
