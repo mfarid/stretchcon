@@ -1,0 +1,16 @@
+2602 error Error: read ETIMEDOUT
+2602 error     at errnoException (net.js:863:11)
+2602 error     at TCP.onread (net.js:524:19)
+2603 error If you need help, you may report this log at:
+2603 error     <http://github.com/isaacs/npm/issues>
+2603 error or email it to:
+2603 error     <npm-@googlegroups.com>
+2604 error System Darwin 12.4.0
+2605 error command "node" "/usr/local/bin/npm" "install"
+2606 error cwd /Users/hoffergabor/Applications/stretchcon
+2607 error node -v v0.10.0
+2608 error npm -v 1.2.15
+2609 error syscall read
+2610 error code ETIMEDOUT
+2611 error errno ETIMEDOUT
+2612 verbose exit [ 1, true ]
