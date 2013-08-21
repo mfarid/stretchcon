@@ -77,6 +77,16 @@ module.exports = {
         //     },
         // },
         {
+            name: "Gábor Vészi",
+            photo: "themes/stretchcon/img/gaborveszi.jpg",
+            bio: "I'm responsible for the teams that manage Prezi's critical backend systems. I'm passionate about availability, scalable architectures, automation, metrics, and bridging the gap between development and operations.",
+            company: "Prezi",
+            link: {
+                href: "http://twitter.com/veszig",
+                text: "@veszig"
+            },
+        },
+        {
             name: "Péter Halácsy",
             photo: "themes/stretchcon/img/peterhalacsy.jpg",
             bio: "Today I'm CTO of Prezi.com which is a fast growing startup changing how people share ideas. What I'm doing? Building organization, stretching engineers, and coding in Haskell for a better life.",
