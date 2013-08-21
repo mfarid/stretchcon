@@ -66,16 +66,16 @@ module.exports = {
                 text: "@processpirate"
             },
         },
-        // {
-        //     name: "Gergely Hodicska",
-        //     photo: "themes/stretchcon/img/gergelyhodicska.jpg",
-        //     bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-        //     company: "Ustream",
-        //     link: {
-        //         href: "http://twitter.com/felhobacsi",
-        //         text: "@felhobacsi"
-        //     },
-        // },
+        {
+            name: "Gergely Hodicska",
+            photo: "themes/stretchcon/img/gergelyhodicska.jpg",
+            bio: "",
+            company: "Ustream",
+            link: {
+                href: "http://twitter.com/felhobacsi",
+                text: "@felhobacsi"
+            },
+        },
         {
             name: "Gábor Vészi",
             photo: "themes/stretchcon/img/gaborveszi.jpg",
