@@ -32,6 +32,7 @@ module.exports = {
       'about',
       'location',
       'speakers',
+      'programcommittee',
       // 'schedule',
       // 'sponsors',
       // 'partners'
@@ -43,6 +44,7 @@ module.exports = {
       about: "About",
       location: "Location",
       speakers: "Speakers",
+      programcommittee: "Program Committee",
       schedule: "Schedule",
       sponsors: "Sponsors",
       partners: "Partners",
@@ -51,6 +53,39 @@ module.exports = {
 
     // The entire schedule
     schedule: [
+    ],
+
+    programcommittee: [
+        {
+            name: "Gábor Török, chair",
+            photo: "themes/stretchcon/img/gabortorok.jpg",
+            bio: "I'm engineering manager at Prezi. I enjoy working in agile teams. I'm passionate about process improvements, continuous delivery and acceptance test driven development, and people management. I strongly believe knowledge belongs to everyone hence I regularly organise tech meetups in Budapest to help people share ideas.",
+            company: "Prezi",
+            link: {
+                href: "http://twitter.com/processpirate",
+                text: "@processpirate"
+            },
+        },
+        // {
+        //     name: "Gergely Hodicska",
+        //     photo: "themes/stretchcon/img/gergelyhodicska.jpg",
+        //     bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
+        //     company: "Ustream",
+        //     link: {
+        //         href: "http://twitter.com/felhobacsi",
+        //         text: "@felhobacsi"
+        //     },
+        // },
+        {
+            name: "Péter Halácsy",
+            photo: "themes/stretchcon/img/peterhalacsy.jpg",
+            bio: "Today I'm CTO of Prezi.com which is a fast growing startup changing how people share ideas. What I'm doing? Building organization, stretching engineers, and coding in Haskell for a better life.",
+            company: "Prezi",
+            link: {
+                href: "http://twitter.com/halacsy",
+                text: "@halacsy"
+            },
+        },
     ],
 
     // List of Sponsors
