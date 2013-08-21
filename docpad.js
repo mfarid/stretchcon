@@ -8,8 +8,8 @@ module.exports = {
 
     // Conference info
     conf: {
-      name: "Stretch",
-        description: "First you grew. Now you lead. Join us at Stretch in Budapest this December and get inspired by stories from leads and founders of great organisations as they talk about the challenges of leadership and management.",
+        name: "Stretch conference. First you grew. Now you lead.",
+        description: "Join us at Stretch in Budapest this December and get inspired by stories from leads and founders of great organisations as they talk about the challenges of leadership and management.",
       date: "December 5-6, 2013",
 //      price: "$100",
 //      venue: "Coco Bongo",
