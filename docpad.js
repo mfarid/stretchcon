@@ -57,7 +57,7 @@ module.exports = {
             name: "Andreas Ehn",
             photo: "themes/stretchcon/img/andreasehn.jpg",
             bio: "",
-            company: "Spotify",
+            company: "Wrapp",
             link: {
                 href: "http://twitter.com/ehn",
                 text: "@ehn"
