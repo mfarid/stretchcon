@@ -53,6 +53,39 @@ module.exports = {
 
     // The entire schedule
     schedule: [
+        {
+            name: "Andreas Ehn",
+            photo: "themes/stretchcon/img/andreasehn.jpg",
+            bio: "",
+            company: "Spotify",
+            link: {
+                href: "http://twitter.com/ehn",
+                text: "@ehn"
+            },
+            presentation: []
+        },
+        {
+            name: "Oren Ellenbogen",
+            photo: "themes/stretchcon/img/orenellenbogen.jpg",
+            bio: "",
+            company: "Commerce Sciences, Software Lead Weekly",
+            link: {
+                href: "http://twitter.com/orenellenbogen",
+                text: "@orenellenbogen"
+            },
+            presentation: []
+        },
+        {
+            name: "Roy Osherove",
+            photo: "themes/stretchcon/img/royosherove.jpg",
+            bio: "",
+            company: "Bouvet ASA",
+            link: {
+                href: "http://twitter.com/RoyOsherove",
+                text: "@RoyOsherove"
+            },
+            presentation: []
+        }
     ],
 
     programcommittee: [

@@ -1,3 +1,5 @@
+@defaultFontFamily: "Arial Narrow", Arial, sans-serif;
+
 .about p strong { color: #333333; font-size: 120%; }
 
 .header { background: url(../img/logo.png) no-repeat center 60%; background-size: 35%; padding: 220px 0 0 0; }
@@ -10,4 +12,21 @@
 
 @media only screen and (max-width: 800px) {
 	.header { background: url(../img/logo.png) no-repeat center center; background-size: 70%; padding: 200px 0 0 0; }
+}
+
+h3.speakers-name {
+	text-transform: uppercase;
+	font-weight: bold;
+	font-family: @defaultFontFamily;
+	font-size: 250%;
+}
+
+h3.speakers-name a {
+	text-transform: none;
+	font-size: 80%;
+}
+
+.speakers-company {
+	text-transform: uppercase;
+	font-weight: bold;
 }

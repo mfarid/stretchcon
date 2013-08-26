@@ -1,9 +1,5 @@
 <h2 class="section-title"><%= @labels['speakers'] %></h2>
 
-<p><a href="https://twitter.com/stretchcon">Follow us on Twitter</a> or <a href="http://lanyrd.com/2013/stretchcon/">track the conference on Lanyrd</a> to get the latest updates.</p>
-
-<p>Alternatively <a href="http://eepurl.com/D17Ab">subscribe to our mailing list</a> to recieve notifications of conference updates.</p>
-
 <ul class="speakers-list">
 <% for speaker in @schedule: %>
   <% if speaker.presentation: %>
@@ -22,8 +18,11 @@
       </h3>
 
       <h3 class="speakers-name"><%= speaker.name %> <% if speaker.link: %><a href="<%= speaker.link.href %>" title="<%= speaker.link.text %>"><%= speaker.link.text %></a><% end %></h3>
+      <p class="speakers-company"><%= speaker.company %></p>
       <p class="speakers-bio"><%= speaker.bio %></p>
     </li>
   <% end %>
 <% end %>
 </ul>
+
+<p>More to come! <a href="https://twitter.com/stretchcon">Follow us on Twitter</a> or <a href="http://lanyrd.com/2013/stretchcon/">track the conference on Lanyrd</a> to get the latest updates. Alternatively <a href="http://eepurl.com/D17Ab">subscribe to our mailing list</a> to recieve notifications of conference updates.</p>
