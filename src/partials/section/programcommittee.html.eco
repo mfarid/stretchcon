@@ -9,7 +9,8 @@
         </span>
       <% end %>
 
-      <h3 class="speakers-name"><%= member.name %> <% if member.link: %><a href="<%= member.link.href %>" title="<%= member.link.text %>"><%= member.link.text %></a><% end %> (<%= member.company %>)</h3>
+      <h3 class="speakers-name"><%= member.name %> <% if member.link: %><a href="<%= member.link.href %>" title="<%= member.link.text %>"><%= member.link.text %></a><% end %></h3>
+      <p class="speakers-company"><%= member.company %></p>
       <p class="speakers-bio"><%= member.bio %></p>
     </li>
 <% end %>
