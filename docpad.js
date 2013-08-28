@@ -102,7 +102,7 @@ module.exports = {
         {
             name: "Gergely Hodicska",
             photo: "themes/stretchcon/img/gergelyhodicska.jpg",
-            bio: "",
+            bio: "I am the Senior Engineering Manager at Ustream and I oversee all site, streaming, and infrastructure teams. Early on, I specialized in building and operating large scale web applications, including the design and development of several Alexa Top 100 sites. Nowadays I focus on improving the way we develop at Ustream, creating effective processes and building a culture where our engineers can not just continuously deliver but also continuously improve. I strongly believe in teamwork, devops and lifelong learning.",
             company: "Ustream",
             link: {
                 href: "http://twitter.com/felhobacsi",
