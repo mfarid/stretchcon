@@ -79,7 +79,7 @@ module.exports = {
             name: "Roy Osherove",
             photo: "themes/stretchcon/img/royosherove.jpg",
             bio: "",
-            company: "Bouvet ASA",
+            company: "ITVerket.no",
             link: {
                 href: "http://twitter.com/RoyOsherove",
                 text: "@RoyOsherove"
