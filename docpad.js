@@ -35,7 +35,7 @@ module.exports = {
       'callforproposals',
       'programcommittee',
       // 'schedule',
-      // 'sponsors',
+      'sponsors',
       // 'partners'
       'contact'
     ],
@@ -136,9 +136,9 @@ module.exports = {
     // List of Sponsors
     sponsors: [
       {
-        name: "Eventick",
-        logo: "themes/yellow-swan/img/sponsor.png",
-        url: "http://eventick.com.br"
+        name: "InfoQ",
+        logo: "themes/stretchcon/img/infoq.png",
+        url: "http://infoq.com"
       }
     ],
 

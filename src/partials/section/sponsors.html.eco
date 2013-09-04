@@ -1,4 +1,10 @@
 <h2 class="section-title"><%= @labels['sponsors'] %></h2>
+
+
+<div class="sponsors-banner-container">
+<div class="sponsors-banner">
+</div>
+
 <ul class="sponsors-list">
 
 <% for sponsor in @sponsors: %>
@@ -9,8 +15,9 @@
   </li>
 <% end %>
   <li class="sponsor-item">
-    <a class="sponsor-logo sponsor-link sponsor-call" href="#">
-    	<img src="<%= @getTheme() %>/img/your-logo.jpg" alt="your logo" class="photo">
+    <a class="sponsor-logo sponsor-link sponsor-call" href="mailto:hello@stretchcon.com">
+      <img src="<%= @getTheme() %>/img/your-logo.jpg" alt="your logo" class="photo">
     </a>
   </li>
 </ul>
+</div>
