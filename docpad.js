@@ -58,7 +58,7 @@ module.exports = {
         {
             name: "Andreas Ehn",
             photo: "themes/stretchcon/img/andreasehn.jpg",
-            bio: "",
+            bio: "Andreas is Wrapp's co-founder and chief technology officer (CTO). Previously he was Spotify’s first employee and CTO, where he brought together the world-class tech team that designed and built the platform and product for the music service. Before that he worked for the Swedish online-gaming company Stardoll. Andreas is a board member and angel investor in several companies, and he is frequently hired as an advisor by promising Internet start-ups and venture capital funds.",
             company: "Wrapp",
             link: {
                 href: "http://twitter.com/ehn",
