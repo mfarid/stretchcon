@@ -80,7 +80,7 @@ module.exports = {
         {
             name: "Roy Osherove",
             photo: "themes/stretchcon/img/royosherove.jpg",
-            bio: "",
+            bio: "Roy Osherove is a senior consultant at ITVerket, and the author of \"The Art Of Unit Testing\" and \"Notes to a software team leader\". He is also one of the original ALT.NET organizers. He consults and trains teams worldwide on the gentle art of unit testing, test-driven development and how to lead software teams. He frequently speaks at international conferences on these topics and others.",
             company: "ITVerket.no",
             link: {
                 href: "http://twitter.com/RoyOsherove",
