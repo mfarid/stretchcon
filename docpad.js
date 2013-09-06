@@ -67,6 +67,17 @@ module.exports = {
             presentation: []
         },
         {
+            name: "Jason Hoffman",
+            photo: "themes/stretchcon/img/jasonhoffman.jpg",
+            bio: "",
+            company: "Joyent",
+            link: {
+                href: "http://twitter.com/jasonh",
+                text: "@jasonh"
+            },
+            presentation: []
+        },
+        {
             name: "Oren Ellenbogen",
             photo: "themes/stretchcon/img/orenellenbogen.jpg",
             bio: "Oren Ellenbogen is the curator of the successful newsletter SoftwareLeadWeekly and author of TeamLeadToolbox. Oren is also an Engineer at Commerce Sciences (#2 employee), where he focuses on building the company's data infrastructure. Prior to Commerce Sciences, Oren served as Director of Engineering at Delver (acquired by Sears), where he was responsible for the development process, delivering kick-ass products and growing the next generation of Team Leads in his group.",
