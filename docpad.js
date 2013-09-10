@@ -69,7 +69,7 @@ module.exports = {
         {
             name: "Jason Hoffman",
             photo: "themes/stretchcon/img/jasonhoffman.jpg",
-            bio: "",
+            bio: "Jason is the founder and CTO at Joyent, where he is responsible for overseeing the engineering, operations and product groups’ development and implementation of Joyent’s Cloud Computing technology. He is also responsible for research and advanced development, technical outreach, evangelism, consultative efforts for partners and business units, and manages Joyent’s intellectual property portfolio including involvement in open source projects, licensing, technology transfer, assessments of potential partnerships, mergers and acquisitions. His specialties include bioinformatics, grid computing, cloud computing, distributed systems, collaborative applications and deploying and scaling web applications.",
             company: "Joyent",
             link: {
                 href: "http://twitter.com/jasonh",
