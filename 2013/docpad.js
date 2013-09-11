@@ -21,7 +21,7 @@ module.exports = {
     // Site info
     site: {
       theme: "stretchcon",
-      url: "http://stretchcon.com",
+      url: "http://stretchcon.com/2013/",
       googleanalytics: "UA-43412556-1"
     },
 
