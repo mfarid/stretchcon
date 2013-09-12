@@ -67,6 +67,17 @@ module.exports = {
             presentation: []
         },
         {
+            name: "Andrew Stellman",
+            photo: "themes/stretchcon/img/andrewstellman.jpg",
+            bio: "O'Reilly author, developer, architect, speaker, agile coach, project manager, general all-around expert in building better software",
+            company: "Stellman & Greene Consulting",
+            link: {
+                href: "http://twitter.com/AndrewStellman",
+                text: "@AndrewStellman"
+            },
+            presentation: []
+        },
+        {
             name: "Jason Hoffman",
             photo: "themes/stretchcon/img/jasonhoffman.jpg",
             bio: "Jason is the founder and CTO at Joyent, where he is responsible for overseeing the engineering, operations and product groups’ development and implementation of Joyent’s Cloud Computing technology. He is also responsible for research and advanced development, technical outreach, evangelism, consultative efforts for partners and business units, and manages Joyent’s intellectual property portfolio including involvement in open source projects, licensing, technology transfer, assessments of potential partnerships, mergers and acquisitions. His specialties include bioinformatics, grid computing, cloud computing, distributed systems, collaborative applications and deploying and scaling web applications.",
