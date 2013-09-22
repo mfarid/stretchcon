@@ -32,10 +32,10 @@ module.exports = {
       'about',
       'location',
       'speakers',
+      'tickets',
       'callforproposals',
       'programcommittee',
       // 'schedule',
-      'tickets',
       'sponsors',
       // 'partners'
       'contact'
