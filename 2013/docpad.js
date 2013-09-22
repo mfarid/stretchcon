@@ -35,6 +35,7 @@ module.exports = {
       'callforproposals',
       'programcommittee',
       // 'schedule',
+      'tickets',
       'sponsors',
       // 'partners'
       'contact'
@@ -48,6 +49,7 @@ module.exports = {
       callforproposals: "Call for Proposals",
       programcommittee: "Program Committee",
       schedule: "Schedule",
+      tickets: "Tickets",
       sponsors: "Sponsors",
       partners: "Partners",
       contact: "Contact"
