@@ -133,6 +133,17 @@ module.exports = {
                 text: "@RoyOsherove"
             },
             presentation: []
+        },
+        {
+            name: "Dario Nardi",
+            photo: "themes/stretchcon/img/darionardi.jpg",
+            bio: "<p>Dario Nardi, PhD is a research fellow and teaching award winner at University of California, Los Angeles. He also heads Radiance House, a books, media, and training company. Dario does hands-on brain research, conducts workshops around the world, and has authored numerous books on personality for organizational development including \"Neuroscience of Personality: Brain-Savvy Insights for All Types of People\". His background includes programming and game design.",
+            company: "Radiance House",
+            link: {
+                href: "http://twitter.com/DarioNardi22",
+                text: "@DarioNardi22"
+            },
+            presentation: []
         }
     ],
 
