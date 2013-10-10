@@ -71,7 +71,7 @@ module.exports = {
         {
             name: "Andrew Stellman",
             photo: "themes/stretchcon/img/andrewstellman.jpg",
-            bio: "<p>O'Reilly author, developer, architect, speaker, agile coach, project manager, general all-around expert in building better software</p>",
+            bio: "<p>Andrew is O'Reilly author (Beautiful Teams, Applied Software Project Management), developer, architect, speaker, agile coach, project manager, general all-around expert in building better software.</p>",
             company: "Stellman & Greene Consulting",
             link: {
                 href: "http://twitter.com/AndrewStellman",
