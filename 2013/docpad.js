@@ -149,7 +149,7 @@ module.exports = {
 
     programcommittee: [
         {
-            name: "Gábor Török, chair",
+            name: "Gábor Török, program chair",
             photo: "themes/stretchcon/img/gabortorok.jpg",
             bio: "I'm engineering manager at Prezi. I enjoy working in agile teams. I'm passionate about process improvements, continuous delivery and acceptance test driven development, and people management. I strongly believe knowledge belongs to everyone hence I regularly organise tech meetups in Budapest to help people share ideas.",
             company: "Prezi",
