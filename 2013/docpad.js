@@ -196,6 +196,11 @@ module.exports = {
         name: "InfoQ",
         logo: "themes/stretchcon/img/infoq.png",
         url: "http://infoq.com"
+      },
+      {
+        name: "Software Lead Weekly",
+        logo: "themes/stretchcon/img/softwareleadweekly.jpg",
+        url: "http://softwareleadweekly.com/"
       }
     ],
 
