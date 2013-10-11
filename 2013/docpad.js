@@ -181,7 +181,7 @@ module.exports = {
         {
             name: "Péter Halácsy",
             photo: "themes/stretchcon/img/peterhalacsy.jpg",
-            bio: "Today I'm CTO of Prezi.com which is a fast growing startup changing how people share ideas. What I'm doing? Building organization, stretching engineers, and coding in Haskell for a better life.",
+            bio: "I'm CTO and founder of Prezi, a fast growing startup changing how people share ideas.  I build the organization, stretch engineers, and code in Haskell for a better life. I care about entrepreneurship in Europe especially in Hungary. I believe that Budapest is going to be a one of the best places for high-tech startup.",
             company: "Prezi",
             link: {
                 href: "http://twitter.com/halacsy",
