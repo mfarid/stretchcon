@@ -37,7 +37,6 @@ module.exports = {
       'programcommittee',
       // 'schedule',
       'sponsors',
-      // 'partners'
       'contact'
     ],
 
@@ -51,7 +50,6 @@ module.exports = {
       schedule: "Schedule",
       tickets: "Tickets",
       sponsors: "Sponsors",
-      partners: "Partners",
       contact: "Contact"
     },
 
@@ -192,24 +190,14 @@ module.exports = {
 
     // List of Sponsors
     sponsors: [
-      {
-        name: "InfoQ",
-        logo: "themes/stretchcon/img/infoq.png",
-        url: "http://infoq.com"
-      },
-      {
-        name: "Software Lead Weekly",
-        logo: "themes/stretchcon/img/softwareleadweekly.jpg",
-        url: "http://softwareleadweekly.com/"
-      }
     ],
 
     // List of Partners
     partners: [
       {
-        name: "BrazilJS",
-        logo: "themes/yellow-swan/img/partner.png",
-        url: "http://braziljs.org"
+        name: "InfoQ",
+        logo: "themes/stretchcon/img/infoq.png",
+        url: "http://infoq.com"
       }
     ],
 
