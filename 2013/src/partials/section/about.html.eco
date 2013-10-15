@@ -1,5 +1,8 @@
 <p itemprop="description"><strong>First you grew. Now you lead. Join us at Stretch in Budapest this December and get inspired by stories from leads and founders of great organisations as they talk about the challenges of leadership and management.</strong></p>
 
+<div class="call-action-area">
+  <a href="/2013/#tickets" class="call-for-action" title="Get your Early Bird ticket now!">Get your Early Bird ticket for only <span class="price"><%= @conf.price %></span>!</a>
+</div>
 
 <p>Stretch will feature leads, founders, CTOs, and CEOs sharing their real world stories on their success and failure. They’ll talk about the challenges of building successful teams and scaling up organizations from 20 to 200. Get inspired by stories from companies that have been digital and agile from day one and hear how they managed to implement the language of change as well as establishing a culture of feedback.</p>
 
