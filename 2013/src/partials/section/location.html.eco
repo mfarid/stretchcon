@@ -7,3 +7,5 @@
 </p>
 
 <div id="map-canvas" class="location-area" data-address="<%= @conf.city %>, <%= @conf.state %>"></div>
+
+<iframe id="budapest-video" width="480" height="270" src="//www.youtube.com/embed/exYXYZqG_qo" frameborder="0" allowfullscreen></iframe>
