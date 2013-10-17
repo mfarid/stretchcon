@@ -8,12 +8,14 @@
                 var $this = $(this),
                 $htmlBody = $('html, body'),
                 linkTarget = $this.attr('href'),
+                linkSplits = linkTarget.split('#'),
                 offSetTop;
 
-                // If not start with #, stop here!
-                if (linkTarget[0] !== '#') {
+                // If no hashtag found, stop here!
+                if (linkSplits.length < 2) {
                     return false;
                 }
+                linkTarget = '#' + linkSplits[1];
 
                 event.preventDefault();
 
