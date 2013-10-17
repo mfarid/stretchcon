@@ -13,7 +13,7 @@
 
                 // If no hashtag found, stop here!
                 if (linkSplits.length < 2) {
-                    return false;
+                    return true;
                 }
                 linkTarget = '#' + linkSplits[1];
 
