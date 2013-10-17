@@ -6,6 +6,9 @@
         <a href="index.html#<%= section %>" title="<%= @labels[section] %>" class="nav-link"><%= @labels[section] %></a>
       </li>
     <% end %>
+    <li class="nav-item">
+      <a href="code-of-conduct.html" class="nav-link">Code of Conduct</a>
+    </li>
   </ul>
 </nav>
 
