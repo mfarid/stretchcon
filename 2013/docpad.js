@@ -165,6 +165,17 @@ module.exports = {
                 text: "@brendanmarsh"
             },
             presentation: []
+        },
+        {
+            name: "Sarah Novotny",
+            photo: "themes/stretchcon/img/sarahnovotny.jpg",
+            bio: "<p></p>",
+            company: "Meteor Entertainment",
+            link: {
+                href: "http://twitter.com/sarahnovotny",
+                text: "@sarahnovotny"
+            },
+            presentation: []
         }
     ],
 
