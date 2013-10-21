@@ -68,24 +68,13 @@ module.exports = {
             presentation: []
         },
         {
-            name: "Andrew Stellman",
-            photo: "themes/stretchcon/img/andrewstellman.jpg",
-            bio: "<p>Andrew is O'Reilly author (Beautiful Teams, Applied Software Project Management), developer, architect, speaker, agile coach, project manager, general all-around expert in building better software.</p>",
-            company: "Stellman & Greene Consulting",
+            name: "Oren Ellenbogen",
+            photo: "themes/stretchcon/img/orenellenbogen.jpg",
+            bio: "<p>Oren Ellenbogen is the curator of the successful newsletter SoftwareLeadWeekly and author of TeamLeadToolbox.</p><p>Oren is also an Engineer at Commerce Sciences (#2 employee), where he focuses on building the company's data infrastructure. Prior to Commerce Sciences, Oren served as Director of Engineering at Delver (acquired by Sears), where he was responsible for the development process, delivering kick-ass products and growing the next generation of Team Leads in his group.</p>",
+            company: "Commerce Sciences, Software Lead Weekly",
             link: {
-                href: "http://twitter.com/AndrewStellman",
-                text: "@AndrewStellman"
-            },
-            presentation: []
-        },
-        {
-            name: "Francois Mazoudier",
-            photo: "themes/stretchcon/img/francoismazoudier.jpg",
-            bio: "<p>Francois Mazoudier is the co-founder and Managing Partner of Tech Leaders Capital, a tech CEO co-investment club. He has 20 years+ experience in TMT (Technology, Media and Telecom), early stage Venture Capital and M&A.</p><p>He spent half of his career in operational roles (from product management to customer services to sales and marketing) then senior management functions, all within TMT firms. Examples include Central Point Software (sold to Symantec - Product Marketing), RealNetworks (IPO – Head of Marketing, founding team, from startup to IPO), The Cloud (WiFi operator network, sold to SKY CORP - Marketing Head) and PictureTel (Videoconferencing, Channel Marketing, Business Development - IPO, now Polycom).</p><p>He spent the second part of his career in Private Equity. He was the co-founder of Speed Ventures, a $100m pan-European seed stage Venture Capital firm backed by Soros Partners and Permira (sold in 2001), then helped VC funds with the operational turnaround of underperforming investments before setting up EQUATE, a specialist boutique advisory firm helping TMT firms through growth, funding and strategic transactions. Francois also remains a Venture Partner for LD&A, a pan-European tech M&A advisory and corporate finance firm.</p><p>Francois is an active advisor, board mentor and early stage investor.</p><p>Francois speaks French, English, German and some Spanish and has lived in even more countries; he holds a BA in Sales & Marketing from the University of Paris. He loves tennis, travel, epicurean pleasures and constant change. He hates stagnation, London’s weather, his total lack of work-life balance and pomp.</p>",
-            company: "EQUATE, LD&A",
-            link: {
-                href: "http://twitter.com/franco1s",
-                text: "@franco1s"
+                href: "http://twitter.com/orenellenbogen",
+                text: "@orenellenbogen"
             },
             presentation: []
         },
@@ -101,50 +90,6 @@ module.exports = {
             presentation: []
         },
         {
-            name: "Michael Lopp",
-            photo: "themes/stretchcon/img/michaellopp.jpg",
-            bio: "<p>Michael Lopp is a Silicon Valley-based engineering leader who builds both people and software at companies such as Borland, Netscape, Apple, and Palantir. While he's not worrying about staying relevant, he writes about pens, bridges, people, poker, and werewolves at the popular weblog, Rands in Repose.</p><p>Michael has written two books. \"Being Geek\" is a career handbook for geeks and nerds alike. His first book \"Managing Humans, 2nd Edition\" is a popular guide to the art of engineering leadership and clearly explains that while you might be rewarded for what you build, you will only be successful because of your people. </p><p>Michael surfs, plays hockey, and drinks red wine in the redwoods of Northern California whenever he can because staying sane is more important than staying busy.</p>",
-            company: "Palantir Technologies",
-            link: {
-                href: "http://twitter.com/rands",
-                text: "@rands"
-            },
-            presentation: []
-        },
-        {
-            name: "Oren Ellenbogen",
-            photo: "themes/stretchcon/img/orenellenbogen.jpg",
-            bio: "<p>Oren Ellenbogen is the curator of the successful newsletter SoftwareLeadWeekly and author of TeamLeadToolbox.</p><p>Oren is also an Engineer at Commerce Sciences (#2 employee), where he focuses on building the company's data infrastructure. Prior to Commerce Sciences, Oren served as Director of Engineering at Delver (acquired by Sears), where he was responsible for the development process, delivering kick-ass products and growing the next generation of Team Leads in his group.</p>",
-            company: "Commerce Sciences, Software Lead Weekly",
-            link: {
-                href: "http://twitter.com/orenellenbogen",
-                text: "@orenellenbogen"
-            },
-            presentation: []
-        },
-        {
-            name: "Roy Osherove",
-            photo: "themes/stretchcon/img/royosherove.jpg",
-            bio: "<p>Roy Osherove is a senior consultant at ITVerket, and the author of \"The Art Of Unit Testing\" and \"Notes to a software team leader\". He is also one of the original ALT.NET organizers. He consults and trains teams worldwide on the gentle art of unit testing, test-driven development and how to lead software teams. He frequently speaks at international conferences on these topics and others.</p>",
-            company: "ITVerket.no",
-            link: {
-                href: "http://twitter.com/RoyOsherove",
-                text: "@RoyOsherove"
-            },
-            presentation: []
-        },
-        {
-            name: "Dario Nardi",
-            photo: "themes/stretchcon/img/darionardi.jpg",
-            bio: "<p>Dario Nardi, PhD is a research fellow and teaching award winner at University of California, Los Angeles. He also heads Radiance House, a books, media, and training company. Dario does hands-on brain research, conducts workshops around the world, and has authored numerous books on personality for organizational development including \"Neuroscience of Personality: Brain-Savvy Insights for All Types of People\". His background includes programming and game design.</p>",
-            company: "Radiance House",
-            link: {
-                href: "http://twitter.com/DarioNardi22",
-                text: "@DarioNardi22"
-            },
-            presentation: []
-        },
-        {
             name: "Kristian Lindwall",
             photo: "themes/stretchcon/img/kristianlindwall.jpg",
             bio: "<p></p>",
@@ -152,6 +97,17 @@ module.exports = {
             link: {
                 href: "http://twitter.com/klindwall",
                 text: "@klindwall"
+            },
+            presentation: []
+        },
+        {
+            name: "Michael Lopp",
+            photo: "themes/stretchcon/img/michaellopp.jpg",
+            bio: "<p>Michael Lopp is a Silicon Valley-based engineering leader who builds both people and software at companies such as Borland, Netscape, Apple, and Palantir. While he's not worrying about staying relevant, he writes about pens, bridges, people, poker, and werewolves at the popular weblog, Rands in Repose.</p><p>Michael has written two books. \"Being Geek\" is a career handbook for geeks and nerds alike. His first book \"Managing Humans, 2nd Edition\" is a popular guide to the art of engineering leadership and clearly explains that while you might be rewarded for what you build, you will only be successful because of your people. </p><p>Michael surfs, plays hockey, and drinks red wine in the redwoods of Northern California whenever he can because staying sane is more important than staying busy.</p>",
+            company: "Palantir Technologies",
+            link: {
+                href: "http://twitter.com/rands",
+                text: "@rands"
             },
             presentation: []
         },
@@ -167,6 +123,28 @@ module.exports = {
             presentation: []
         },
         {
+            name: "Francois Mazoudier",
+            photo: "themes/stretchcon/img/francoismazoudier.jpg",
+            bio: "<p>Francois Mazoudier is the co-founder and Managing Partner of Tech Leaders Capital, a tech CEO co-investment club. He has 20 years+ experience in TMT (Technology, Media and Telecom), early stage Venture Capital and M&A.</p><p>He spent half of his career in operational roles (from product management to customer services to sales and marketing) then senior management functions, all within TMT firms. Examples include Central Point Software (sold to Symantec - Product Marketing), RealNetworks (IPO – Head of Marketing, founding team, from startup to IPO), The Cloud (WiFi operator network, sold to SKY CORP - Marketing Head) and PictureTel (Videoconferencing, Channel Marketing, Business Development - IPO, now Polycom).</p><p>He spent the second part of his career in Private Equity. He was the co-founder of Speed Ventures, a $100m pan-European seed stage Venture Capital firm backed by Soros Partners and Permira (sold in 2001), then helped VC funds with the operational turnaround of underperforming investments before setting up EQUATE, a specialist boutique advisory firm helping TMT firms through growth, funding and strategic transactions. Francois also remains a Venture Partner for LD&A, a pan-European tech M&A advisory and corporate finance firm.</p><p>Francois is an active advisor, board mentor and early stage investor.</p><p>Francois speaks French, English, German and some Spanish and has lived in even more countries; he holds a BA in Sales & Marketing from the University of Paris. He loves tennis, travel, epicurean pleasures and constant change. He hates stagnation, London’s weather, his total lack of work-life balance and pomp.</p>",
+            company: "EQUATE, LD&A",
+            link: {
+                href: "http://twitter.com/franco1s",
+                text: "@franco1s"
+            },
+            presentation: []
+        },
+        {
+            name: "Dario Nardi",
+            photo: "themes/stretchcon/img/darionardi.jpg",
+            bio: "<p>Dario Nardi, PhD is a research fellow and teaching award winner at University of California, Los Angeles. He also heads Radiance House, a books, media, and training company. Dario does hands-on brain research, conducts workshops around the world, and has authored numerous books on personality for organizational development including \"Neuroscience of Personality: Brain-Savvy Insights for All Types of People\". His background includes programming and game design.</p>",
+            company: "Radiance House",
+            link: {
+                href: "http://twitter.com/DarioNardi22",
+                text: "@DarioNardi22"
+            },
+            presentation: []
+        },
+        {
             name: "Sarah Novotny",
             photo: "themes/stretchcon/img/sarahnovotny.jpg",
             bio: "<p></p>",
@@ -174,6 +152,28 @@ module.exports = {
             link: {
                 href: "http://twitter.com/sarahnovotny",
                 text: "@sarahnovotny"
+            },
+            presentation: []
+        },
+        {
+            name: "Roy Osherove",
+            photo: "themes/stretchcon/img/royosherove.jpg",
+            bio: "<p>Roy Osherove is a senior consultant at ITVerket, and the author of \"The Art Of Unit Testing\" and \"Notes to a software team leader\". He is also one of the original ALT.NET organizers. He consults and trains teams worldwide on the gentle art of unit testing, test-driven development and how to lead software teams. He frequently speaks at international conferences on these topics and others.</p>",
+            company: "ITVerket.no",
+            link: {
+                href: "http://twitter.com/RoyOsherove",
+                text: "@RoyOsherove"
+            },
+            presentation: []
+        },
+        {
+            name: "Andrew Stellman",
+            photo: "themes/stretchcon/img/andrewstellman.jpg",
+            bio: "<p>Andrew is O'Reilly author (Beautiful Teams, Applied Software Project Management), developer, architect, speaker, agile coach, project manager, general all-around expert in building better software.</p>",
+            company: "Stellman & Greene Consulting",
+            link: {
+                href: "http://twitter.com/AndrewStellman",
+                text: "@AndrewStellman"
             },
             presentation: []
         }
