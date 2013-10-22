@@ -92,7 +92,7 @@ module.exports = {
         {
             name: "Kristian Lindwall",
             photo: "themes/stretchcon/img/kristianlindwall.jpg",
-            bio: "<p></p>",
+            bio: "<p>Kristian is a Chapter Lead and Agile Coach at Spotify. Kristian has been coaching agile teams for the last 5 years, he is an experienced scrum master, agile coach and development manager.</p>",
             company: "Spotify",
             link: {
                 href: "http://twitter.com/klindwall",
@@ -114,7 +114,7 @@ module.exports = {
         {
             name: "Brendan Marsh",
             photo: "themes/stretchcon/img/brendanmarsh.jpg",
-            bio: "<p></p>",
+            bio: "<p>Brendan is an Agile Coach in the Infrastructure &amp; Operations tribe at Spotify. An Australian expat, Brendan now lives in Stockholm and coaches teams that build and maintain Spotify's big data infrastructure. Brendan has been coaching &amp; growing teams for the past 5 years.</p>",
             company: "Spotify",
             link: {
                 href: "http://twitter.com/brendanmarsh",
