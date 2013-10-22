@@ -147,7 +147,7 @@ module.exports = {
         {
             name: "Sarah Novotny",
             photo: "themes/stretchcon/img/sarahnovotny.jpg",
-            bio: "<p></p>",
+            bio: "<p>Sarah Novotny has recently resigned in order to pursue some personal projects.  She was most recently the CIO for Meteor Entertainment. Novotny has run large scale technology infrastructures as a Systems Engineer and a Database administrator for Amazon.com and the ill fated Ads.com.  In 2001, she founded Blue Gecko, a remote database administration company with two peers from Amazon. Blue Gecko, was sold to DatAvail in 2012. </p><p>Novotny regularly talks about technology infrastructure and geek lifestyle.  She is additionally a program chair for O'Reilly Media's OSCON.   Her technology writing and adventures as well as her more esoteric musings are found at <a href=\"http://sarahnovotny.com\">http://sarahnovotny.com</a>.</p>",
             company: "Meteor Entertainment",
             link: {
                 href: "http://twitter.com/sarahnovotny",
