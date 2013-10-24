@@ -13,8 +13,8 @@ module.exports = {
       description: "Join us at Stretch in Budapest this December and get inspired by stories from leads and founders of great organisations as they talk about the challenges of leadership and management.",
       date: "December 5-6, 2013",
       price: "$210",
-//      venue: "Coco Bongo",
-//      address: "Boulevard Kukulcan, 30",
+      venue: "Uránia National Film Theatre",
+      address: "1088 Rákóczi Way 21",
       city: "Budapest",
       state: "Hungary"
     },
