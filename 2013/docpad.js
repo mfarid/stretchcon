@@ -174,6 +174,17 @@ module.exports = {
                 text: "@AndrewStellman"
             },
             presentation: []
+        },
+        {
+            name: "Alexander Grosse",
+            photo: "themes/stretchcon/img/alexandergrosse.jpg",
+            bio: "<p>Alexander is currently VP Engineering at SoundCloud, the world’s leading social sound platform. Before SoundCloud he worked as R&amp;D director at Nokia, where he headed Places Development at Nokia’s Location Services and had overall responsibility for the Operations department. Alexander has worked in a wide range of positions (Development, Consulting, CTO) in the software industry since 1996, including co-founding two start-ups.He holds a Masters in computer science from the University of Oldenburg and an Executive MBA from FOM Berlin. Besides computer science Alexander works(ed) as a techno DJ in Berlin’s party scene.</p>",
+            company: "SoundCloud",
+            link: {
+                href: "http://twitter.com/klangberater",
+                text: "@klangberater"
+            },
+            presentation: []
         }
     ],
 
