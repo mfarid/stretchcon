@@ -246,6 +246,11 @@ module.exports = {
         name: "Software Lead Weekly",
         logo: "themes/stretchcon/img/softwareleadweekly.jpg",
         url: "http://softwareleadweekly.com/"
+      },
+      {
+        name: "ComputerWorld Számítástechnika",
+        logo: "themes/stretchcon/img/computerworld.jpg",
+        url: "http://http://computerworld.hu/"
       }
     ],
 
