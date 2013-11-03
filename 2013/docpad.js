@@ -55,6 +55,17 @@ module.exports = {
     // The entire schedule
     schedule: [
         {
+            name: "Annemie Ress",
+            photo: "themes/stretchcon/img/annemieress.jpg",
+            bio: "<p>Annemie Ress is the Founder of PurpleBeach, which is a forum that encourages diversity of thinking and promotes the topic of people innovation. Accepting that innovation in business is underpinned by people, PurpleBeach acts as catalyst for change at the intersection between business and people.</p><p>Annemie has wide ranging experience in designing and implementing significant organizational change and transformation in multi-national businesses including: innovation and people and focusing on future trends as they specifically impact leadership, talent, culture, diversity and complexity.</p>",
+            company: "Purple Beach",
+            link: {
+                href: "",
+                text: ""
+            },
+            presentation: []
+        },
+        {
             name: "Andreas Ehn",
             photo: "themes/stretchcon/img/andreasehn.jpg",
             bio: "<p>Andreas is Wrapp's co-founder and chief technology officer (CTO). Previously he was Spotify’s first employee and CTO, where he brought together the world-class tech team that designed and built the platform and product for the music service. Before that he worked for the Swedish online-gaming company Stardoll. Andreas is a board member and angel investor in several companies, and he is frequently hired as an advisor by promising Internet start-ups and venture capital funds.</p>",
