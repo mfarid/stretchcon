@@ -178,7 +178,7 @@ module.exports = {
         {
             name: "Andrew Stellman",
             photo: "themes/stretchcon/img/andrewstellman.jpg",
-            bio: "<p>Andrew is O'Reilly author (Beautiful Teams, Applied Software Project Management), developer, architect, speaker, agile coach, project manager, general all-around expert in building better software.</p>",
+            bio: "<p>Andrew is a bestselling O'Reilly author (Beautiful Teams, Head First C#, Head First PMP, Applied Software Project Management), developer, architect, speaker, agile coach, project manager, and general all-around expert in building better software. He has been a Vice President at a major investment bank, architected large-scale real-time back end systems, managed large international software teams, and consulted for companies, schools, and organizations, including Microsoft, the National Bureau of Economic Research, and MIT. He’s had the privilege of working with some pretty amazing programmers during that time, and likes to think that he’s learned a few things from them. Andrew's upcoming book, \"Learning Agile\", will be published by O'Reilly in early 2014.</p>",
             company: "Stellman & Greene Consulting",
             link: {
                 href: "http://twitter.com/AndrewStellman",
