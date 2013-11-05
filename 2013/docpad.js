@@ -177,8 +177,8 @@ module.exports = {
         },
         {
             name: "Andrew Clay Shafer",
-            photo: "",
-            bio: "<p></p>",
+            photo: "themes/stretchcon/img/andrewclayshafer.jpg",
+            bio: "<p>Andrew Shafer is a lead engineer and infrastructure consultant at Cloudscaling where he helps organizations leverage and create next generation cloud computing resources and platforms.</p><p>Andrew brings with him a background in computational science, embedded Linux, database administration, web frameworks, and operations. In addition to technical expertise, Andrew focuses on helping organizations navigate the technology Renaissance triple point between people, process and tools.</p>",
             company: "Parvus Captus",
             link: {
                 href: "http://twitter.com/littleidea",
