@@ -32,10 +32,10 @@ module.exports = {
     sections: [
       'about',
       'location',
+      'schedule',
       'speakers',
       'tickets',
       'programcommittee',
-      // 'schedule',
       'sponsors',
       'contact'
     ],
@@ -63,7 +63,9 @@ module.exports = {
                 href: "",
                 text: ""
             },
-            presentation: []
+            presentation: {
+                description: "<i>Coming soon</i>"
+            }
         },
         {
             name: "Andreas Ehn",
@@ -74,7 +76,9 @@ module.exports = {
                 href: "http://twitter.com/ehn",
                 text: "@ehn"
             },
-            presentation: []
+            presentation: {
+                description: "<i>Coming soon</i>"
+            }
         },
         {
             name: "Oren Ellenbogen",
@@ -85,7 +89,9 @@ module.exports = {
                 href: "http://twitter.com/orenellenbogen",
                 text: "@orenellenbogen"
             },
-            presentation: []
+            presentation: {
+                description: "<i>Coming soon</i>"
+            }
         },
         {
             name: "Jason Hoffman",
@@ -96,7 +102,9 @@ module.exports = {
                 href: "http://twitter.com/jasonh",
                 text: "@jasonh"
             },
-            presentation: []
+            presentation: {
+                description: "<i>Coming soon</i>"
+            }
         },
         {
             name: "Kristian Lindwall",
@@ -107,7 +115,9 @@ module.exports = {
                 href: "http://twitter.com/klindwall",
                 text: "@klindwall"
             },
-            presentation: []
+            presentation: {
+                description: "<i>Coming soon</i>"
+            }
         },
         {
             name: "Michael Lopp",
@@ -118,7 +128,9 @@ module.exports = {
                 href: "http://twitter.com/rands",
                 text: "@rands"
             },
-            presentation: []
+            presentation: {
+                description: "<i>Coming soon</i>"
+            }
         },
         {
             name: "Brendan Marsh",
@@ -129,7 +141,9 @@ module.exports = {
                 href: "http://twitter.com/brendanmarsh",
                 text: "@brendanmarsh"
             },
-            presentation: []
+            presentation: {
+                description: "<i>Coming soon</i>"
+            }
         },
         {
             name: "Francois Mazoudier",
@@ -140,7 +154,9 @@ module.exports = {
                 href: "http://twitter.com/franco1s",
                 text: "@franco1s"
             },
-            presentation: []
+            presentation: {
+                description: "<i>Coming soon</i>"
+            }
         },
         {
             name: "Dario Nardi",
@@ -151,7 +167,9 @@ module.exports = {
                 href: "http://twitter.com/DarioNardi22",
                 text: "@DarioNardi22"
             },
-            presentation: []
+            presentation: {
+                description: "<i>Coming soon</i>"
+            }
         },
         {
             name: "Sarah Novotny",
@@ -162,7 +180,9 @@ module.exports = {
                 href: "http://twitter.com/sarahnovotny",
                 text: "@sarahnovotny"
             },
-            presentation: []
+            presentation: {
+                description: "<i>Coming soon</i>"
+            }
         },
         {
             name: "Roy Osherove",
@@ -173,7 +193,9 @@ module.exports = {
                 href: "http://twitter.com/RoyOsherove",
                 text: "@RoyOsherove"
             },
-            presentation: []
+            presentation: {
+                description: "<i>Coming soon</i>"
+            }
         },
         {
             name: "Andrew Clay Shafer",
@@ -184,7 +206,9 @@ module.exports = {
                 href: "http://twitter.com/littleidea",
                 text: "@littleidea"
             },
-            presentation: []
+            presentation: {
+                description: "<i>Coming soon</i>"
+            }
         },
         {
             name: "Andrew Stellman",
@@ -195,7 +219,9 @@ module.exports = {
                 href: "http://twitter.com/AndrewStellman",
                 text: "@AndrewStellman"
             },
-            presentation: []
+            presentation: {
+                description: "<i>Coming soon</i>"
+            }
         },
         {
             name: "Alexander Grosse",
@@ -206,7 +232,9 @@ module.exports = {
                 href: "http://twitter.com/klangberater",
                 text: "@klangberater"
             },
-            presentation: []
+            presentation: {
+                description: "<i>Coming soon</i>"
+            }
         }
     ],
 
