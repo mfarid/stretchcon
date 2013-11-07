@@ -220,7 +220,8 @@ module.exports = {
                 text: "@AndrewStellman"
             },
             presentation: {
-                description: "<i>Coming soon</i>"
+                title: "Great teams start with great people, goals, and practices... but is that enough?",
+                description: "What makes great teams great? What brings them together to build great products? Ask a product manager and a project manager, and you'll get two different answers. Ask a hardcore developer and a team lead and you'll get two more. Great teams start with great people, with leaders and visionaries who set challenging and elevating goals, and tough-minded organizers who choose the right practices to build quality software. But is this enough to make a great product? What does it take to make a team gel into a truly collaborative mindset? Find out how great teams are built in this engaging talk from the bestselling O'Reilly author of <i>Beautiful Teams</i>."
             }
         },
         {
