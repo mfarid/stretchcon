@@ -55,6 +55,21 @@ module.exports = {
     // The entire schedule
     schedule: [
         {
+            anchor: "AndrewStellman",
+            name: "Andrew Stellman",
+            photo: "themes/stretchcon/img/andrewstellman.jpg",
+            bio: "<p>Andrew is a bestselling O'Reilly author (Beautiful Teams, Head First C#, Head First PMP, Applied Software Project Management), developer, architect, speaker, agile coach, project manager, and general all-around expert in building better software. He has been a Vice President at a major investment bank, architected large-scale real-time back end systems, managed large international software teams, and consulted for companies, schools, and organizations, including Microsoft, the National Bureau of Economic Research, and MIT. He’s had the privilege of working with some pretty amazing programmers during that time, and likes to think that he’s learned a few things from them. Andrew's upcoming book, \"Learning Agile\", will be published by O'Reilly in early 2014.</p>",
+            company: "Bestselling O'Reilly Author",
+            link: {
+                href: "http://twitter.com/AndrewStellman",
+                text: "@AndrewStellman"
+            },
+            presentation: {
+                title: "Great teams start with great people, goals, and practices... but is that enough?",
+                description: "What makes great teams great? What brings them together to build great products? Ask a product manager and a project manager, and you'll get two different answers. Ask a hardcore developer and a team lead and you'll get two more. Great teams start with great people, with leaders and visionaries who set challenging and elevating goals, and tough-minded organizers who choose the right practices to build quality software. But is this enough to make a great product? What does it take to make a team gel into a truly collaborative mindset? Find out how great teams are built in this engaging talk from the bestselling O'Reilly author of <i>Beautiful Teams</i>."
+            }
+        },
+        {
             anchor: "AnnemieRess",
             name: "Annemie Ress",
             photo: "themes/stretchcon/img/annemieress.jpg",
@@ -220,21 +235,6 @@ module.exports = {
             },
             presentation: {
                 description: "<i>Coming soon</i>"
-            }
-        },
-        {
-            anchor: "AndrewStellman",
-            name: "Andrew Stellman",
-            photo: "themes/stretchcon/img/andrewstellman.jpg",
-            bio: "<p>Andrew is a bestselling O'Reilly author (Beautiful Teams, Head First C#, Head First PMP, Applied Software Project Management), developer, architect, speaker, agile coach, project manager, and general all-around expert in building better software. He has been a Vice President at a major investment bank, architected large-scale real-time back end systems, managed large international software teams, and consulted for companies, schools, and organizations, including Microsoft, the National Bureau of Economic Research, and MIT. He’s had the privilege of working with some pretty amazing programmers during that time, and likes to think that he’s learned a few things from them. Andrew's upcoming book, \"Learning Agile\", will be published by O'Reilly in early 2014.</p>",
-            company: "Bestselling O'Reilly Author",
-            link: {
-                href: "http://twitter.com/AndrewStellman",
-                text: "@AndrewStellman"
-            },
-            presentation: {
-                title: "Great teams start with great people, goals, and practices... but is that enough?",
-                description: "What makes great teams great? What brings them together to build great products? Ask a product manager and a project manager, and you'll get two different answers. Ask a hardcore developer and a team lead and you'll get two more. Great teams start with great people, with leaders and visionaries who set challenging and elevating goals, and tough-minded organizers who choose the right practices to build quality software. But is this enough to make a great product? What does it take to make a team gel into a truly collaborative mindset? Find out how great teams are built in this engaging talk from the bestselling O'Reilly author of <i>Beautiful Teams</i>."
             }
         },
         {
