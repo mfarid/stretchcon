@@ -273,6 +273,11 @@ module.exports = {
         name: "ComputerWorld Számítástechnika",
         logo: "themes/stretchcon/img/computerworld.jpg",
         url: "http://http://computerworld.hu/"
+      },
+      {
+        name: "Technology Leadership News",
+        logo: "themes/stretchcon/img/techleadershipnews.png",
+        url: "http://www.techleadershipnews.com/"
       }
     ],
 
