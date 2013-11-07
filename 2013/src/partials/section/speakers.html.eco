@@ -11,16 +11,18 @@
         </span>
       <% end %>
 
-      <h3 class="speech-title">
+      <h3 class="speakers-name"><%= speaker.name %> <% if speaker.link: %><a href="<%= speaker.link.href %>" title="<%= speaker.link.text %>"><%= speaker.link.text %></a><% end %></h3>
+      <p class="speakers-company"><%= speaker.company %></p>
+      <div class="speakers-bio"><%- speaker.bio %></div>
+
+      <a href="#schedule/<%= speaker.anchor %>">
+        <h3 class="speech-title">
         <% if speaker.presentation.time: %>
           <span class="speech-time"><%= speaker.presentation.time %></span>
         <% end %>
           <span> <%= speaker.presentation.title %></span>
-      </h3>
-
-      <h3 class="speakers-name"><%= speaker.name %> <% if speaker.link: %><a href="<%= speaker.link.href %>" title="<%= speaker.link.text %>"><%= speaker.link.text %></a><% end %></h3>
-      <p class="speakers-company"><%= speaker.company %></p>
-      <div class="speakers-bio"><%- speaker.bio %></div>
+        </h3>
+      </a>
     </li>
   <% end %>
 <% end %>

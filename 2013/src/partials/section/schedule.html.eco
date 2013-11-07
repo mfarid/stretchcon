@@ -15,12 +15,12 @@
 
       <% for slot in @schedule: %>
         <% if slot.presentation: %>
-          <tr>
+          <tr id="schedule/<%= slot.anchor %>">
             <!-- <td class="schedule-time"><%= slot.presentation.time %></td> -->
             <td class="schedule-slot">
             <% if slot.photo: %>
               <a href="#speakers/<%= slot.anchor %>"><span class="speaker-photo">
-                <img class="photo" src="<%= slot.photo %>" alt="<%= slot.name %>">
+                <img class="photo" src="<%= slot.photo %>" alt="<%= slot.name %>" title="<%= slot.name %>">
               </span></a>
             <% end %>
             <% if slot.presentation.title: %>
