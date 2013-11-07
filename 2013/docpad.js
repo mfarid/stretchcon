@@ -275,9 +275,9 @@ module.exports = {
         url: "http://http://computerworld.hu/"
       },
       {
-        name: "Technology Leadership News",
-        logo: "themes/stretchcon/img/techleadershipnews.png",
-        url: "http://www.techleadershipnews.com/"
+        name: "popforms",
+        logo: "themes/stretchcon/img/popforms_logo.png",
+        url: "https://popforms.com/"
       }
     ],
 
