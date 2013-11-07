@@ -55,6 +55,7 @@ module.exports = {
     // The entire schedule
     schedule: [
         {
+            anchor: "AnnemieRess",
             name: "Annemie Ress",
             photo: "themes/stretchcon/img/annemieress.jpg",
             bio: "<p>Annemie Ress is the Founder of PurpleBeach, which is a forum that encourages diversity of thinking and promotes the topic of people innovation. Accepting that innovation in business is underpinned by people, PurpleBeach acts as catalyst for change at the intersection between business and people.</p><p>Annemie has wide ranging experience in designing and implementing significant organizational change and transformation in multi-national businesses including: innovation and people and focusing on future trends as they specifically impact leadership, talent, culture, diversity and complexity.</p>",
@@ -68,6 +69,7 @@ module.exports = {
             }
         },
         {
+            anchor: "AndreasEhn",
             name: "Andreas Ehn",
             photo: "themes/stretchcon/img/andreasehn.jpg",
             bio: "<p>Andreas is Wrapp's co-founder and chief technology officer (CTO). Previously he was Spotify’s first employee and CTO, where he brought together the world-class tech team that designed and built the platform and product for the music service. Before that he worked for the Swedish online-gaming company Stardoll. Andreas is a board member and angel investor in several companies, and he is frequently hired as an advisor by promising Internet start-ups and venture capital funds.</p>",
@@ -81,6 +83,7 @@ module.exports = {
             }
         },
         {
+            anchor: "OrenEllenbogen",
             name: "Oren Ellenbogen",
             photo: "themes/stretchcon/img/orenellenbogen.jpg",
             bio: "<p>Oren Ellenbogen is the curator of the successful newsletter SoftwareLeadWeekly and author of TeamLeadToolbox.</p><p>Oren is also an Engineer at Commerce Sciences (#2 employee), where he focuses on building the company's data infrastructure. Prior to Commerce Sciences, Oren served as Director of Engineering at Delver (acquired by Sears), where he was responsible for the development process, delivering kick-ass products and growing the next generation of Team Leads in his group.</p>",
@@ -94,6 +97,7 @@ module.exports = {
             }
         },
         {
+            anchor: "JasonHoffman",
             name: "Jason Hoffman",
             photo: "themes/stretchcon/img/jasonhoffman.jpg",
             bio: "<p>Jason is the founder and CTO at Joyent, where he is responsible for overseeing the engineering, operations and product groups’ development and implementation of Joyent’s Cloud Computing technology. He is also responsible for research and advanced development, technical outreach, evangelism, consultative efforts for partners and business units, and manages Joyent’s intellectual property portfolio including involvement in open source projects, licensing, technology transfer, assessments of potential partnerships, mergers and acquisitions. His specialties include bioinformatics, grid computing, cloud computing, distributed systems, collaborative applications and deploying and scaling web applications.</p>",
@@ -107,6 +111,7 @@ module.exports = {
             }
         },
         {
+            anchor: "KristianLindwall",
             name: "Kristian Lindwall",
             photo: "themes/stretchcon/img/kristianlindwall.jpg",
             bio: "<p>Kristian is a Chapter Lead and Agile Coach at Spotify. Kristian has been coaching agile teams for the last 5 years, he is an experienced scrum master, agile coach and development manager.</p>",
@@ -120,6 +125,7 @@ module.exports = {
             }
         },
         {
+            anchor: "MichaelLopp",
             name: "Michael Lopp",
             photo: "themes/stretchcon/img/michaellopp.jpg",
             bio: "<p>Michael Lopp is a Silicon Valley-based engineering leader who builds both people and software at companies such as Borland, Netscape, Apple, and Palantir. While he's not worrying about staying relevant, he writes about pens, bridges, people, poker, and werewolves at the popular weblog, Rands in Repose.</p><p>Michael has written two books. \"Being Geek\" is a career handbook for geeks and nerds alike. His first book \"Managing Humans, 2nd Edition\" is a popular guide to the art of engineering leadership and clearly explains that while you might be rewarded for what you build, you will only be successful because of your people. </p><p>Michael surfs, plays hockey, and drinks red wine in the redwoods of Northern California whenever he can because staying sane is more important than staying busy.</p>",
@@ -133,6 +139,7 @@ module.exports = {
             }
         },
         {
+            anchor: "BrendanMarsh",
             name: "Brendan Marsh",
             photo: "themes/stretchcon/img/brendanmarsh.jpg",
             bio: "<p>Brendan is an Agile Coach in the Infrastructure &amp; Operations tribe at Spotify. An Australian expat, Brendan now lives in Stockholm and coaches teams that build and maintain Spotify's big data infrastructure. Brendan has been coaching &amp; growing teams for the past 5 years.</p>",
@@ -146,6 +153,7 @@ module.exports = {
             }
         },
         {
+            anchor: "FrancoisMazoudier",
             name: "Francois Mazoudier",
             photo: "themes/stretchcon/img/francoismazoudier.jpg",
             bio: "<p>Francois Mazoudier is the co-founder and Managing Partner of Tech Leaders Capital, a tech CEO co-investment club. He has 20 years+ experience in TMT (Technology, Media and Telecom), early stage Venture Capital and M&amp;A.</p><p>He spent half of his career in operational roles (from product management to customer services to sales and marketing) then senior management functions, all within TMT firms. Examples include Central Point Software (sold to Symantec - Product Marketing), RealNetworks (IPO – Head of Marketing, founding team, from startup to IPO), The Cloud (WiFi operator network, sold to SKY CORP - Marketing Head) and PictureTel (Videoconferencing, Channel Marketing, Business Development - IPO, now Polycom).</p><p>He spent the second part of his career in Private Equity. He was the co-founder of Speed Ventures, a $100m pan-European seed stage Venture Capital firm backed by Soros Partners and Permira (sold in 2001), then helped VC funds with the operational turnaround of underperforming investments before setting up EQUATE, a specialist boutique advisory firm helping TMT firms through growth, funding and strategic transactions. Francois also remains a Venture Partner for LD&amp;A, a pan-European tech M&amp;A advisory and corporate finance firm.</p><p>Francois is an active advisor, board mentor and early stage investor.</p><p>Francois speaks French, English, German and some Spanish and has lived in even more countries; he holds a BA in Sales &amp; Marketing from the University of Paris. He loves tennis, travel, epicurean pleasures and constant change. He hates stagnation, London’s weather, his total lack of work-life balance and pomp.</p>",
@@ -159,6 +167,7 @@ module.exports = {
             }
         },
         {
+            anchor: "DarioNardi",
             name: "Dario Nardi",
             photo: "themes/stretchcon/img/darionardi.jpg",
             bio: "<p>Dario Nardi, PhD is a research fellow and teaching award winner at University of California, Los Angeles. He also heads Radiance House, a books, media, and training company. Dario does hands-on brain research, conducts workshops around the world, and has authored numerous books on personality for organizational development including \"Neuroscience of Personality: Brain-Savvy Insights for All Types of People\". His background includes programming and game design.</p>",
@@ -172,6 +181,7 @@ module.exports = {
             }
         },
         {
+            anchor: "SarahNovotny",
             name: "Sarah Novotny",
             photo: "themes/stretchcon/img/sarahnovotny.jpg",
             bio: "<p>Sarah Novotny has recently resigned in order to pursue some personal projects.  She was most recently the CIO for Meteor Entertainment. Novotny has run large scale technology infrastructures as a Systems Engineer and a Database administrator for Amazon.com and the ill fated Ads.com.  In 2001, she founded Blue Gecko, a remote database administration company with two peers from Amazon. Blue Gecko, was sold to DatAvail in 2012. </p><p>Novotny regularly talks about technology infrastructure and geek lifestyle.  She is additionally a program chair for O'Reilly Media's OSCON.   Her technology writing and adventures as well as her more esoteric musings are found at <a href=\"http://sarahnovotny.com\">http://sarahnovotny.com</a>.</p>",
@@ -185,6 +195,7 @@ module.exports = {
             }
         },
         {
+            anchor: "RoyOsherove",
             name: "Roy Osherove",
             photo: "themes/stretchcon/img/royosherove.jpg",
             bio: "<p>Roy Osherove is a senior consultant at ITVerket, and the author of \"The Art Of Unit Testing\" and \"Notes to a software team leader\". He is also one of the original ALT.NET organizers. He consults and trains teams worldwide on the gentle art of unit testing, test-driven development and how to lead software teams. He frequently speaks at international conferences on these topics and others.</p>",
@@ -198,6 +209,7 @@ module.exports = {
             }
         },
         {
+            anchor: "AndrewClayShafer",
             name: "Andrew Clay Shafer",
             photo: "themes/stretchcon/img/andrewclayshafer.jpg",
             bio: "<p>Andrew Shafer is a lead engineer and infrastructure consultant at Cloudscaling where he helps organizations leverage and create next generation cloud computing resources and platforms.</p><p>Andrew brings with him a background in computational science, embedded Linux, database administration, web frameworks, and operations. In addition to technical expertise, Andrew focuses on helping organizations navigate the technology Renaissance triple point between people, process and tools.</p>",
@@ -211,6 +223,7 @@ module.exports = {
             }
         },
         {
+            anchor: "AndrewStellman",
             name: "Andrew Stellman",
             photo: "themes/stretchcon/img/andrewstellman.jpg",
             bio: "<p>Andrew is a bestselling O'Reilly author (Beautiful Teams, Head First C#, Head First PMP, Applied Software Project Management), developer, architect, speaker, agile coach, project manager, and general all-around expert in building better software. He has been a Vice President at a major investment bank, architected large-scale real-time back end systems, managed large international software teams, and consulted for companies, schools, and organizations, including Microsoft, the National Bureau of Economic Research, and MIT. He’s had the privilege of working with some pretty amazing programmers during that time, and likes to think that he’s learned a few things from them. Andrew's upcoming book, \"Learning Agile\", will be published by O'Reilly in early 2014.</p>",
@@ -225,6 +238,7 @@ module.exports = {
             }
         },
         {
+            anchor: "AlexanderGrosse",
             name: "Alexander Grosse",
             photo: "themes/stretchcon/img/alexandergrosse.jpg",
             bio: "<p>Alexander is currently VP Engineering at SoundCloud, the world’s leading social sound platform. Before SoundCloud he worked as R&amp;D director at Nokia, where he headed Places Development at Nokia’s Location Services and had overall responsibility for the Operations department. Alexander has worked in a wide range of positions (Development, Consulting, CTO) in the software industry since 1996, including co-founding two start-ups.He holds a Masters in computer science from the University of Oldenburg and an Executive MBA from FOM Berlin. Besides computer science Alexander works(ed) as a techno DJ in Berlin’s party scene.</p>",

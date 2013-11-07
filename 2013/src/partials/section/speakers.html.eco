@@ -3,7 +3,8 @@
 <ul class="speakers-list">
 <% for speaker in @schedule: %>
   <% if speaker.presentation: %>
-    <li class="speakers-item" itemprop="performer" itemscope itemtype="http://schema.org/Person">
+    <li class="speakers-item" itemprop="performer" itemscope itemtype="http://schema.org/Person"
+        id="speakers/<%= speaker.anchor %>">
       <% if speaker.photo: %>
         <span class="speaker-photo">
           <img class="photo" src="<%= speaker.photo %>" alt="<%= speaker.name %>" itemprop="image">

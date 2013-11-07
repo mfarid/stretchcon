@@ -19,9 +19,9 @@
             <!-- <td class="schedule-time"><%= slot.presentation.time %></td> -->
             <td class="schedule-slot">
             <% if slot.photo: %>
-              <span class="speaker-photo">
+              <a href="#speakers/<%= slot.anchor %>"><span class="speaker-photo">
                 <img class="photo" src="<%= slot.photo %>" alt="<%= slot.name %>">
-              </span>
+              </span></a>
             <% end %>
             <% if slot.presentation.title: %>
             <p><%= slot.presentation.title %></p>
