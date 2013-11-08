@@ -85,6 +85,21 @@ module.exports = {
             }
         },
         {
+            anchor: "BrendanMarsh",
+            name: "Brendan Marsh",
+            photo: "themes/stretchcon/img/brendanmarsh.jpg",
+            bio: "<p>Brendan is an Agile Coach in the Infrastructure &amp; Operations tribe at Spotify. An Australian expat, Brendan now lives in Stockholm and coaches teams that build and maintain Spotify's big data infrastructure. Brendan has been coaching &amp; growing teams for the past 5 years.</p>",
+            company: "Spotify",
+            link: {
+                href: "http://twitter.com/brendanmarsh",
+                text: "@brendanmarsh"
+            },
+            presentation: {
+                title: "How Agile Coaches help us win—the Agile Coach role at Spotify",
+                description: "At Spotify, we believe that we will win if we can iterate on our product faster than the competition. If we can build our product faster, we can learn faster and thus improve &amp; grow as a company faster than our competitors. We are growing rapidly to make this happen, but how do we ensure that our development teams are happy, high performing and constantly improving? How do we share these learnings with the rest of the business? One of the crucial roles in this endeavour are our Agile Coaches. In this talk, we will present what we believe an Agile Coach is, give some insight into the daily life of an Agile Coach at Spotify &amp; explain why we believe that Agile Coaches help us win."
+            }
+        },
+        {
             anchor: "AnnemieRess",
             name: "Annemie Ress",
             photo: "themes/stretchcon/img/annemieress.jpg",
@@ -166,21 +181,6 @@ module.exports = {
             },
             presentation: {
                 description: "<i>Coming soon</i>"
-            }
-        },
-        {
-            anchor: "BrendanMarsh",
-            name: "Brendan Marsh",
-            photo: "themes/stretchcon/img/brendanmarsh.jpg",
-            bio: "<p>Brendan is an Agile Coach in the Infrastructure &amp; Operations tribe at Spotify. An Australian expat, Brendan now lives in Stockholm and coaches teams that build and maintain Spotify's big data infrastructure. Brendan has been coaching &amp; growing teams for the past 5 years.</p>",
-            company: "Spotify",
-            link: {
-                href: "http://twitter.com/brendanmarsh",
-                text: "@brendanmarsh"
-            },
-            presentation: {
-                title: "How Agile Coaches help us win—the Agile Coach Role @ Spotify"
-                description: "At Spotify, we believe that we will win if we can iterate on our product faster than the competition. If we can build our product faster, we can learn faster and thus improve &amp; grow as a company faster than our competitors. We are growing rapidly to make this happen, but how do we ensure that our development teams are happy, high performing and constantly improving? How do we share these learnings with the rest of the business? One of the crucial roles in this endeavour are our Agile Coaches. In this talk, we will present what we believe an Agile Coach is, give some insight into the daily life of an Agile Coach at Spotify &amp; explain why we believe that Agile Coaches help us win."
             }
         },
         {
