@@ -227,14 +227,15 @@ module.exports = {
             anchor: "AndrewClayShafer",
             name: "Andrew Clay Shafer",
             photo: "themes/stretchcon/img/andrewclayshafer.jpg",
-            bio: "<p>Andrew Shafer is a lead engineer and infrastructure consultant at Cloudscaling where he helps organizations leverage and create next generation cloud computing resources and platforms.</p><p>Andrew brings with him a background in computational science, embedded Linux, database administration, web frameworks, and operations. In addition to technical expertise, Andrew focuses on helping organizations navigate the technology Renaissance triple point between people, process and tools.</p>",
-            company: "Parvus Captus",
+            bio: "<p>Andrew Clay Shafer is regarded as a contributor to whatever 'devops' is and helping spread the body of knowledge now known by this name. As cofounder of Puppet Labs, Andrew help transformed the way people manage IT infrastructure. He popularized the concept of \"infrastructure as code\", and helps to improve IT with both tools and culture. Andrew is most happy when he is learning or teaching.</p>",
+            company: "Thought Leaker",
             link: {
                 href: "http://twitter.com/littleidea",
                 text: "@littleidea"
             },
             presentation: {
-                description: "<i>Coming soon</i>"
+                title: "Leading a learning organization",
+                description: "Many management techniques are attempts to maximize productivity or predictability, but most fail to recognized, much less deal with, uncertainty. How good is fast feedback if nothing is learned? What does it mean to learn? People love to measure what they can measure, but does that necessarily lead to better decisions? better understanding? better outcomes? What are the true factors of success and failure?<br/><br/>This presentation will share new and not so new ideas about leadership and organizational learning as a competitive advantage, combining literature and personal experiences with a random walk through Agile, devops, lean startup, cynefin, anti-fragile, game theory, systems thinking, organizational learning and whatever other goodness can be squeezed in."
             }
         },
         {
