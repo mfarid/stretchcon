@@ -9,7 +9,7 @@
   <span itemprop="addressRegion"> <%= @conf.state %></span>
 </p>
 <p>
-  <img itemprop="image" src="img/urania-diszterem.jpg" alt="<%= @conf.venue %>">
+  <img class="photo" itemprop="image" src="img/urania-diszterem.jpg" alt="<%= @conf.venue %>">
 </p>
 </div>
 
