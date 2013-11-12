@@ -198,7 +198,8 @@ module.exports = {
                     text: "@DarioNardi22"
                 },
                 presentation: {
-                    description: "<i>Coming soon</i>"
+                    title: "Getting our brains to sing together",
+                    description: "How can we make the best use of individuals' talents? Practical knowledge of the brain helps us do that. In my lab, I study people's brain activity as they engage in various solo and group tasks. While we are all equipped with a similar toolkit, we each hone our favorites. Ideally, like a great orchestra, we use our favorites together in highly creative, productive, and friendly ways. As a trainer and a fellow business owner, I will share some key insights and brain-savvy suggestions for working together."
                 }
             },
             {
