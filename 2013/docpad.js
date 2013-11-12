@@ -132,6 +132,65 @@ module.exports = {
                 }
             },
             {
+                anchor: "DarioNardi",
+                name: "Dario Nardi",
+                photo: "themes/stretchcon/img/darionardi.jpg",
+                bio: "<p>Dario Nardi, PhD is a research fellow and teaching award winner at University of California, Los Angeles. He also heads Radiance House, a books, media, and training company. Dario does hands-on brain research, conducts workshops around the world, and has authored numerous books on personality for organizational development including \"Neuroscience of Personality: Brain-Savvy Insights for All Types of People\". His background includes programming and game design.</p>",
+                company: "Radiance House, University of California",
+                link: {
+                    href: "http://twitter.com/DarioNardi22",
+                    text: "@DarioNardi22"
+                },
+                presentation: {
+                    title: "Getting our brains to sing together",
+                    description: "How can we make the best use of individuals' talents? Practical knowledge of the brain helps us do that. In my lab, I study people's brain activity as they engage in various solo and group tasks. While we are all equipped with a similar toolkit, we each hone our favorites. Ideally, like a great orchestra, we use our favorites together in highly creative, productive, and friendly ways. As a trainer and a fellow business owner, I will share some key insights and brain-savvy suggestions for working together."
+                }
+            },
+            {
+                anchor: "SarahNovotny",
+                name: "Sarah Novotny",
+                photo: "themes/stretchcon/img/sarahnovotny.jpg",
+                bio: "<p>Sarah Novotny has recently resigned in order to pursue some personal projects.  She was most recently the CIO for Meteor Entertainment. Novotny has run large scale technology infrastructures as a Systems Engineer and a Database administrator for Amazon.com and the ill fated Ads.com.  In 2001, she founded Blue Gecko, a remote database administration company with two peers from Amazon. Blue Gecko, was sold to DatAvail in 2012. </p><p>Novotny regularly talks about technology infrastructure and geek lifestyle.  She is additionally a program chair for O'Reilly Media's OSCON.   Her technology writing and adventures as well as her more esoteric musings are found at <a href=\"http://sarahnovotny.com\">http://sarahnovotny.com</a>.</p>",
+                company: "Meteor Entertainment",
+                link: {
+                    href: "http://twitter.com/sarahnovotny",
+                    text: "@sarahnovotny"
+                },
+                presentation: {
+                    title: "Offer hope to your staff: build a culture of learning",
+                    description: "Frustration and disengagement cost businesses real money in lost productivity and turnover everyday.  In the technology industry, we know that skills we have today will be obsoleted in a year and entire new disciplines will exist in three years.   We also know that happy, growing, engaged staff are the best path to success.  Let's talk about how you as a leader encourage and foster an environment that rewards learning while meeting business needs."
+                }
+            },
+            {
+                anchor: "AlexanderGrosse",
+                name: "Alexander Grosse",
+                photo: "themes/stretchcon/img/alexandergrosse.jpg",
+                bio: "<p>Alexander is currently VP Engineering at SoundCloud, the world’s leading social sound platform. Before SoundCloud he worked as R&amp;D director at Nokia, where he headed Places Development at Nokia’s Location Services and had overall responsibility for the Operations department. Alexander has worked in a wide range of positions (Development, Consulting, CTO) in the software industry since 1996, including co-founding two start-ups.He holds a Masters in computer science from the University of Oldenburg and an Executive MBA from FOM Berlin. Besides computer science Alexander works(ed) as a techno DJ in Berlin’s party scene.</p>",
+                company: "SoundCloud",
+                link: {
+                    href: "http://twitter.com/klangberater",
+                    text: "@klangberater"
+                },
+                presentation: {
+                    title: "Lessons learned from scaling SoundCloud",
+                    description: "SoundCloud has grown from 40 to over 200 employees in a little more than 2 years while more than doubling the traffic to the site each year. How do you keep and develop a company culture while growing that fast? How do you make sure that you build the best teams? Additionally there is suddenly something called management. This talk will give an overview of the successes and failures experienced during that time."
+                }
+            },
+            {
+                anchor: "RoyOsherove",
+                name: "Roy Osherove",
+                photo: "themes/stretchcon/img/royosherove.jpg",
+                bio: "<p>Roy Osherove is a senior consultant at ITVerket, and the author of \"The Art Of Unit Testing\" and \"Notes to a software team leader\". He is also one of the original ALT.NET organizers. He consults and trains teams worldwide on the gentle art of unit testing, test-driven development and how to lead software teams. He frequently speaks at international conferences on these topics and others.</p>",
+                company: "ITVerket.no",
+                link: {
+                    href: "http://twitter.com/RoyOsherove",
+                    text: "@RoyOsherove"
+                },
+                presentation: {
+                    description: "<i>Coming soon</i>"
+                }
+            },
+            {
                 anchor: "AnnemieRess",
                 name: "Annemie Ress",
                 photo: "themes/stretchcon/img/annemieress.jpg",
@@ -185,65 +244,6 @@ module.exports = {
                 },
                 presentation: {
                     description: "<i>Coming soon</i>"
-                }
-            },
-            {
-                anchor: "DarioNardi",
-                name: "Dario Nardi",
-                photo: "themes/stretchcon/img/darionardi.jpg",
-                bio: "<p>Dario Nardi, PhD is a research fellow and teaching award winner at University of California, Los Angeles. He also heads Radiance House, a books, media, and training company. Dario does hands-on brain research, conducts workshops around the world, and has authored numerous books on personality for organizational development including \"Neuroscience of Personality: Brain-Savvy Insights for All Types of People\". His background includes programming and game design.</p>",
-                company: "Radiance House, University of California",
-                link: {
-                    href: "http://twitter.com/DarioNardi22",
-                    text: "@DarioNardi22"
-                },
-                presentation: {
-                    title: "Getting our brains to sing together",
-                    description: "How can we make the best use of individuals' talents? Practical knowledge of the brain helps us do that. In my lab, I study people's brain activity as they engage in various solo and group tasks. While we are all equipped with a similar toolkit, we each hone our favorites. Ideally, like a great orchestra, we use our favorites together in highly creative, productive, and friendly ways. As a trainer and a fellow business owner, I will share some key insights and brain-savvy suggestions for working together."
-                }
-            },
-            {
-                anchor: "SarahNovotny",
-                name: "Sarah Novotny",
-                photo: "themes/stretchcon/img/sarahnovotny.jpg",
-                bio: "<p>Sarah Novotny has recently resigned in order to pursue some personal projects.  She was most recently the CIO for Meteor Entertainment. Novotny has run large scale technology infrastructures as a Systems Engineer and a Database administrator for Amazon.com and the ill fated Ads.com.  In 2001, she founded Blue Gecko, a remote database administration company with two peers from Amazon. Blue Gecko, was sold to DatAvail in 2012. </p><p>Novotny regularly talks about technology infrastructure and geek lifestyle.  She is additionally a program chair for O'Reilly Media's OSCON.   Her technology writing and adventures as well as her more esoteric musings are found at <a href=\"http://sarahnovotny.com\">http://sarahnovotny.com</a>.</p>",
-                company: "Meteor Entertainment",
-                link: {
-                    href: "http://twitter.com/sarahnovotny",
-                    text: "@sarahnovotny"
-                },
-                presentation: {
-                    title: "Offer hope to your staff: build a culture of learning",
-                    description: "Frustration and disengagement cost businesses real money in lost productivity and turnover everyday.  In the technology industry, we know that skills we have today will be obsoleted in a year and entire new disciplines will exist in three years.   We also know that happy, growing, engaged staff are the best path to success.  Let's talk about how you as a leader encourage and foster an environment that rewards learning while meeting business needs."
-                }
-            },
-            {
-                anchor: "RoyOsherove",
-                name: "Roy Osherove",
-                photo: "themes/stretchcon/img/royosherove.jpg",
-                bio: "<p>Roy Osherove is a senior consultant at ITVerket, and the author of \"The Art Of Unit Testing\" and \"Notes to a software team leader\". He is also one of the original ALT.NET organizers. He consults and trains teams worldwide on the gentle art of unit testing, test-driven development and how to lead software teams. He frequently speaks at international conferences on these topics and others.</p>",
-                company: "ITVerket.no",
-                link: {
-                    href: "http://twitter.com/RoyOsherove",
-                    text: "@RoyOsherove"
-                },
-                presentation: {
-                    description: "<i>Coming soon</i>"
-                }
-            },
-            {
-                anchor: "AlexanderGrosse",
-                name: "Alexander Grosse",
-                photo: "themes/stretchcon/img/alexandergrosse.jpg",
-                bio: "<p>Alexander is currently VP Engineering at SoundCloud, the world’s leading social sound platform. Before SoundCloud he worked as R&amp;D director at Nokia, where he headed Places Development at Nokia’s Location Services and had overall responsibility for the Operations department. Alexander has worked in a wide range of positions (Development, Consulting, CTO) in the software industry since 1996, including co-founding two start-ups.He holds a Masters in computer science from the University of Oldenburg and an Executive MBA from FOM Berlin. Besides computer science Alexander works(ed) as a techno DJ in Berlin’s party scene.</p>",
-                company: "SoundCloud",
-                link: {
-                    href: "http://twitter.com/klangberater",
-                    text: "@klangberater"
-                },
-                presentation: {
-                    title: "Lessons learned from scaling SoundCloud",
-                    description: "SoundCloud has grown from 40 to over 200 employees in a little more than 2 years while more than doubling the traffic to the site each year. How do you keep and develop a company culture while growing that fast? How do you make sure that you build the best teams? Additionally there is suddenly something called management. This talk will give an overview of the successes and failures experienced during that time."
                 }
             }
         ],
