@@ -161,13 +161,14 @@ module.exports = {
             name: "Michael Lopp",
             photo: "themes/stretchcon/img/michaellopp.jpg",
             bio: "<p>Michael Lopp is a Silicon Valley-based engineering leader who builds both people and software at companies such as Borland, Netscape, Apple, and Palantir. While he's not worrying about staying relevant, he writes about pens, bridges, people, poker, and werewolves at the popular weblog, Rands in Repose.</p><p>Michael has written two books. \"Being Geek\" is a career handbook for geeks and nerds alike. His first book \"Managing Humans, 2nd Edition\" is a popular guide to the art of engineering leadership and clearly explains that while you might be rewarded for what you build, you will only be successful because of your people. </p><p>Michael surfs, plays hockey, and drinks red wine in the redwoods of Northern California whenever he can because staying sane is more important than staying busy.</p>",
-            company: "Palantir Technologies",
+            company: "Author of Managing Humans",
             link: {
                 href: "http://twitter.com/rands",
                 text: "@rands"
             },
             presentation: {
-                description: "<i>Coming soon</i>"
+                title: "Non-intuitive strategies for success",
+                description: "You have a deep desire to build. Every so often, a thing you build creates unexpected value and you discover success. In this talk, I will argue that while your success is satisfying and perhaps profitable, continued success is often dependent on two non-intuitive strategies: hiring people who are willing to disrupt that success and your willingness to throw your success away."
             }
         },
         {
