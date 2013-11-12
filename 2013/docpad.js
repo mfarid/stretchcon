@@ -212,7 +212,8 @@ module.exports = {
                     text: "@sarahnovotny"
                 },
                 presentation: {
-                    description: "<i>Coming soon</i>"
+                    title: "Offer hope to your staff: build a culture of learning",
+                    description: "Frustration and disengagement cost businesses real money in lost productivity and turnover everyday.  In the technology industry, we know that skills we have today will be obsoleted in a year and entire new disciplines will exist in three years.   We also know that happy, growing, engaged staff are the best path to success.  Let's talk about how you as a leader encourage and foster an environment that rewards learning while meeting business needs."
                 }
             },
             {
