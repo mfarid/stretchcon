@@ -37,6 +37,7 @@ module.exports = {
             'tickets',
             'programcommittee',
             'sponsors',
+            'organizers',
             'contact'
         ],
 
@@ -49,6 +50,7 @@ module.exports = {
             schedule: "Schedule",
             tickets: "Tickets",
             sponsors: "Sponsors",
+            organizers: "Organizers",
             contact: "Contact"
         },
 
@@ -316,6 +318,20 @@ module.exports = {
                 name: "O'Reilly",
                 logo: "themes/stretchcon/img/oreilly.jpg",
                 url: "http://www.oreilly.com/"
+            }
+        ],
+
+        // List of Organizers
+        organizers: [
+            {
+                name: "Prezi",
+                logo: "themes/stretchcon/img/prezi.jpg",
+                url: "http://prezi.com"
+            },
+            {
+                name: "USTREAM",
+                logo: "themes/stretchcon/img/ustream.jpg",
+                url: "http://ustream.com/"
             }
         ],
 

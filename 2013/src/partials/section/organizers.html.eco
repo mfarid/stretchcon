@@ -1,0 +1,11 @@
+<h2 class="section-title"><%= @labels['organizers'] %></h2>
+
+<ul class="partners-list">
+<% for organizer in @organizers: %>
+  <li class="partner-item" itemscope itemtype="http://schema.org/Organization">
+    <a href="<%= organizer.url %>" class="partner-logo partner-link" itemprop="url">
+      <img src="<%= organizer.logo %>" alt="<%= organizer.name %>" class="photo" itemprop="image">
+    </a>
+  </li>
+<% end %>
+</ul>
