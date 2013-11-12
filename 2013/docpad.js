@@ -311,7 +311,12 @@ module.exports = {
         name: "popforms",
         logo: "themes/stretchcon/img/popforms_logo.png",
         url: "https://popforms.com/"
-      }
+      },
+        {
+            name: "O'Reilly",
+            logo: "themes/stretchcon/img/oreilly.jpg",
+            url: "http://www.oreilly.com/"
+        }
     ],
 
     // Theme path
