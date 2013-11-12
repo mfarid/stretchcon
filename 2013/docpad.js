@@ -310,7 +310,7 @@ module.exports = {
             {
                 name: "ComputerWorld Számítástechnika",
                 logo: "themes/stretchcon/img/computerworld.jpg",
-                url: "http://http://computerworld.hu/"
+                url: "http://computerworld.hu/"
             },
             {
                 name: "popforms",
