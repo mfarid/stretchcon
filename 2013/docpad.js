@@ -138,7 +138,8 @@ module.exports = {
                 text: "@orenellenbogen"
             },
             presentation: {
-                description: "<i>Coming soon</i>"
+                title: "People don't quit their job, they quit their boss",
+                description: "Ever wondered if there is a way to systematically get better as a manager? What if you could apply concepts such as \"code reviews\" to your managerial decisions? Or--what can you do create happier work environment and better relationship with your teammates?<br/><br/>Managing people is hard, I know because I’m a practitioner, not a theorist. Learn from detailed insights, based on building, growing and mentoring teams and managers over the last 6 years. In this talk, you will learn 5 pragmatic and actionable ways to boost your management skills."
             }
         },
         {
