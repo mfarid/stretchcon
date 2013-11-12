@@ -100,6 +100,21 @@ module.exports = {
             }
         },
         {
+            anchor: "OrenEllenbogen",
+            name: "Oren Ellenbogen",
+            photo: "themes/stretchcon/img/orenellenbogen.jpg",
+            bio: "<p>Oren Ellenbogen is the curator of the successful newsletter SoftwareLeadWeekly and author of TeamLeadToolbox.</p><p>Oren is also an Engineer at Commerce Sciences (#2 employee), where he focuses on building the company's data infrastructure. Prior to Commerce Sciences, Oren served as Director of Engineering at Delver (acquired by Sears), where he was responsible for the development process, delivering kick-ass products and growing the next generation of Team Leads in his group.</p>",
+            company: "Commerce Sciences, Software Lead Weekly",
+            link: {
+                href: "http://twitter.com/orenellenbogen",
+                text: "@orenellenbogen"
+            },
+            presentation: {
+                title: "People don't quit their job, they quit their boss",
+                description: "Ever wondered if there is a way to systematically get better as a manager? What if you could apply concepts such as \"code reviews\" to your managerial decisions? Or--what can you do create happier work environment and better relationship with your teammates?<br/><br/>Managing people is hard, I know because I’m a practitioner, not a theorist. Learn from detailed insights, based on building, growing and mentoring teams and managers over the last 6 years. In this talk, you will learn 5 pragmatic and actionable ways to boost your management skills."
+            }
+        },
+        {
             anchor: "AnnemieRess",
             name: "Annemie Ress",
             photo: "themes/stretchcon/img/annemieress.jpg",
@@ -125,21 +140,6 @@ module.exports = {
             },
             presentation: {
                 description: "<i>Coming soon</i>"
-            }
-        },
-        {
-            anchor: "OrenEllenbogen",
-            name: "Oren Ellenbogen",
-            photo: "themes/stretchcon/img/orenellenbogen.jpg",
-            bio: "<p>Oren Ellenbogen is the curator of the successful newsletter SoftwareLeadWeekly and author of TeamLeadToolbox.</p><p>Oren is also an Engineer at Commerce Sciences (#2 employee), where he focuses on building the company's data infrastructure. Prior to Commerce Sciences, Oren served as Director of Engineering at Delver (acquired by Sears), where he was responsible for the development process, delivering kick-ass products and growing the next generation of Team Leads in his group.</p>",
-            company: "Commerce Sciences, Software Lead Weekly",
-            link: {
-                href: "http://twitter.com/orenellenbogen",
-                text: "@orenellenbogen"
-            },
-            presentation: {
-                title: "People don't quit their job, they quit their boss",
-                description: "Ever wondered if there is a way to systematically get better as a manager? What if you could apply concepts such as \"code reviews\" to your managerial decisions? Or--what can you do create happier work environment and better relationship with your teammates?<br/><br/>Managing people is hard, I know because I’m a practitioner, not a theorist. Learn from detailed insights, based on building, growing and mentoring teams and managers over the last 6 years. In this talk, you will learn 5 pragmatic and actionable ways to boost your management skills."
             }
         },
         {
