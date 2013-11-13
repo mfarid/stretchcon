@@ -317,6 +317,11 @@ module.exports = {
                 name: "O'Reilly",
                 logo: "themes/stretchcon/img/oreilly.jpg",
                 url: "http://www.oreilly.com/"
+            },
+            {
+                name: "Napi.hu",
+                logo: "themes/stretchcon/img/napihu.jpg",
+                url: "http://www.napi.hu/"
             }
         ],
 
