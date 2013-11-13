@@ -104,7 +104,7 @@ module.exports = {
             {
                 anchor: "Spotify",
                 name: "Brendan Marsh, Kristian Lindwall",
-                photo: "themes/stretchcon/img/brendanmarsh.jpg",
+                photo: "themes/stretchcon/img/spotify.jpg",
                 bio: "<p><strong>Brendan Marsh</strong> is an Agile Coach in the Infrastructure &amp; Operations tribe at Spotify. An Australian expat, Brendan now lives in Stockholm and coaches teams that build and maintain Spotify's big data infrastructure. Brendan has been coaching &amp; growing teams for the past 5 years.</p><p><strong>Kristian Lindwall</strong> is a Chapter Lead and Agile Coach at Spotify. Kristian has been coaching agile teams for the last 5 years, he is an experienced scrum master, agile coach and development manager.</p>",
                 company: "Spotify",
                 link: {
