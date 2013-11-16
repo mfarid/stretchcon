@@ -197,7 +197,7 @@ module.exports = {
                     text: ""
                 },
                 presentation: {
-                    title: "Unlock innovation in your organisation",
+                    title: "PostCards from the Future: Tipis for overcoming barriers to innovation",
                     description: "In August 2013 PurpleBeach locked 10 people in a room for 10 hours. Their purpose was to identify 10 new, actionable insights to help organisations unlock and embed sustainable innovation in their day-to-day operations. The taskforce comprised a diverse group of innovators, business leaders, academics and authors. Each participant was an expert in the field of innovation, having worked in and led some of the world’s most dynamic and creative organisations.<br/><br/>The group was tasked with filtering, analysing and responding to opinion shared through The PurpleBeach Innovation Garden, an open-access research project that used social technologies to source insight into the barriers organisations face driving innovation and solutions for overcoming them. This new way of uncovering opinion through a collaborative approach is helping to change the way forward thinking businesses engage in discussions and is in itself a demonstration of innovation in action.<br/><br/>The session with Annemie will  detail 10 new actions that will help unlock innovation in any organisation, it points to three additional themes – fear, language and motivation – that have a major impact on the ability of organisations to unlock or sustainably embed a culture of innovation."
                 }
             },
