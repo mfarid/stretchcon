@@ -202,6 +202,21 @@ module.exports = {
                 }
             },
             {
+                anchor: "SarivanPoelje",
+                name: "Sari van Poelje",
+                photo: "themes/stretchcon/img/sarivanpoelje.jpg",
+                bio: "<p>Sari has 25 years experience of innovation on the interface of leadership and organizational development, executive coaching and transactional analysis both as a director within several multinationals and as an international consultant. Her specialties are organizational development, leadership development, performance management, and executive coaching.</p>",
+                company: "International Process Consultancy",
+                link: {
+                    href: "http://twitter.com/Intact1com",
+                    text: "@Intact1com"
+                },
+                presentation: {
+                    title: "Setting up great teams",
+                    description: "The time of the great leader is over. In these turbulent times a great team is needed to lead a company to success. I will talk about the five conditions to build a team: purpose, interdependency, cooperation, anticipation and innovation."
+                }
+            },
+            {
                 anchor: "AndreasEhn",
                 name: "Andreas Ehn",
                 photo: "themes/stretchcon/img/andreasehn.jpg",
