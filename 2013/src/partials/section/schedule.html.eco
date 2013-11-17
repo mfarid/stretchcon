@@ -1,6 +1,6 @@
 <h2 class="section-title"><%= @labels['schedule'] %></h2>
 
-<p>More to come! <a href="https://twitter.com/stretchcon">Follow us on Twitter</a> or <a href="http://lanyrd.com/2013/stretchcon/">track the conference on Lanyrd</a> to get the latest updates. Alternatively <a href="http://eepurl.com/D17Ab">subscribe to our mailing list</a> to recieve notifications of conference updates.</p>
+<p>You can also <a href="http://lanyrd.com/2013/stretchcon/">track the conference on Lanyrd</a>.</p>
 
 <div class="schedule-tbl">
   <table>
