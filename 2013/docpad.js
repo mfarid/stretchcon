@@ -206,7 +206,7 @@ module.exports = {
                 name: "Sari van Poelje",
                 photo: "themes/stretchcon/img/sarivanpoelje.jpg",
                 bio: "<p>Sari has 25 years experience of innovation on the interface of leadership and organizational development, executive coaching and transactional analysis both as a director within several multinationals and as an international consultant. Her specialties are organizational development, leadership development, performance management, and executive coaching.</p>",
-                company: "International Process Consultancy",
+                company: "Intact",
                 link: {
                     href: "http://twitter.com/Intact1com",
                     text: "@Intact1com"
