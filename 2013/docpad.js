@@ -183,7 +183,8 @@ module.exports = {
                     text: "@RoyOsherove"
                 },
                 presentation: {
-                    description: "<i>Coming soon</i>"
+                    title: "Elastic Leadership and the Team Leader Manifesto",
+                    description: "We, as leaders, believe in doing things right.  But when it comes to our teams,  many of us seem to get stuck in transferring these values to our teammates and getting them to change their current work behaviors. In this talk, I will present a manifesto and an framework for growing your team into a truly self organizing team, that can solve its own problems, and that can learn and adopt new skills."
                 }
             },
             {
@@ -234,8 +235,8 @@ module.exports = {
                 anchor: "JasonHoffman",
                 name: "Jason Hoffman",
                 photo: "themes/stretchcon/img/jasonhoffman.jpg",
-                bio: "<p>Jason is the founder and CTO at Joyent, where he is responsible for overseeing the engineering, operations and product groups’ development and implementation of Joyent’s Cloud Computing technology. He is also responsible for research and advanced development, technical outreach, evangelism, consultative efforts for partners and business units, and manages Joyent’s intellectual property portfolio including involvement in open source projects, licensing, technology transfer, assessments of potential partnerships, mergers and acquisitions. His specialties include bioinformatics, grid computing, cloud computing, distributed systems, collaborative applications and deploying and scaling web applications.</p>",
-                company: "Joyent",
+                bio: "<p></p>",
+                company: "Ericsson",
                 link: {
                     href: "http://twitter.com/jasonh",
                     text: "@jasonh"
