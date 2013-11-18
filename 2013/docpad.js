@@ -339,6 +339,11 @@ module.exports = {
                 name: "Napi.hu",
                 logo: "themes/stretchcon/img/napihu.jpg",
                 url: "http://www.napi.hu/"
+            },
+            {
+                name: "Budapest Business Jourbnal",
+                logo: "themes/stretchcon/img/bbj_logo.jpg",
+                url: "http://www.bbj.hu/"
             }
         ],
 
