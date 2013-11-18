@@ -26,6 +26,7 @@
             <% if slot.presentation.title: %>
             <p><%= slot.presentation.title %></p>
             <% end %>
+              <span class="speakers-name"><%= slot.name %></span>
               <span class="speakers-company"><%= slot.company %></span>
             </td>
             <td class="schedule-description"><%- slot.presentation.description %></td>
