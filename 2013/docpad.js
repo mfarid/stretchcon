@@ -232,6 +232,16 @@ module.exports = {
                 }
             },
             {
+                anchor: "DenesKemeny",
+                name: "Dénes Kemény",
+                photo: "themes/stretchcon/img/kemenydenes.jpg",
+                bio: "<p></p>",
+                company: "",
+                presentation: {
+                    description: "<i>Coming soon</i>"
+                }
+            },
+            {
                 anchor: "JasonHoffman",
                 name: "Jason Hoffman",
                 photo: "themes/stretchcon/img/jasonhoffman.jpg",
