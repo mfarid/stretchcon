@@ -344,6 +344,11 @@ module.exports = {
                 name: "Budapest Business Jourbnal",
                 logo: "themes/stretchcon/img/bbj_logo.jpg",
                 url: "http://www.bbj.hu/"
+            },
+            {
+                name: "Figyelő",
+                logo: "themes/stretchcon/img/figyelo.jpg",
+                url: "http://figyelo.hu/"
             }
         ],
 
