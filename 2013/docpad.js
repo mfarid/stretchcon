@@ -173,21 +173,6 @@ module.exports = {
                 }
             },
             {
-                anchor: "RoyOsherove",
-                name: "Roy Osherove",
-                photo: "themes/stretchcon/img/royosherove.jpg",
-                bio: "<p>Roy Osherove is a senior consultant at ITVerket, and the author of \"The Art Of Unit Testing\" and \"Notes to a software team leader\". He is also one of the original ALT.NET organizers. He consults and trains teams worldwide on the gentle art of unit testing, test-driven development and how to lead software teams. He frequently speaks at international conferences on these topics and others.</p>",
-                company: "ITVerket.no",
-                link: {
-                    href: "http://twitter.com/RoyOsherove",
-                    text: "@RoyOsherove"
-                },
-                presentation: {
-                    title: "Elastic Leadership and the Team Leader Manifesto",
-                    description: "We, as leaders, believe in doing things right.  But when it comes to our teams,  many of us seem to get stuck in transferring these values to our teammates and getting them to change their current work behaviors. In this talk, I will present a manifesto and an framework for growing your team into a truly self organizing team, that can solve its own problems, and that can learn and adopt new skills."
-                }
-            },
-            {
                 anchor: "AnnemieRess",
                 name: "Annemie Ress",
                 photo: "themes/stretchcon/img/annemieress.jpg",
