@@ -305,6 +305,11 @@ module.exports = {
                 name: "LogMeIn",
                 logo: "themes/stretchcon/img/logmein.jpg",
                 url: "http://www.logmein.com/"
+            },
+            {
+                name: "UPC",
+                logo: "themes/stretchcon/img/upcbusiness.jpg",
+                url: "http://www.upc.hu/"
             }
         ],
 
