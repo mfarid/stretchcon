@@ -316,6 +316,11 @@ module.exports = {
 
         // List of Sponsors
         sponsors: [
+            {
+                name: "LogMeIn",
+                logo: "themes/stretchcon/img/logmein.jpg",
+                url: "http://www.logmein.com/"
+            }
         ],
 
         // List of Partners
@@ -359,11 +364,6 @@ module.exports = {
                 name: "Figyelő",
                 logo: "themes/stretchcon/img/figyelo.jpg",
                 url: "http://figyelo.hu/"
-            },
-            {
-                name: "LogMeIn",
-                logo: "themes/stretchcon/img/logmein.jpg",
-                url: "http://www.logmein.com/"
             }
         ],
 
