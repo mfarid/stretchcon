@@ -260,7 +260,7 @@ module.exports = {
             {
                 name: "Gábor Török, program chair",
                 photo: "themes/stretchcon/img/gabortorok.jpg",
-                bio: "I'm engineer manager at Prezi, I work on creating company culture and scaling engineering. I enjoy working in agile teams. I'm passionate about process improvements, continuous delivery and acceptance test driven development, and people management. I strongly believe knowledge belongs to everyone hence I regularly organise tech meetups in Budapest to help people share ideas.",
+                bio: "I'm engineer manager at Prezi. I work on creating company culture and scaling engineering. I enjoy working in agile teams. I'm passionate about process improvements, continuous delivery and acceptance test driven development, and people management. I strongly believe knowledge belongs to everyone hence I regularly organise tech meetups in Budapest to help people share ideas.",
                 company: "Prezi",
                 link: {
                     href: "http://twitter.com/processpirate",
