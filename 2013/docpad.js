@@ -45,7 +45,6 @@ module.exports = {
             about: "About",
             location: "Location",
             speakers: "Speakers",
-            programcommittee: "Program Committee",
             schedule: "Schedule",
             tickets: "Tickets",
             sponsors: "Sponsors",
@@ -424,9 +423,9 @@ module.exports = {
             }
         ],
 
-        programcommittee: [
+        eventorganizers: [
             {
-                name: "Gábor Török, program chair",
+                name: "Gábor Török, program chair, chief organizer",
                 photo: "themes/stretchcon/img/gabortorok.jpg",
                 bio: "I'm engineer manager at Prezi. I work on creating company culture and scaling engineering. I enjoy working in agile teams. I'm passionate about process improvements, continuous delivery and acceptance test driven development, and people management. I strongly believe knowledge belongs to everyone hence I regularly organise tech meetups in Budapest to help people share ideas.",
                 company: "Prezi",
@@ -436,7 +435,7 @@ module.exports = {
                 },
             },
             {
-                name: "Gergely Hodicska",
+                name: "Gergely Hodicska, program committee",
                 photo: "themes/stretchcon/img/gergelyhodicska.jpg",
                 bio: "I am the Senior Engineering Manager at Ustream and I oversee all site, streaming, and infrastructure teams. Early on, I specialized in building and operating large scale web applications, including the design and development of several Alexa Top 100 sites. Nowadays I focus on improving the way we develop at Ustream, creating effective processes and building a culture where our engineers can not just continuously deliver but also continuously improve. I strongly believe in teamwork, devops and lifelong learning.",
                 company: "Ustream",
@@ -446,7 +445,7 @@ module.exports = {
                 },
             },
             {
-                name: "Gábor Vészi",
+                name: "Gábor Vészi, program committee",
                 photo: "themes/stretchcon/img/gaborveszi.jpg",
                 bio: "I'm responsible for the teams that manage Prezi's critical backend systems. I'm passionate about availability, scalable architectures, automation, metrics, and bridging the gap between development and operations.",
                 company: "Prezi",
@@ -456,7 +455,7 @@ module.exports = {
                 },
             },
             {
-                name: "Péter Halácsy",
+                name: "Péter Halácsy, program committee",
                 photo: "themes/stretchcon/img/peterhalacsy.jpg",
                 bio: "I'm CTO and founder of Prezi, a fast growing startup changing how people share ideas.  I build the organization, stretch engineers, and code in Haskell for a better life. I care about entrepreneurship in Europe especially in Hungary. I believe that Budapest is going to be a one of the best places for high-tech startup.",
                 company: "Prezi",
