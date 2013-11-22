@@ -310,6 +310,11 @@ module.exports = {
                 name: "UPC",
                 logo: "themes/stretchcon/img/upcbusiness.jpg",
                 url: "http://www.upc.hu/"
+            },
+            {
+                name: "mobility and multimedia cluster",
+                logo: "themes/stretchcon/img/avec.png",
+                url: "http://mmklaszter.com/en"
             }
         ],
 
