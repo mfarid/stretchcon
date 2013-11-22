@@ -383,7 +383,7 @@ module.exports = {
                 anchor: "DenesKemeny",
                 name: "Dénes Kemény",
                 photo: "themes/stretchcon/img/kemenydenes.jpg",
-                bio: "<p>Dénes Kemény is a former Hungarian water polo player who was the trainer and president of the Hungarian National Men Water Polo Team from 1997 to 2012. He was granted Hungarian Sport President of the Year award five times. He's the author of the book \"Kemény üzenetek\" where he shares his thoughts on team building and leadership.</p>",
+                bio: "<p>Dénes Kemény is a former Hungarian water polo player who was the trainer and president of the Hungarian National Men Water Polo Team from 1997 to 2012. During his reign the Hungarian team won three Olympic golds in a row between 2000 and 2008. He was granted Hungarian Sport President of the Year award five times. He's the author of the book \"Kemény üzenetek\" where he shares his thoughts on team building and leadership.</p>",
                 company: "former president of the Hungarian National Men Water Polo Team",
                 presentation: {
                     description: "<i>Coming soon</i>",
