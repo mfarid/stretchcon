@@ -359,6 +359,11 @@ module.exports = {
                 name: "Figyelő",
                 logo: "themes/stretchcon/img/figyelo.jpg",
                 url: "http://figyelo.hu/"
+            },
+            {
+                name: "HWSW",
+                logo: "themes/stretchcon/img/hwsw.jpg",
+                url: "http://www.hwsw.hu/"
             }
         ],
 
