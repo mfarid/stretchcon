@@ -45,7 +45,6 @@ module.exports = {
             about: "About",
             location: "Location",
             speakers: "Speakers",
-            programcommittee: "Program Committee",
             schedule: "Schedule",
             tickets: "Tickets",
             sponsors: "Sponsors",
