@@ -315,6 +315,11 @@ module.exports = {
                 name: "mobility and multimedia cluster",
                 logo: "themes/stretchcon/img/avec.png",
                 url: "http://mmklaszter.com/en"
+            },
+            {
+                name: "Kürt Akadémia",
+                logo: "themes/stretchcon/img/kurtakademia.png",
+                url: "http://www.kurt-akademia.hu/"
             }
         ],
 
