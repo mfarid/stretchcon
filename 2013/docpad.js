@@ -425,6 +425,16 @@ module.exports = {
 
         eventorganizers: [
             {
+                name: "Medea Baccifava, event organizer",
+                photo: "themes/stretchcon/img/medeabaccifava.jpg",
+                bio: "I am an innovative professional working in advisory and international marketing positions in Europe and Asia. In current position at Prezi, I deliver small- and large-scale projects, from optimization to communication, handling international events like mloc.js, RAMP and Stretch.",
+                company: "Prezi",
+                link: {
+                    href: "http://twitter.com/Medea_Baccifava",
+                    text: "@Medea_Baccifava"
+                },
+            },
+            {
                 name: "Gábor Török, program chair, chief organizer",
                 photo: "themes/stretchcon/img/gabortorok.jpg",
                 bio: "I'm engineer manager at Prezi. I work on creating company culture and scaling engineering. I enjoy working in agile teams. I'm passionate about process improvements, continuous delivery and acceptance test driven development, and people management. I strongly believe knowledge belongs to everyone hence I regularly organise tech meetups in Budapest to help people share ideas.",
