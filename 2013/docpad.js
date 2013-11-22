@@ -546,6 +546,11 @@ module.exports = {
                 name: "HWSW",
                 logo: "themes/stretchcon/img/hwsw.jpg",
                 url: "http://www.hwsw.hu/"
+            },
+            {
+                name: "VS",
+                logo: "themes/stretchcon/img/vslogo.png",
+                url: "http://vs.hu/"
             }
         ],
 
