@@ -114,7 +114,7 @@ module.exports = {
                     },
                     {
                         time: "16:40 - 17:00",
-                        title: "Close-up"
+                        title: "Closing"
                     },
                     {
                         time: "17:00 - 20:00",
@@ -183,7 +183,7 @@ module.exports = {
                     },
                     {
                         time: "16:40",
-                        title: "Close-up"
+                        title: "Closing"
                     }
                 ]
             }
