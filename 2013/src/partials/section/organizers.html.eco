@@ -9,3 +9,21 @@
   </li>
 <% end %>
 </ul>
+
+<h3 class="section-title"><%= @labels['programcommittee'] %></h3>
+
+<ul class="speakers-list">
+<% for member in @programcommittee: %>
+    <li class="speakers-item" itemprop="performer" itemscope itemtype="http://schema.org/Person">
+      <% if member.photo: %>
+        <span class="speaker-photo">
+          <img class="photo" src="<%= member.photo %>" alt="<%= member.name %>" itemprop="image">
+        </span>
+      <% end %>
+
+      <h3 class="speakers-name"><%= member.name %> <% if member.link: %><a href="<%= member.link.href %>" title="<%= member.link.text %>"><%= member.link.text %></a><% end %></h3>
+      <p class="speakers-company"><%= member.company %></p>
+      <p class="speakers-bio"><%= member.bio %></p>
+    </li>
+<% end %>
+</ul>

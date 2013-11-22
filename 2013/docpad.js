@@ -35,7 +35,6 @@ module.exports = {
             'speakers',
             'location',
             'tickets',
-            'programcommittee',
             'sponsors',
             'organizers',
             'contact'
