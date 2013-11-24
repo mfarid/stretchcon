@@ -90,8 +90,12 @@ module.exports = {
                         speaker: true
                     },
                     {
-                        time: "13:00 - 14:20",
+                        time: "13:00 - 14:10",
                         title: "Lunch"
+                    },
+                    {
+                        time: "14:10 - 14:20",
+                        title: "Startup Pitches"
                     },
                     {
                         time: "14:20 - 15:00",
@@ -159,8 +163,12 @@ module.exports = {
                         speaker: true
                     },
                     {
-                        time: "13:00 - 14:20",
+                        time: "13:00 - 14:10",
                         title: "Lunch"
+                    },
+                    {
+                        time: "14:10 - 14:20",
+                        title: "Startup Pitches"
                     },
                     {
                         time: "14:20 - 15:00",
