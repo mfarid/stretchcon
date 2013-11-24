@@ -489,9 +489,9 @@ module.exports = {
                 url: "http://www.upc.hu/"
             },
             {
-                name: "mobility and multimedia cluster",
+                name: "avec accelerator",
                 logo: "themes/stretchcon/img/avec.png",
-                url: "http://mmklaszter.com/en"
+                url: "http://avecincubator.com/"
             },
             {
                 name: "Kürt Akadémia",
