@@ -95,7 +95,7 @@ module.exports = {
                     },
                     {
                         time: "14:10 - 14:20",
-                        title: "Startup Pitches"
+                        title: "Sponsor Pitches"
                     },
                     {
                         time: "14:20 - 15:00",
@@ -168,7 +168,7 @@ module.exports = {
                     },
                     {
                         time: "14:10 - 14:20",
-                        title: "Startup Pitches"
+                        title: "Sponsor Pitches"
                     },
                     {
                         time: "14:20 - 15:00",
