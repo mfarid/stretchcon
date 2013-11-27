@@ -81,7 +81,7 @@ module.exports = {
                     },
                     {
                         time: "11:40 - 12:20",
-                        title: "(coming soon)",
+                        title: "Does your team fit? From Idea to International Success, practical tips and lessons learnt",
                         speaker: true
                     },
                     {
@@ -424,7 +424,8 @@ module.exports = {
                     text: "@franco1s"
                 },
                 presentation: {
-                    description: "<i>Coming soon</i>",
+                    title: "Does your team fit? From Idea to International Success, practical tips and lessons learnt",
+                    description: "Getting a business off the ground and lead it to a successful take-off is tough. Real tough. The late nights, the cheap food, the ever changing business models and the many disappointments. Yet one of the most valuable, and rewarding, parts of being the CEO is the construction of the team. I’ve built some companies, some from the very inception all the way to an IPO, and some straight into the proverbial wall. I will share some of the stories I’ve come across, some academic models I’ve come to develop and some real life examples.",
                     day: "Thursday",
                     time: "11:40 - 12:20"
                 }
