@@ -177,7 +177,7 @@ module.exports = {
                     },
                     {
                         time: "15:00 - 15:40",
-                        title: "Setting up great teams",
+                        title: "Building great agile teams",
                         speaker: true
                     },
                     {
@@ -363,7 +363,7 @@ module.exports = {
                     text: "@Intact1com"
                 },
                 presentation: {
-                    title: "Setting up great teams",
+                    title: "Building great agile teams",
                     description: "The time of the great leader is over. In these turbulent times a great team is needed to lead a company to success. I will talk about the five conditions to build a team: purpose, interdependency, cooperation, anticipation and innovation.",
                     day: "Friday",
                     time: "15:00 - 15:40"
