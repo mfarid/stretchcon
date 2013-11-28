@@ -8,7 +8,7 @@ module.exports = {
 
         // Conference info
         conf: {
-            name: "Stretch Conference — First you grew. Now you lead.",
+            name: "Stretch Conference 2013 — First you grew. Now you lead.",
             tagline: "Leadership and management conference",
             description: "Stretch is a leadership and management conference to learn from the bests and stretch yourself. Join us in Budapest, Hungary this December and get inspired by stories from leaders in great organisations as they talk about the challenges of leadership and management.",
             date: "December 5-6, 2013",
