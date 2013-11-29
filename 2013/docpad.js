@@ -560,6 +560,11 @@ module.exports = {
                 name: "VS",
                 logo: "themes/stretchcon/img/vslogo.png",
                 url: "http://vs.hu/"
+            },
+            {
+                name: "Haszon",
+                logo: "themes/stretchcon/img/haszon.png",
+                url: "http://www.haszon.hu/"
             }
         ],
 
