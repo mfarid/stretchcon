@@ -20,7 +20,7 @@
   <meta property="og:image" content="<%= @site.url %><%= @getTheme() %>/img/stretch_badge_360.jpg">
   <!-- / FACEBOOK -->
 
-  <link rel="shortcut icon" href="<%= @getTheme() %>/img/favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="<%= @getTheme() %>/img/favicon.ico?2013111901" type="image/x-icon">
   <link rel="apple-touch-icon" href="<%= @getTheme() %>/img/apple-touch-icon.png">
 
   <!-- STYLES -->
