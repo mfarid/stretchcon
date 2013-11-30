@@ -113,7 +113,8 @@ module.exports = {
                     },
                     {
                         time: "16:00 - 16:40",
-                        title: "TBD"
+                        title: "People don't quit their job, they quit their boss",
+                        speaker: true
                     },
                     {
                         time: "16:40 - 17:00",
@@ -158,7 +159,7 @@ module.exports = {
                     },
                     {
                         time: "12:20 - 13:00",
-                        title: "People don't quit their job, they quit their boss",
+                        title: "Lessons learned from scaling SoundCloud",
                         speaker: true
                     },
                     {
@@ -171,25 +172,16 @@ module.exports = {
                     },
                     {
                         time: "14:20 - 15:00",
-                        title: "Lessons learned from scaling SoundCloud",
-                        speaker: true
-                    },
-                    {
-                        time: "15:00 - 15:40",
                         title: "Building great agile teams",
                         speaker: true
                     },
                     {
-                        time: "15:40 - 16:00",
-                        title: "Break"
-                    },
-                    {
-                        time: "16:00 - 16:40",
+                        time: "15:00 - 15:40",
                         title: "(coming soon)",
                         speaker: true
                     },
                     {
-                        time: "16:40",
+                        time: "15:40",
                         title: "Closing"
                     }
                 ]
@@ -279,8 +271,8 @@ module.exports = {
                 presentation: {
                     title: "People don't quit their job, they quit their boss",
                     description: "Ever wondered if there is a way to systematically get better as a manager? What if you could apply concepts such as \"code reviews\" to your managerial decisions? Or--what can you do create happier work environment and better relationship with your teammates?<br/><br/>Managing people is hard, I know because I’m a practitioner, not a theorist. Learn from detailed insights, based on building, growing and mentoring teams and managers over the last 6 years. In this talk, you will learn 5 pragmatic and actionable ways to boost your management skills.",
-                    day: "Friday",
-                    time: "12:20 - 13:00"
+                    day: "Thursday",
+                    time: "16:00 - 16:40"
                 }
             },
             {
@@ -331,7 +323,7 @@ module.exports = {
                     title: "Lessons learned from scaling SoundCloud",
                     description: "SoundCloud has grown from 40 to over 200 employees in a little more than 2 years while more than doubling the traffic to the site each year. How do you keep and develop a company culture while growing that fast? How do you make sure that you build the best teams? Additionally there is suddenly something called management. This talk will give an overview of the successes and failures experienced during that time.",
                     day: "Friday",
-                    time: "14:20 - 15:00"
+                    time: "12:20 - 13:00"
                 }
             },
             {
@@ -365,7 +357,7 @@ module.exports = {
                     title: "Building great agile teams",
                     description: "The time of the great leader is over. In these turbulent times a great team is needed to lead a company to success. I will talk about the five conditions to build a team: purpose, interdependency, cooperation, anticipation and innovation.",
                     day: "Friday",
-                    time: "15:00 - 15:40"
+                    time: "14:20 - 15:00"
                 }
             },
             {
@@ -393,7 +385,7 @@ module.exports = {
                 presentation: {
                     description: "<i>Coming soon</i>",
                     day: "Friday",
-                    time: "16:00 - 16:40"
+                    time: "15:00 - 15:40"
                 }
             },
             {
