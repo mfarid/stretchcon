@@ -113,8 +113,7 @@ module.exports = {
                     },
                     {
                         time: "16:00 - 16:40",
-                        title: "(coming soon)",
-                        speaker: true
+                        title: "TBD"
                     },
                     {
                         time: "16:40 - 17:00",
@@ -394,22 +393,6 @@ module.exports = {
                 presentation: {
                     description: "<i>Coming soon</i>",
                     day: "Friday",
-                    time: "16:00 - 16:40"
-                }
-            },
-            {
-                anchor: "JasonHoffman",
-                name: "Jason Hoffman",
-                photo: "themes/stretchcon/img/jasonhoffman.jpg",
-                bio: "<p></p>",
-                company: "Ericsson",
-                link: {
-                    href: "http://twitter.com/jasonh",
-                    text: "@jasonh"
-                },
-                presentation: {
-                    description: "<i>Coming soon</i>",
-                    day: "Thursday",
                     time: "16:00 - 16:40"
                 }
             },
