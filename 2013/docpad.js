@@ -543,6 +543,11 @@ module.exports = {
                 name: "Haszon",
                 logo: "themes/stretchcon/img/haszon.png",
                 url: "http://www.haszon.hu/"
+            },
+            {
+                name: "Üzlet & Pszichológia",
+                logo: "themes/stretchcon/img/upszi.png",
+                url: "http://www.upszi.hu/"
             }
         ],
 
