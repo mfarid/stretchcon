@@ -179,7 +179,7 @@ module.exports = {
                     },
                     {
                         time: "15:00 - 15:40",
-                        title: "(coming soon)",
+                        title: "The EPAM way managing from 0 to the Dow Jones",
                         speaker: true
                     },
                     {
@@ -408,6 +408,7 @@ module.exports = {
                 bio: "",
                 company: "EPAM Systems",
                 presentation: {
+                    title: "The EPAM way managing from 0 to the Dow Jones",
                     description: "(coming soon)",
                     day: "Friday",
                     time: "15:00 - 15:40"
