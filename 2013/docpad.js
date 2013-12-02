@@ -16,7 +16,9 @@ module.exports = {
             venue: "Uránia National Film Theatre",
             address: "1088 Rákóczi Way 21",
             city: "Budapest",
-            state: "Hungary"
+            state: "Hungary",
+            latitude: "47.495632",
+            longitude: "19.065138"
         },
 
         // Site info

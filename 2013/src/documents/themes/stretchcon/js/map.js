@@ -1,7 +1,7 @@
 var geocoder,
     map,
     google,
-    icon = 'img/marker-default.png';
+    icon = 'themes/stretchcon/img/marker-default.png';
 
 function initialize() {
     'use strict';
