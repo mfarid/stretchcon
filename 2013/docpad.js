@@ -179,11 +179,20 @@ module.exports = {
                     },
                     {
                         time: "15:00 - 15:40",
+                        title: "(coming soon)",
+                        speaker: true
+                    },
+                    {
+                        time: "15:40 - 15:50",
+                        title: "Break"
+                    },
+                    {
+                        time: "15:50 - 16:30",
                         title: "The Kemény method",
                         speaker: true
                     },
                     {
-                        time: "15:40",
+                        time: "16:30",
                         title: "Closing"
                     }
                 ]
@@ -388,6 +397,18 @@ module.exports = {
                 presentation: {
                     title: "The Kemény method",
                     description: "",
+                    day: "Friday",
+                    time: "15:50 - 16:30"
+                }
+            },
+            {
+                anchor: "AttilaBozso",
+                name: "Attila Bozsó",
+                photo: "",
+                bio: "",
+                company: "Epam Systems",
+                presentation: {
+                    description: "(coming soon)",
                     day: "Friday",
                     time: "15:00 - 15:40"
                 }
