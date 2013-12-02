@@ -406,7 +406,7 @@ module.exports = {
                 name: "Attila Bozsó",
                 photo: "",
                 bio: "",
-                company: "Epam Systems",
+                company: "EPAM Systems",
                 presentation: {
                     description: "(coming soon)",
                     day: "Friday",
