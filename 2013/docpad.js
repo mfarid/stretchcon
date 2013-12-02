@@ -56,7 +56,7 @@ module.exports = {
 
         schedule: [
             {
-                header: "Thursday",
+                header: "Day 1 (Thursday)",
                 slots: [
                     {
                         time: "08:45 - 09:45",
@@ -133,7 +133,7 @@ module.exports = {
                 ]
             },
             {
-                header: "Friday",
+                header: "Day 2 (Friday)",
                 slots: [
                     {
                         time: "09:00 - 10:00",
@@ -214,7 +214,7 @@ module.exports = {
                 presentation: {
                     title: "Great teams start with great people, goals, and practices... but is that enough?",
                     description: "What makes great teams great? What brings them together to build great products? Ask a product manager and a project manager, and you'll get two different answers. Ask a hardcore developer and a team lead and you'll get two more. Great teams start with great people, with leaders and visionaries who set challenging and elevating goals, and tough-minded organizers who choose the right practices to build quality software. But is this enough to make a great product? What does it take to make a team gel into a truly collaborative mindset? Find out how great teams are built in this engaging talk from the bestselling O'Reilly author of <i>Beautiful Teams</i>.",
-                    day: "Thursday",
+                    day: "Day 1 (Thursday)",
                     time: "15:00 - 15:40"
                 }
             },
@@ -231,7 +231,7 @@ module.exports = {
                 presentation: {
                     title: "Non-intuitive strategies for success",
                     description: "You have a deep desire to build. Every so often, a thing you build creates unexpected value and you discover success. In this talk, I will argue that while your success is satisfying and perhaps profitable, continued success is often dependent on two non-intuitive strategies: hiring people who are willing to disrupt that success and your willingness to throw your success away.",
-                    day: "Thursday",
+                    day: "Day 1 (Thursday)",
                     time: "10:00 - 10:40"
                 }
             },
@@ -248,7 +248,7 @@ module.exports = {
                 presentation: {
                     title: "Leading a learning organization",
                     description: "Many management techniques are attempts to maximize productivity or predictability, but most fail to recognized, much less deal with, uncertainty. How good is fast feedback if nothing is learned? What does it mean to learn? People love to measure what they can measure, but does that necessarily lead to better decisions? better understanding? better outcomes? What are the true factors of success and failure?<br/><br/>This presentation will share new and not so new ideas about leadership and organizational learning as a competitive advantage, combining literature and personal experiences with a random walk through Agile, devops, lean startup, cynefin, anti-fragile, game theory, systems thinking, organizational learning and whatever other goodness can be squeezed in.",
-                    day: "Thursday",
+                    day: "Day 1 (Thursday)",
                     time: "10:40 - 11:20"
                 }
             },
@@ -265,7 +265,7 @@ module.exports = {
                         "Brendan Marsh",
                         "Kristian Lindwall"
                     ],
-                    day: "Thursday",
+                    day: "Day 1 (Thursday)",
                     time: "12:20 - 13:00"
                 }
             },
@@ -282,7 +282,7 @@ module.exports = {
                 presentation: {
                     title: "People don't quit their job, they quit their boss",
                     description: "Ever wondered if there is a way to systematically get better as a manager? What if you could apply concepts such as \"code reviews\" to your managerial decisions? Or--what can you do create happier work environment and better relationship with your teammates?<br/><br/>Managing people is hard, I know because I’m a practitioner, not a theorist. Learn from detailed insights, based on building, growing and mentoring teams and managers over the last 6 years. In this talk, you will learn 5 pragmatic and actionable ways to boost your management skills.",
-                    day: "Thursday",
+                    day: "Day 1 (Thursday)",
                     time: "16:00 - 16:40"
                 }
             },
@@ -299,7 +299,7 @@ module.exports = {
                 presentation: {
                     title: "Getting our brains to sing together",
                     description: "How can we make the best use of individuals' talents? Practical knowledge of the brain helps us do that. In my lab, I study people's brain activity as they engage in various solo and group tasks. While we are all equipped with a similar toolkit, we each hone our favorites. Ideally, like a great orchestra, we use our favorites together in highly creative, productive, and friendly ways. As a trainer and a fellow business owner, I will share some key insights and brain-savvy suggestions for working together.",
-                    day: "Thursday",
+                    day: "Day 1 (Thursday)",
                     time: "14:20 - 15:00"
                 },
             },
@@ -316,7 +316,7 @@ module.exports = {
                 presentation: {
                     title: "Offer hope to your staff: build a culture of learning",
                     description: "Frustration and disengagement cost businesses real money in lost productivity and turnover everyday.  In the technology industry, we know that skills we have today will be obsoleted in a year and entire new disciplines will exist in three years.   We also know that happy, growing, engaged staff are the best path to success.  Let's talk about how you as a leader encourage and foster an environment that rewards learning while meeting business needs.",
-                    day: "Friday",
+                    day: "Day 2 (Friday)",
                     time: "10:00 - 10:40"
                 }
             },
@@ -333,7 +333,7 @@ module.exports = {
                 presentation: {
                     title: "Lessons learned from scaling SoundCloud",
                     description: "SoundCloud has grown from 40 to over 200 employees in a little more than 2 years while more than doubling the traffic to the site each year. How do you keep and develop a company culture while growing that fast? How do you make sure that you build the best teams? Additionally there is suddenly something called management. This talk will give an overview of the successes and failures experienced during that time.",
-                    day: "Friday",
+                    day: "Day 2 (Friday)",
                     time: "12:20 - 13:00"
                 }
             },
@@ -350,7 +350,7 @@ module.exports = {
                 presentation: {
                     title: "PostCards from the Future: Tipis for overcoming barriers to innovation",
                     description: "In August 2013 PurpleBeach locked 10 people in a room for 10 hours. Their purpose was to identify 10 new, actionable insights to help organisations unlock and embed sustainable innovation in their day-to-day operations. The taskforce comprised a diverse group of innovators, business leaders, academics and authors. Each participant was an expert in the field of innovation, having worked in and led some of the world’s most dynamic and creative organisations.<br/><br/>The group was tasked with filtering, analysing and responding to opinion shared through The PurpleBeach Innovation Garden, an open-access research project that used social technologies to source insight into the barriers organisations face driving innovation and solutions for overcoming them. This new way of uncovering opinion through a collaborative approach is helping to change the way forward thinking businesses engage in discussions and is in itself a demonstration of innovation in action.<br/><br/>The session with Annemie will  detail 10 new actions that will help unlock innovation in any organisation, it points to three additional themes – fear, language and motivation – that have a major impact on the ability of organisations to unlock or sustainably embed a culture of innovation.",
-                    day: "Friday",
+                    day: "Day 2 (Friday)",
                     time: "11:40 - 12:20"
                 }
             },
@@ -367,7 +367,7 @@ module.exports = {
                 presentation: {
                     title: "Building great agile teams",
                     description: "The time of the great leader is over. In these turbulent times a great team is needed to lead a company to success. I will talk about the five conditions to build a team: purpose, interdependency, cooperation, anticipation and innovation.",
-                    day: "Friday",
+                    day: "Day 2 (Friday)",
                     time: "14:20 - 15:00"
                 }
             },
@@ -384,7 +384,7 @@ module.exports = {
                 presentation: {
                     title: "The role of the manager in modern tech organizations",
                     description: "Traditionally decisions were made by managers and implemented by workers, but as more and more teams discover, that's not always the best way to get great results. As creativity becomes more important, systems more complex and a new generation of engineers demand more influence over their work, the benefits increase of pushing decision making to the people with the most domain knowledge rather than the generalist managers. But what, then, becomes the role of the manager, and how do you still work together towards a common goal and keep all the departments in a company on the same page?",
-                    day: "Friday",
+                    day: "Day 2 (Friday)",
                     time: "10:40 - 11:20"
                 }
             },
@@ -397,7 +397,7 @@ module.exports = {
                 presentation: {
                     title: "The Kemény method",
                     description: "",
-                    day: "Friday",
+                    day: "Day 2 (Friday)",
                     time: "15:50 - 16:30"
                 }
             },
@@ -410,7 +410,7 @@ module.exports = {
                 presentation: {
                     title: "The EPAM way managing from 0 to the Dow Jones",
                     description: "(coming soon)",
-                    day: "Friday",
+                    day: "Day 2 (Friday)",
                     time: "15:00 - 15:40"
                 }
             },
@@ -427,7 +427,7 @@ module.exports = {
                 presentation: {
                     title: "Does your team fit? From Idea to International Success, practical tips and lessons learnt",
                     description: "Getting a business off the ground and lead it to a successful take-off is tough. Real tough. The late nights, the cheap food, the ever changing business models and the many disappointments. Yet one of the most valuable, and rewarding, parts of being the CEO is the construction of the team. I’ve built some companies, some from the very inception all the way to an IPO, and some straight into the proverbial wall. I will share some of the stories I’ve come across, some academic models I’ve come to develop and some real life examples.",
-                    day: "Thursday",
+                    day: "Day 1 (Thursday)",
                     time: "11:40 - 12:20"
                 }
             }
