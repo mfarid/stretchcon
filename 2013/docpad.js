@@ -147,7 +147,7 @@ module.exports = {
                     },
                     {
                         time: "10:40 - 11:20",
-                        title: "(coming soon)",
+                        title: "The role of the manager in modern tech organizations",
                         speaker: true
                     },
                     {
@@ -373,7 +373,8 @@ module.exports = {
                     text: "@ehn"
                 },
                 presentation: {
-                    description: "<i>Coming soon</i>",
+                    title: "The role of the manager in modern tech organizations",
+                    description: "Traditionally decisions were made by managers and implemented by workers, but as more and more teams discover, that's not always the best way to get great results. As creativity becomes more important, systems more complex and a new generation of engineers demand more influence over their work, the benefits increase of pushing decision making to the people with the most domain knowledge rather than the generalist managers. But what, then, becomes the role of the manager, and how do you still work together towards a common goal and keep all the departments in a company on the same page?",
                     day: "Friday",
                     time: "10:40 - 11:20"
                 }
