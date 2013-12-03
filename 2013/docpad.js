@@ -403,15 +403,19 @@ module.exports = {
             },
             {
                 anchor: "AttilaBozso",
-                name: "Attila Bozsó",
-                photo: "",
-                bio: "",
+                name: "Attila Bozsó, Balázs Fejes",
+                photo: "themes/stretchcon/img/balazsfejes.jpg",
+                bio: "<p><strong>Balazs Fejes</strong> (FB2) is the Director of Product Management at EPAM Systems, leading internal product development efforts at EPAM as well as advising a wide range of international clients on project planning, product design, and development processes. His current focus is on building xPMC, EPAM’s next-gen software development lifecycle management toolchain.</p><p>EPAM is the #1 software services and solutions provider from Central and Eastern Europe, listed on the NYSE since 2012. It has been named #2 on the list of America’s Best Small Companies: 20 Fast-Growing Tech Stars released by Forbes on October 9, 2013.</p><p>You might also know Balazs from his podcasts, recorded in his home studio, where he's producing some of the most popular online radio shows in Hungary, including the technology-focused interview show 01beszélgetések, the literary podcast Hármas Könyvelés, and Konnektor, the weekly gaming podcast.</p>",
                 company: "EPAM Systems",
                 presentation: {
                     title: "The EPAM way managing from 0 to the Dow Jones",
-                    description: "(coming soon)",
+                    description: "Attila and Balazs will share their experiences about growing EPAM’s Hungarian presence from zero to almost a thousand employees, and the key challenges along the way, focusing on regional particularities, working from the local talent pool. How do you kickstart a startup and recruit key talent before you have a business? How do you transition rockstar developers into leadership roles? How do you build out middle management in an international organization? Scaling, growing, stretching everybody’s comfort zone along the way.",
                     day: "Day 2 (Friday)",
-                    time: "15:00 - 15:40"
+                    time: "15:00 - 15:40",
+                    speakers: [
+                        "Balázs Fejes",
+                        "Attila Bozsó"
+                    ]
                 }
             },
             {
