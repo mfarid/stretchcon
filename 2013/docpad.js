@@ -402,7 +402,7 @@ module.exports = {
                 }
             },
             {
-                anchor: "AttilaBozso",
+                anchor: "EPAM",
                 name: "Attila Bozsó, Balázs Fejes",
                 photo: "themes/stretchcon/img/balazsfejes.jpg",
                 bio: "<p><strong>Balazs Fejes</strong> (FB2) is the Director of Product Management at EPAM Systems, leading internal product development efforts at EPAM as well as advising a wide range of international clients on project planning, product design, and development processes. His current focus is on building xPMC, EPAM’s next-gen software development lifecycle management toolchain.</p><p>EPAM is the #1 software services and solutions provider from Central and Eastern Europe, listed on the NYSE since 2012. It has been named #2 on the list of America’s Best Small Companies: 20 Fast-Growing Tech Stars released by Forbes on October 9, 2013.</p><p>You might also know Balazs from his podcasts, recorded in his home studio, where he's producing some of the most popular online radio shows in Hungary, including the technology-focused interview show 01beszélgetések, the literary podcast Hármas Könyvelés, and Konnektor, the weekly gaming podcast.</p>",
