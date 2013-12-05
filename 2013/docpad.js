@@ -128,7 +128,7 @@ module.exports = {
                     },
                     {
                         time: "20:00",
-                        title: "After Party"
+                        title: "After Party @ Kocka (45 Kazinczy)"
                     }
                 ]
             },
