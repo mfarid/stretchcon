@@ -161,8 +161,7 @@ module.exports = {
                     },
                     {
                         time: "12:20 - 13:00",
-                        title: "Lessons learned from scaling SoundCloud",
-                        speaker: true
+                        title: "Panel and Q&A"
                     },
                     {
                         time: "13:00 - 14:10",
@@ -331,7 +330,7 @@ module.exports = {
                     text: "@klangberater"
                 },
                 presentation: {
-                    title: "Lessons learned from scaling SoundCloud",
+                    title: "CANCELLED - Lessons learned from scaling SoundCloud",
                     description: "SoundCloud has grown from 40 to over 200 employees in a little more than 2 years while more than doubling the traffic to the site each year. How do you keep and develop a company culture while growing that fast? How do you make sure that you build the best teams? Additionally there is suddenly something called management. This talk will give an overview of the successes and failures experienced during that time.",
                     day: "Day 2 (Friday)",
                     time: "12:20 - 13:00"
