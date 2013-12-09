@@ -20,16 +20,19 @@
               <td class="schedule-slot">
                 <% if not slot.speaker: %>
                   <%- slot.title %>
+                  <% if slot.recordedUrl: %>
+                  (<a href="<%- slot.recordedUrl %>" title="Video recording"><img src="themes/stretchcon/img/video.png" alt="Video recording"></a>)
+                  <% end %>
                 <% else: %>
                   <%  @speaker = (speaker for speaker in @speakers when @day.header is speaker.presentation.day and speaker.presentation.time is slot.time) %>
                   <%= "Keynote: " if slot.keynote %>
                     <% if @speaker: %>
-
-
-
                       <% for speaker,index in @speaker: %>
-                  <a href="#speakers/<%- speaker.anchor %>"><%- slot.title %></a>
-                  <span class="schedule-speaker">
+                      <a href="#speakers/<%- speaker.anchor %>"><%- slot.title %></a>
+                      <% if slot.recordedUrl: %>
+                      (<a href="<%- slot.recordedUrl %>" title="Video recording"><img src="themes/stretchcon/img/video.png" alt="Video recording"></a>)
+                      <% end %>
+                      <span class="schedule-speaker">
                         <% if speaker.presentation.speakers: %>
                           <% for names, sindex in speaker.presentation.speakers: %>
                             <%- names %>
