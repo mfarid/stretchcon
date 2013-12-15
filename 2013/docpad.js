@@ -108,7 +108,8 @@ module.exports = {
                         time: "14:20 - 15:00",
                         title: "Getting our brains to sing together",
                         speaker: true,
-                        recordedUrl: "http://www.ustream.tv/recorded/41397690/highlight/443646"
+                        recordedUrl: "http://www.ustream.tv/recorded/41397690/highlight/443646",
+                        presentationUrl: "https://drive.google.com/file/d/0B9Pcexls_M0CNjJRVTQ4ODBVdmFOMHRwXzZLVTQ4b1FSdTFN/edit?usp=sharing",
                     },
                     {
                         time: "15:00 - 15:40",
