@@ -21,7 +21,7 @@
                 <% if not slot.speaker: %>
                   <%- slot.title %>
                   <% if slot.recordedUrl: %>
-                  (<a href="<%- slot.recordedUrl %>" title="Video recording"><img src="themes/stretchcon/img/video.png" alt="Video recording"></a>)
+                  <a href="<%- slot.recordedUrl %>" title="Video recording"><img src="themes/stretchcon/img/video.png" alt="Video recording"></a>
                   <% end %>
                 <% else: %>
                   <%  @speaker = (speaker for speaker in @speakers when @day.header is speaker.presentation.day and speaker.presentation.time is slot.time) %>
