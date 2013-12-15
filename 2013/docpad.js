@@ -87,7 +87,8 @@ module.exports = {
                         time: "11:40 - 12:20",
                         title: "Does your team fit? From Idea to International Success, practical tips and lessons learnt",
                         speaker: true,
-                        recordedUrl: "http://www.ustream.tv/recorded/41394346/highlight/442652"
+                        recordedUrl: "http://www.ustream.tv/recorded/41394346/highlight/442652",
+                        presentationUrl: "http://goo.gl/Oys8A4",
                     },
                     {
                         time: "12:20 - 13:00",
@@ -152,13 +153,15 @@ module.exports = {
                         title: "Offer hope to your staff: build a culture of learning",
                         keynote: true,
                         speaker: true,
-                        recordedUrl: "http://www.ustream.tv/recorded/41424807/highlight/443655"
+                        recordedUrl: "http://www.ustream.tv/recorded/41424807/highlight/443655",
+                        presentationUrl: "http://www.slideshare.net/sarahnovotny/learningculture-portraits",
                     },
                     {
                         time: "10:40 - 11:20",
                         title: "The role of the manager in modern tech organizations",
                         speaker: true,
-                        recordedUrl: "http://www.ustream.tv/recorded/41424807/highlight/443657"
+                        recordedUrl: "http://www.ustream.tv/recorded/41424807/highlight/443657",
+                        presentationUrl: "http://www.slideshare.net/andreasehn/stretch-2013-role-of-the-manager",
                     },
                     {
                         time: "11:20 - 11:40",
