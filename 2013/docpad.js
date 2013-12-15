@@ -123,7 +123,8 @@ module.exports = {
                         time: "16:00 - 16:40",
                         title: "People don't quit their job, they quit their boss",
                         speaker: true,
-                        recordedUrl: "http://www.ustream.tv/recorded/41400204/highlight/443649"
+                        recordedUrl: "http://www.ustream.tv/recorded/41400204/highlight/443649",
+                        presentationUrl: "https://speakerdeck.com/orenellenbogen/strechconf-2013-people-dont-quit-their-job-they-quit-their-boss",
                     },
                     {
                         time: "16:40 - 17:00",
