@@ -95,6 +95,7 @@ module.exports = {
                         title: "How Agile Coaches help us win—the Agile Coach role at Spotify",
                         speaker: true,
                         recordedUrl: "http://www.ustream.tv/recorded/41394346/highlight/442656"
+                        presentationUrl: "https://drive.google.com/file/d/0B21W5ntVUsoMMjJBWjcycTZYcjQ/edit?usp=sharing",
                     },
                     {
                         time: "13:00 - 14:10",
