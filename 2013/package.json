@@ -1,11 +1,11 @@
 {
-  "name": "ConfBoilerplate",
-  "version": "0.2.0",
-  "description": "A kickstart to create websites for conference/events.",
-  "homepage": "http://confboilerplate.com",
+  "name": "stretchcon",
+  "version": "2013.12.5",
+  "description": "Website for Stretch conference (based on ConfBoilerPlate)",
+  "homepage": "http://stretchcon.com/2013/",
   "repository": {
     "type": "git",
-    "url": "http://github.com/braziljs/conf-boilerplate.git"
+      "url": "http://github.com/prezi/stretchcon.git"
   },
   "engines": {
     "node": ">0.8.x",
