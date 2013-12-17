@@ -14,4 +14,4 @@ Clone the repository somewhere. In the repository issue the following commands:
 
 ## Deployment
 
-    $ rake build deploy
+    $ npm build-deploy

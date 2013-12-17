@@ -12,7 +12,10 @@
     "npm": "1.1.x"
   },
   "scripts": {
-    "test": "docpad generate"
+    "test": "docpad generate",
+    "build": "docpad generate",
+    "deploy": "s3cmd --config ~/.s3cfg-stretchcon sync www/* s3://stretchcon.com/2013/ --verbose",
+    "build-deploy": "npm run build && npm run deploy"
   },
   "dependencies": {
     "docpad-plugin-eco": "2.0.2",
