@@ -14,4 +14,4 @@ Clone the repository somewhere. In the repository issue the following commands:
 
 ## Deployment
 
-    $ npm build-deploy
+    $ npm run build-deploy
