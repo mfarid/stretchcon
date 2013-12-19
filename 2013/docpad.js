@@ -77,7 +77,8 @@ module.exports = {
                         time: "10:40 - 11:20",
                         title: "Leading a learning organization",
                         speaker: true,
-                        recordedUrl: "http://www.ustream.tv/recorded/41391884/highlight/442623"
+                        recordedUrl: "http://www.ustream.tv/recorded/41391884/highlight/442623",
+                        presentationUrl: "https://prezi.com/bh84olgmbcqm/leading-a-learning-organization-stretch/",
                     },
                     {
                         time: "11:20 - 11:40",
