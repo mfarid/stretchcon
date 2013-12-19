@@ -202,7 +202,8 @@ module.exports = {
                     {
                         time: "15:00 - 15:40",
                         title: "The EPAM way managing from 0 to the Dow Jones",
-                        speaker: true
+                        speaker: true,
+                        presentationUrl: "https://drive.google.com/file/d/0B6hXWVB6ezYbZjA1U3BaWDFvMlU/edit?usp=sharing",
                     },
                     {
                         time: "15:40 - 15:50",
