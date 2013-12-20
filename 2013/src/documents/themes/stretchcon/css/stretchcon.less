@@ -2,17 +2,34 @@
 
 .about p strong { color: #333333; font-size: 120%; }
 
-.header { background: url(../img/logo_green.png) no-repeat center 60%; background-size: 35%; padding: 220px 0 0 0; }
-
-.header .wrapper { padding-top: 50px; }
-
-.header .logo-name { display: none; }
-
-.tagline { margin: 0; color: #000; text-shadow: none; }
-
-@media only screen and (max-width: 800px) {
-	.header { background: url(../img/logo.png) no-repeat center center; background-size: 70%; padding: 200px 0 0 0; }
+.header {
+    background: #000 url(../img/stretch_sarah_header.jpg) no-repeat center 60%;
+    background-size: 100%;
+    padding: 320px 0 10px 0;
 }
+
+.header .logo-name {
+    font-size: 3.5em;
+    line-height: 1.3em;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.header:before {
+    content: " ";
+    top: 15%;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    width: 140px;
+    height: 140px;
+    background: transparent url(../img/logo_white_text.png) no-repeat center center;
+    background-size: 100%;
+}
+
+@media only screen and (max-width: 800px) {}
 
 .content a {
     color: #8dc63f;
