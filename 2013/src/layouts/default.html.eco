@@ -21,10 +21,10 @@
   <!-- / FACEBOOK -->
 
   <link rel="shortcut icon" href="<%= @getTheme() %>/img/favicon.ico?2013111901" type="image/x-icon">
-  <link rel="apple-touch-icon" href="<%= @getTheme() %>/img/apple-touch-icon.png?2013120201">
+  <link rel="apple-touch-icon" href="<%= @getTheme() %>/img/apple-touch-icon.png?2013122001">
 
   <!-- STYLES -->
-  <link rel="stylesheet" type="text/css" href="<%= @getTheme() %>/css/main.css?2013120201">
+  <link rel="stylesheet" type="text/css" href="<%= @getTheme() %>/css/main.css?2013122001">
   <!-- / STYLES -->
 
 </head>
