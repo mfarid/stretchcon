@@ -32,6 +32,7 @@ module.exports = {
         // to deactivate comment out with '//'
         // you can also change order here and it will reflect on page
         sections: [
+            'summary',
             'about',
             'schedule',
             'speakers',
