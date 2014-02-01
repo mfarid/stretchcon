@@ -176,7 +176,7 @@ module.exports = {
                         time: "11:40 - 12:20",
                         title: "PostCards from the Future: Tipis for overcoming barriers to innovation",
                         speaker: true,
-                        recordedUrl: "http://www.ustream.tv/recorded/41426796/highlight/443659",
+                        recordedUrl: "http://www.infoq.com/presentations/leadership-learning-business-needs",
                         presentationUrl: "https://prezi.com/dlbfavsgf9mn/postcards-from-the-future/",
                     },
                     {
