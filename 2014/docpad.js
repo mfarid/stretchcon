@@ -39,7 +39,7 @@ module.exports = {
             //'speakers',
             'location',
             // 'tickets',
-            //'sponsors',
+            'sponsors',
             'organizers',
             'contact'
         ],
@@ -518,7 +518,7 @@ module.exports = {
 
         // List of Sponsors
         sponsors: [
-            {
+            /*{
                 name: "LogMeIn",
                 logo: "themes/stretchcon/img/logmein.jpg",
                 url: "http://www.logmein.com/"
@@ -537,11 +537,12 @@ module.exports = {
                 name: "Kürt Akadémia",
                 logo: "themes/stretchcon/img/kurtakademia.png",
                 url: "http://www.kurt-akademia.hu/"
-            }
+            }*/
         ],
 
         // List of Partners
         partners: [
+                   /*
             {
                 name: "InfoQ",
                 logo: "themes/stretchcon/img/infoq.png",
@@ -601,7 +602,7 @@ module.exports = {
                 name: "Üzlet & Pszichológia",
                 logo: "themes/stretchcon/img/upszi.png",
                 url: "http://www.upszi.hu/"
-            }
+            }*/
         ],
 
         // List of Organizers
