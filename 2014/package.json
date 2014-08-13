@@ -2,7 +2,7 @@
   "name": "stretchcon",
   "version": "2013.12.5",
   "description": "Website for Stretch conference (based on ConfBoilerPlate)",
-  "homepage": "http://stretchcon.com/2014/“,
+  "homepage": "http://stretchcon.com/2014/",
   "repository": {
     "type": "git",
       "url": "http://github.com/prezi/stretchcon.git"
