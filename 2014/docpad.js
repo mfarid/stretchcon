@@ -8,7 +8,7 @@ module.exports = {
 
         // Conference info
         conf: {
-            name: "Stretch Conference 2014 — Teamdividuals - Great teams are built of great people.",
+            name: "Stretch Conference 2014 - Great teams are built of great people.",
             tagline: "Leadership and management conference",
             description: "Stretch is a leadership and management conference to learn from the best and stretch yourself. Join us in Budapest, Hungary this December and get inspired by stories from leaders in great organizations as they talk about the challenges of leadership coming from within the team.",
             date: "December 4-5, 2014",
@@ -32,8 +32,8 @@ module.exports = {
         // to deactivate comment out with '//'
         // you can also change order here and it will reflect on page
         sections: [
-            'summary',
-            'photos',
+            //'summary',
+            //'photos',
             'about',
             //'schedule',
             //'speakers',
