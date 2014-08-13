@@ -8,10 +8,10 @@ module.exports = {
 
         // Conference info
         conf: {
-            name: "Stretch Conference 2014 - Great teams are built of great people.",
+            name: "Great teams are built of great people. December 4-5, 2014",
             tagline: "Leadership and management conference",
             description: "Stretch is a leadership and management conference to learn from the best and stretch yourself. Join us in Budapest, Hungary this December and get inspired by stories from leaders in great organizations as they talk about the challenges of leadership coming from within the team.",
-            date: "December 4-5, 2014",
+            date: "December 4-5, 2014 - Budapest",
             price: "$???",
             venue: "Uránia National Film Theatre",
             address: "1088 Rákóczi Way 21",
@@ -477,7 +477,7 @@ module.exports = {
             {
                 name: "Jozsef Czapovics, program chair, chief organizer",
                 photo: "themes/stretchcon/img/jozsefczapovics.jpg",
-                bio: "I'm engineering director at Prezi.",
+                          bio: "I'm engineering director at Prezi. I believe in a bright future and our ability to build it together. I love to think about how to scale agile and what it means being a supportive manager. If you believe in a world where people go home everyday feeling happy with their work, we have already something in common.",
                 company: "Prezi",
                 link: {
                     href: "http://twitter.com/czapinho",
@@ -492,16 +492,6 @@ module.exports = {
                 link: {
                     href: "http://twitter.com/felhobacsi",
                     text: "@felhobacsi"
-                },
-            },
-            {
-                name: "Gábor Vészi, program committee",
-                photo: "themes/stretchcon/img/gaborveszi.jpg",
-                bio: "I'm responsible for the teams that manage Prezi's critical backend systems. I'm passionate about availability, scalable architectures, automation, metrics, and bridging the gap between development and operations.",
-                company: "Prezi",
-                link: {
-                    href: "http://twitter.com/veszig",
-                    text: "@veszig"
                 },
             },
             {
