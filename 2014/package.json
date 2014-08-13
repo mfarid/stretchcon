@@ -2,7 +2,7 @@
   "name": "stretchcon",
   "version": "2013.12.5",
   "description": "Website for Stretch conference (based on ConfBoilerPlate)",
-  "homepage": "http://stretchcon.com/2014/",
+  "homepage": "http://stretchcon.com/2013/",
   "repository": {
     "type": "git",
       "url": "http://github.com/prezi/stretchcon.git"
@@ -14,7 +14,7 @@
   "scripts": {
     "test": "docpad generate",
     "build": "docpad generate",
-    "deploy": "s3cmd --config ~/.s3cfg-stretchcon sync www/* s3://stretchcon.com/2014/ --verbose",
+    "deploy": "s3cmd --config ~/.s3cfg-stretchcon sync www/* s3://stretchcon.com/2013/ --verbose",
     "build-deploy": "npm run build && npm run deploy",
     "start": "docpad run"
   },
