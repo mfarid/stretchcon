@@ -487,11 +487,21 @@ module.exports = {
             {
                 name: "Gergely Hodicska, program committee",
                 photo: "themes/stretchcon/img/gergelyhodicska.jpg",
-                bio: "I am the Senior Engineering Manager at Ustream and I oversee all site, streaming, and infrastructure teams. Early on, I specialized in building and operating large scale web applications, including the design and development of several Alexa Top 100 sites. Nowadays I focus on improving the way we develop at Ustream, creating effective processes and building a culture where our engineers can not just continuously deliver but also continuously improve. I strongly believe in teamwork, devops and lifelong learning.",
+                bio: "I am VP of Engineering at Ustream and I oversee all the engineering teams. Early on, I specialized in building and operating large scale web applications, including the design and development of several Alexa Top 100 sites. Nowadays I focus on improving the way we develop at Ustream, creating effective processes and building a culture where our engineers can not just continuously deliver but also continuously improve. I strongly believe in teamwork, devops and lifelong learning.",
                 company: "Ustream",
                 link: {
                     href: "http://twitter.com/felhobacsi",
                     text: "@felhobacsi"
+                },
+            },
+            {
+                name: "Laszlo Csereklei, program committee",
+                photo: "themes/stretchcon/img/laszlocsereklei.jpg",
+                bio: "I am product development leader at Ericsson responsible for specialized development teams. I am passionate about the Lean, Agile and Craftsmanship movement, doing coaching, mentoring, and teaching from individual to organizational levels.",
+                company: "Ericsson",
+                link: {
+                href: "http://twitter.com/LCsereklei",
+                text: "@LCsereklei"
                 },
             },
             {
