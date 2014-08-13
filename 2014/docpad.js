@@ -475,13 +475,13 @@ module.exports = {
                 },
             },
             {
-                name: "Gábor Török, program chair, chief organizer",
-                photo: "themes/stretchcon/img/gabortorok.jpg",
-                bio: "I'm engineer manager at Prezi. I work on creating company culture and scaling engineering. I enjoy working in agile teams. I'm passionate about process improvements, continuous delivery and acceptance test driven development, and people management. I strongly believe knowledge belongs to everyone hence I regularly organise tech meetups in Budapest to help people share ideas.",
+                name: "Jozsef Czapovics, program chair, chief organizer",
+                photo: "themes/stretchcon/img/jozsefczapovics.jpg",
+                bio: "I'm engineering director at Prezi.",
                 company: "Prezi",
                 link: {
-                    href: "http://twitter.com/processpirate",
-                    text: "@processpirate"
+                    href: "http://twitter.com/czapinho",
+                    text: "@czapinho"
                 },
             },
             {
@@ -615,6 +615,11 @@ module.exports = {
                 name: "USTREAM",
                 logo: "themes/stretchcon/img/ustream.jpg",
                 url: "http://ustream.com/"
+            },
+            {
+                name: "ERICKSON",
+                logo: "themes/stretchcon/img/ericsson.jpg",
+                url: "http://ericsson.hu/"
             }
         ],
 
