@@ -38,7 +38,7 @@ module.exports = {
             //'schedule',
             //'speakers',
             'location',
-            // 'tickets',
+            //'tickets',
             'sponsors',
             'organizers',
             'contact'
@@ -505,6 +505,16 @@ module.exports = {
                 },
             },
             {
+                name: "Balint Koves, program committee",
+                photo: "themes/stretchcon/img/balintkoves.jpg",
+                bio: "I strongly believe in the constant possibility of improvement and that the only route to this is stretching one's boundaries, instead of following the paved way. My role currently at Ericsson is building, coaching, mentoring and generally enabling a new organization of several teams in the integration area.",
+                company: "Ericsson",
+                /*link: {
+                href: "http://twitter.com/LCsereklei",
+                text: "@LCsereklei"
+                  },*/
+            },
+            {
                 name: "Péter Halácsy, program committee",
                 photo: "themes/stretchcon/img/peterhalacsy.jpg",
                 bio: "I'm CTO and founder of Prezi, a fast growing startup changing how people share ideas.  I build the organization, stretch engineers, and code in Haskell for a better life. I care about entrepreneurship in Europe especially in Hungary. I believe that Budapest is going to be a one of the best places for high-tech startup.",
@@ -542,7 +552,7 @@ module.exports = {
 
         // List of Partners
         partners: [
-                   /*
+                 /*
             {
                 name: "InfoQ",
                 logo: "themes/stretchcon/img/infoq.png",
