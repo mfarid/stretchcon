@@ -1,0 +1,9 @@
+<h2 class="section-title"><%= @labels['tickets'] %></h2>
+
+<div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=13069989691&ref=etckt" frameborder="0" height="260" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/r/etckt">Event Registration Online</a><span style="color:#ddd;"> for </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="https://www.eventbrite.com/e/stretch-conference-2014-httpstretchconcom2014-tickets-13069989691?ref=etckt">Stretch Conference 2014      http://stretchcon.com/2014/</a> <span style="color:#ddd;">powered by</span> <a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com?ref=etckt">Eventbrite</a></div></div>
+
+<p>Are you planning to buy tickets for the conference as a <strong>group or organization</strong>? <a href="mailto:hello@stretchcon.com">Contact us for discount!</a></p>
+
+<p><strong>Student tickets</strong> are also available. <a href="mailto:hello@stretchcon.com">Contact us directly!</a></p>
+
+<p>We will offer <strong>child care</strong> for attendees coming with their kids to the conference. <a href="mailto:hello@stretchcon.com">Please let us know</a> if you would bring your kid.</p>
