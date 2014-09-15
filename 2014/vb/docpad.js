@@ -36,9 +36,9 @@ module.exports = {
             //'photos',
             'about',
             //'schedule',
-            'speakers',
+            //'speakers',
             'location',
-            'tickets',
+            //'tickets',
             'sponsors',
             'organizers',
             'contact'
@@ -227,130 +227,23 @@ module.exports = {
 
         // Speakers and talks
         speakers: [
-           
-                   {
-                   anchor: "DavidMarquet",
-                   name: "David Marquet",
-                   photo: "themes/stretchcon/img/davidmarquet.jpg",
-                   bio: "<p>Captain Marquet retired from the Navy in 2009, and speaks to businesses and groups who want to create empowering work environments that release the passion, initiative, and intellect of each person. This bold and highly effective leadership approach can be summarized as “give control, create leaders.” Doing so creates environments where we coax our inner superhero to action. He is the author of the award-winning book Turn the Ship Around! In 2012 Fortune Magazine called it the “best how-to manual anywhere for managers on delegating, training, and driving flawless execution.”</p>",
-                   company: "Author, Turn the Ship Around!",
-                   link: {
-                   href: "http://twitter.com/ldavidmarquet",
-                   text: "@ldavidmarquet"
-                   },
-                   presentation: {
-                   //title: "Great teams start with great people, goals, and practices... but is that enough?",
-                   //  description: "What makes great teams great? What brings them together to build great products? Ask a product manager and a project manager, and you'll get two different answers. Ask a hardcore developer and a team lead and you'll get two more. Great teams start with great people, with leaders and visionaries who set challenging and elevating goals, and tough-minded organizers who choose the right practices to build quality software. But is this enough to make a great product? What does it take to make a team gel into a truly collaborative mindset? Find out how great teams are built in this engaging talk from the bestselling O'Reilly author of <i>Beautiful Teams</i>.",
-                   // day: "Day 1 (Thursday)",
-                   //  time: "15:00 - 15:40",
-                   }
-                   },
-                {
-                anchor: "ErranBerger",
-                name: "Erran Berger",
-                photo: "themes/stretchcon/img/erranberger.jpg",
-                bio: "<p>Erran Berger is responsible for Content Engineering at LinkedIn. He leads the engineering teams that develop the company’s content focused products and infrastructure, including professional publishing, SlideShare, Pulse, sharing, and Groups. He is also responsible for building out world-class engineering teams in LinkedIn's San Francisco and New York City offices. Prior to joining LinkedIn in 2009, Erran was a senior software engineer at EMN8 (now Tillster) where he lead numerous software projects. Erran holds a BS in Computer Engineering from The University of California, San Diego.</p>",
-                company: "LinkedIn",
+            {
+                anchor: "AndrewStellman",
+                name: "Andrew Stellman",
+                photo: "themes/stretchcon/img/andrewstellman.jpg",
+                bio: "<p>Andrew is a bestselling O'Reilly author (Beautiful Teams, Head First C#, Head First PMP, Applied Software Project Management), developer, architect, speaker, agile coach, project manager, and general all-around expert in building better software. He has been a Vice President at a major investment bank, architected large-scale real-time back end systems, managed large international software teams, and consulted for companies, schools, and organizations, including Microsoft, the National Bureau of Economic Research, and MIT. He’s had the privilege of working with some pretty amazing programmers during that time, and likes to think that he’s learned a few things from them. Andrew's upcoming book, \"Learning Agile\", will be published by O'Reilly in early 2014.</p>",
+                company: "Bestselling O'Reilly Author",
                 link: {
-                    href: "http://twitter.com/eberger45",
-                    text: "@eberger45"
+                    href: "http://twitter.com/AndrewStellman",
+                    text: "@AndrewStellman"
                 },
                 presentation: {
-                    //title: "Great teams start with great people, goals, and practices... but is that enough?",
-                  //  description: "What makes great teams great? What brings them together to build great products? Ask a product manager and a project manager, and you'll get two different answers. Ask a hardcore developer and a team lead and you'll get two more. Great teams start with great people, with leaders and visionaries who set challenging and elevating goals, and tough-minded organizers who choose the right practices to build quality software. But is this enough to make a great product? What does it take to make a team gel into a truly collaborative mindset? Find out how great teams are built in this engaging talk from the bestselling O'Reilly author of <i>Beautiful Teams</i>.",
-                   // day: "Day 1 (Thursday)",
-                  //  time: "15:00 - 15:40",
+                    title: "Great teams start with great people, goals, and practices... but is that enough?",
+                    description: "What makes great teams great? What brings them together to build great products? Ask a product manager and a project manager, and you'll get two different answers. Ask a hardcore developer and a team lead and you'll get two more. Great teams start with great people, with leaders and visionaries who set challenging and elevating goals, and tough-minded organizers who choose the right practices to build quality software. But is this enough to make a great product? What does it take to make a team gel into a truly collaborative mindset? Find out how great teams are built in this engaging talk from the bestselling O'Reilly author of <i>Beautiful Teams</i>.",
+                    day: "Day 1 (Thursday)",
+                    time: "15:00 - 15:40",
                 }
-                },
-                   {
-                   anchor: "EliasTorres",
-                   name: "Elias Torres",
-                   photo: "themes/stretchcon/img/eliastorres.jpg",
-                   bio: "<p>Elias Torres is focused on building the best engineering organization in Boston. His team at HubSpot builds a distributed, cloud-based software platform for marketers that powers HubSpot's ambition to become the #1 marketing company in the world. He is obsessed with finding the best talent, sculpting company culture, and getting things done. </p>",
-                   company: "HubSpot",
-                   link: {
-                   href: "http://twitter.com/eliast",
-                   text: "@eliast"
-                   },
-                   presentation: {
-                   //title: "Great teams start with great people, goals, and practices... but is that enough?",
-                   //  description: "What makes great teams great? What brings them together to build great products? Ask a product manager and a project manager, and you'll get two different answers. Ask a hardcore developer and a team lead and you'll get two more. Great teams start with great people, with leaders and visionaries who set challenging and elevating goals, and tough-minded organizers who choose the right practices to build quality software. But is this enough to make a great product? What does it take to make a team gel into a truly collaborative mindset? Find out how great teams are built in this engaging talk from the bestselling O'Reilly author of <i>Beautiful Teams</i>.",
-                   // day: "Day 1 (Thursday)",
-                   //  time: "15:00 - 15:40",
-                   }
-                   },
-                   {
-                   anchor: "JanNolte",
-                   name: "Jan Nolte",
-                   photo: "themes/stretchcon/img/jannolte.jpg",
-                   bio: "<p>Your success as a leader depends on your ability to communicate—and to use every speaking opportunity to assert your personal brand. I can help you. As an executive voice coach and conservatory-trained actress, I can help you DELIVER WITH CONFIDENCE, PROJECT WITH EASE, and MOVE OTHERS TO ACTION.</p>",
-                   company: "The Influential Voice",
-                   link: {
-                   href: "http://twitter.com/noltejan",
-                   text: "@noltejan"
-                   },
-                   presentation: {
-                   //title: "Great teams start with great people, goals, and practices... but is that enough?",
-                   //  description: "What makes great teams great? What brings them together to build great products? Ask a product manager and a project manager, and you'll get two different answers. Ask a hardcore developer and a team lead and you'll get two more. Great teams start with great people, with leaders and visionaries who set challenging and elevating goals, and tough-minded organizers who choose the right practices to build quality software. But is this enough to make a great product? What does it take to make a team gel into a truly collaborative mindset? Find out how great teams are built in this engaging talk from the bestselling O'Reilly author of <i>Beautiful Teams</i>.",
-                   // day: "Day 1 (Thursday)",
-                   //  time: "15:00 - 15:40",
-                   }
-                   },
-                   {
-                   anchor: "PeterSegal",
-                   name: "Peter Segal",
-                   photo: "themes/stretchcon/img/petersegal.png",
-                   bio: "<p>A former attorney then corporate executive and entrepreneur now accredited business coach, facilitator and speaker. A former member of Young President’s Organization. In the past several years Peter helped his clients both for and non profit organizations and individuals in Asia and Europe to grow their business and improve their performance.</p>",
-                   company: "World Mission",
-                   link: {
-                   //href: "http://twitter.com/noltejan",
-                   //ßtext: "@noltejan"
-                   },
-                   presentation: {
-                   //title: "Great teams start with great people, goals, and practices... but is that enough?",
-                   //  description: "What makes great teams great? What brings them together to build great products? Ask a product manager and a project manager, and you'll get two different answers. Ask a hardcore developer and a team lead and you'll get two more. Great teams start with great people, with leaders and visionaries who set challenging and elevating goals, and tough-minded organizers who choose the right practices to build quality software. But is this enough to make a great product? What does it take to make a team gel into a truly collaborative mindset? Find out how great teams are built in this engaging talk from the bestselling O'Reilly author of <i>Beautiful Teams</i>.",
-                   // day: "Day 1 (Thursday)",
-                   //  time: "15:00 - 15:40",
-                   }
-                   },
-
-                   
-                   //{
-                   //anchor: "AlexCottin",
-                   //name: "Alex Cottin",
-                   //photo: "themes/stretchcon/img/alexcottin.jpg",
-                   //bio: "<p>Elias Torres is focused on building the best engineering organization in Boston. His team at HubSpot builds a distributed, cloud-based software platform for marketers that powers HubSpot's ambition to become the #1 marketing company in the world. He is obsessed with finding the best talent, sculpting company culture, and getting things done. </p>",
-                   //company: "Action Against Hunger",
-                   //link: {
-                   //href: "http://twitter.com/eliast",
-                   //text: "@eliast"
-                   //},
-                   //presentation: {
-                   //title: "Great teams start with great people, goals, and practices... but is that enough?",
-                   //  description: "What makes great teams great? What brings them together to build great products? Ask a product manager and a project manager, and you'll get two different answers. Ask a hardcore developer and a team lead and you'll get two more. Great teams start with great people, with leaders and visionaries who set challenging and elevating goals, and tough-minded organizers who choose the right practices to build quality software. But is this enough to make a great product? What does it take to make a team gel into a truly collaborative mindset? Find out how great teams are built in this engaging talk from the bestselling O'Reilly author of <i>Beautiful Teams</i>.",
-                   // day: "Day 1 (Thursday)",
-                   //  time: "15:00 - 15:40",
-                   //}
-                   //},
-                   {
-                   anchor: "anonim",
-                   name: "Do you have a story to share?",
-                   photo: "themes/stretchcon/img/anonim.jpeg",
-                   bio: "<p>Great, because we have free spot for you on the stage! E-mail a relevant proposal to hello@stretchcon.com. Please include a) a 100-200 word abstract, b) 200 word speaker bio, c) photo of speaker, d) speaker contact information, e) why do you believe your talk would fit.</p>",
-                   //company: "LinkedIn",
-                   link: {
-                  // href: "http://twitter.com/eberger45",
-                  // text: "@eberger45"
-                   },
-                   presentation: {
-                   //title: "Great teams start with great people, goals, and practices... but is that enough?",
-                   //  description: "What makes great teams great? What brings them together to build great products? Ask a product manager and a project manager, and you'll get two different answers. Ask a hardcore developer and a team lead and you'll get two more. Great teams start with great people, with leaders and visionaries who set challenging and elevating goals, and tough-minded organizers who choose the right practices to build quality software. But is this enough to make a great product? What does it take to make a team gel into a truly collaborative mindset? Find out how great teams are built in this engaging talk from the bestselling O'Reilly author of <i>Beautiful Teams</i>.",
-                   // day: "Day 1 (Thursday)",
-                   //  time: "15:00 - 15:40",
-                   }
-                   },
-
-                    /*
+            },
             {
                 anchor: "MichaelLopp",
                 name: "Michael Lopp",
@@ -567,7 +460,7 @@ module.exports = {
                     day: "Day 1 (Thursday)",
                     time: "11:40 - 12:20",
                 }
-            }*/
+            }
         ],
 
         eventorganizers: [
@@ -635,12 +528,12 @@ module.exports = {
 
         // List of Sponsors
         sponsors: [
-            {
-                name: "Your Company",
-                logo: "themes/stretchcon/img/your-logo.jpg",
-                //url: "http://www.logmein.com/"
-            },
             /*{
+                name: "LogMeIn",
+                logo: "themes/stretchcon/img/logmein.jpg",
+                url: "http://www.logmein.com/"
+            },
+            {
                 name: "UPC",
                 logo: "themes/stretchcon/img/upcbusiness.jpg",
                 url: "http://www.upc.hu/"
@@ -659,13 +552,13 @@ module.exports = {
 
         // List of Partners
         partners: [
-                 
+                 /*
             {
-                //name: "Your Company",
-                logo: "themes/stretchcon/img/your-logo.jpg",
-                //url: "http://infoq.com"
+                name: "InfoQ",
+                logo: "themes/stretchcon/img/infoq.png",
+                url: "http://infoq.com"
             },
-            /*{
+            {
                 name: "Software Lead Weekly",
                 logo: "themes/stretchcon/img/softwareleadweekly.jpg",
                 url: "http://softwareleadweekly.com/"
