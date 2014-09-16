@@ -39,7 +39,7 @@ module.exports = {
             'speakers',
             'location',
             'tickets',
-            'sponsors',
+            //'sponsors',
             'organizers',
             'contact'
         ],
@@ -245,6 +245,23 @@ module.exports = {
                    //  time: "15:00 - 15:40",
                    }
                    },
+                   {
+                   anchor: "MariekeRietbergen",
+                   name: "Marieke Rietbergen",
+                   photo: "themes/stretchcon/img/mariekerietbergen.jpg",
+                   bio: "<p>Marieke Rietbergen is the founder of Design Innovation Group. She is a creative collaborator with a passion for human-centered innovation. She believes in the value of creative processes, and the potential they have to accelerate positive change. Marieke is a mother of two. She enjoys being surprised by the weird and wonderful and being aesthetically pleased. She believes in the value of connecting diverse perspectives and has an extensive network of great minds to draw upon. Her enthusiasm for ideas is complemented by her proactive energy, applied to making ideas happen. Marieke believes that bringing together design thinking and business sense, in people, methods and instruments will create more succesful innovative - and profitable - products, services and strategies. She loves to bring together people with different backgrounds. And she believes in getting things done. ”</p>",
+                   company: "Design Innovation Group",
+                   link: {
+                   href: "http://twitter.com/DesInnGro",
+                   text: "@DesInnGro"
+                   },
+                   presentation: {
+                   //title: "Great teams start with great people, goals, and practices... but is that enough?",
+                   //  description: "What makes great teams great? What brings them together to build great products? Ask a product manager and a project manager, and you'll get two different answers. Ask a hardcore developer and a team lead and you'll get two more. Great teams start with great people, with leaders and visionaries who set challenging and elevating goals, and tough-minded organizers who choose the right practices to build quality software. But is this enough to make a great product? What does it take to make a team gel into a truly collaborative mindset? Find out how great teams are built in this engaging talk from the bestselling O'Reilly author of <i>Beautiful Teams</i>.",
+                   // day: "Day 1 (Thursday)",
+                   //  time: "15:00 - 15:40",
+                   }
+                   },
                 {
                 anchor: "ErranBerger",
                 name: "Erran Berger",
@@ -283,11 +300,28 @@ module.exports = {
                    anchor: "JanNolte",
                    name: "Jan Nolte",
                    photo: "themes/stretchcon/img/jannolte.jpg",
-                   bio: "<p>Your success as a leader depends on your ability to communicate—and to use every speaking opportunity to assert your personal brand. I can help you. As an executive voice coach and conservatory-trained actress, I can help you DELIVER WITH CONFIDENCE, PROJECT WITH EASE, and MOVE OTHERS TO ACTION.</p>",
+                   bio: "<p>Jan Nolte is an Executive Communication and Voice Coach. Her method integrates over 25 years of professional acting, directing, producing and certified coaching skills. As a voice coach for actors in NYC, Jan was a professor at New York University Tisch School of the Arts and the Acting Conservatory at Purchase College. Her professional coaching benefitted performers from Carnegie Hall to CBS television to California. Today Jan is changing the voice of leadership as she directs senior execs at Fortune 500 companies and global not-for-profits to speak with integrity, listen strategically and follow their instincts. Jan is also the mother of 2 who resides in New York. She is active in several young adult leadership development initiatives including Impact Leadership 21 and Amigos de las Americas.</p>",
                    company: "The Influential Voice",
                    link: {
                    href: "http://twitter.com/noltejan",
                    text: "@noltejan"
+                   },
+                   presentation: {
+                   //title: "Great teams start with great people, goals, and practices... but is that enough?",
+                   //  description: "What makes great teams great? What brings them together to build great products? Ask a product manager and a project manager, and you'll get two different answers. Ask a hardcore developer and a team lead and you'll get two more. Great teams start with great people, with leaders and visionaries who set challenging and elevating goals, and tough-minded organizers who choose the right practices to build quality software. But is this enough to make a great product? What does it take to make a team gel into a truly collaborative mindset? Find out how great teams are built in this engaging talk from the bestselling O'Reilly author of <i>Beautiful Teams</i>.",
+                   // day: "Day 1 (Thursday)",
+                   //  time: "15:00 - 15:40",
+                   }
+                   },
+                   {
+                   anchor: "JohnBlakey",
+                   name: "John Blakey",
+                   photo: "themes/stretchcon/img/johnblakey.jpg",
+                   bio: "<p>John is one of the UK’s leading executive coaches and board advisors having worked with CEOs around the globe, as well as with Olympic medallists and Team GB / England sports coaches in rowing, cricket and target shooting. In his business career, John has been a Fast Track 100 entrepreneur, FTSE100 International Managing Director and Chair/Director of a number of voluntary organisations, working collaboratively in diverse teams to deliver outstanding results. Most recently, he has been engaged by Peter Moores, the England team cricket coach, to support Peter’s unprecedented second term in the role. John is an experienced international speaker on the topics of leadership and coaching, contributing to events such as the World Business and Executive Coaching Summit (WBECS), the Marriott Hotels TEDx talks and the Aston Business School MBA speaker series. In 2012, he co-authored with Ian Day the best-selling leadership coaching book 'Challenging Coaching' which has been featured in the Sunday Times, the Guardian and the Financial Times and contains the FACTS coaching model ( see www.challengingcoaching.co.uk). In his work, John draws upon a broad range of influences including his Christian faith, his PCC coaching credential with the International Coach Federation, his expertise in yoga and t'ai chi and his ongoing doctoral research on CEO leadership.</p>",
+                   company: "Vistage",
+                   link: {
+                   //href: "http://twitter.com/noltejan",
+                   //text: "@noltejan"
                    },
                    presentation: {
                    //title: "Great teams start with great people, goals, and practices... but is that enough?",
@@ -313,25 +347,40 @@ module.exports = {
                    //  time: "15:00 - 15:40",
                    }
                    },
-
-                   
-                   //{
-                   //anchor: "AlexCottin",
-                   //name: "Alex Cottin",
-                   //photo: "themes/stretchcon/img/alexcottin.jpg",
-                   //bio: "<p>Elias Torres is focused on building the best engineering organization in Boston. His team at HubSpot builds a distributed, cloud-based software platform for marketers that powers HubSpot's ambition to become the #1 marketing company in the world. He is obsessed with finding the best talent, sculpting company culture, and getting things done. </p>",
-                   //company: "Action Against Hunger",
-                   //link: {
-                   //href: "http://twitter.com/eliast",
-                   //text: "@eliast"
-                   //},
-                   //presentation: {
+                   {
+                   anchor: "AlexCottin",
+                   name: "Alex Cottin",
+                   photo: "themes/stretchcon/img/alexcottin.jpg",
+                   bio: "<p>Driven by a blend of academic, personal and professional experiences, Alex believes in leveraging public and private partnerships as an important change agent which can help bring about sustainable and peaceful social change. Alex is currently the Associate Director of External Relations at Action Against Hunger, an international humanitarian organization which works to save the lives of malnourished children in 45 countries while providing communities with access to safe water and sustainable solutions to hunger. In this capacity, he is responsible for developing and implementing strategies and creating relationships that lead to support from corporate and foundations sources.</p>",
+                   company: "Action Against Hunger",
+                   link: {
+                   href: "http://twitter.com/acottin17",
+                   text: "@acottin17"
+                   },
+                   presentation: {
                    //title: "Great teams start with great people, goals, and practices... but is that enough?",
                    //  description: "What makes great teams great? What brings them together to build great products? Ask a product manager and a project manager, and you'll get two different answers. Ask a hardcore developer and a team lead and you'll get two more. Great teams start with great people, with leaders and visionaries who set challenging and elevating goals, and tough-minded organizers who choose the right practices to build quality software. But is this enough to make a great product? What does it take to make a team gel into a truly collaborative mindset? Find out how great teams are built in this engaging talk from the bestselling O'Reilly author of <i>Beautiful Teams</i>.",
                    // day: "Day 1 (Thursday)",
                    //  time: "15:00 - 15:40",
-                   //}
-                   //},
+                   }
+                   },
+                   {
+                   anchor: "HenriKivioja",
+                   name: "Henri Kivioja",
+                   photo: "themes/stretchcon/img/henrikivioja.jpg",
+                   bio: "<p>Henri is Head Coach at Ericsson Finland. He has been working in R&D more than 13 years in different roles. His main insights come from scaling lean and agile into complex environment. Henri has been presenting his learnings in different conferences during past years and comes up always with a clear and inspiring message.</p>",
+                   company: "Ericsson Finland",
+                   link: {
+                   //href: "http://twitter.com/eliast",
+                   //text: "@eliast"
+                   },
+                   presentation: {
+                   //title: "Great teams start with great people, goals, and practices... but is that enough?",
+                   //  description: "What makes great teams great? What brings them together to build great products? Ask a product manager and a project manager, and you'll get two different answers. Ask a hardcore developer and a team lead and you'll get two more. Great teams start with great people, with leaders and visionaries who set challenging and elevating goals, and tough-minded organizers who choose the right practices to build quality software. But is this enough to make a great product? What does it take to make a team gel into a truly collaborative mindset? Find out how great teams are built in this engaging talk from the bestselling O'Reilly author of <i>Beautiful Teams</i>.",
+                   // day: "Day 1 (Thursday)",
+                   //  time: "15:00 - 15:40",
+                   }
+                   },
                    {
                    anchor: "anonim",
                    name: "Do you have a story to share?",
