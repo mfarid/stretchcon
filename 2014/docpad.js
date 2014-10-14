@@ -246,14 +246,14 @@ module.exports = {
                    }
                    },
                    {
-                   anchor: "MariekeRietbergen",
-                   name: "Marieke Rietbergen",
-                   photo: "themes/stretchcon/img/mariekerietbergen.jpg",
-                   bio: "<p>Marieke Rietbergen is the founder of Design Innovation Group. She is a creative collaborator with a passion for human-centered innovation. She believes in the value of creative processes, and the potential they have to accelerate positive change. Marieke is a mother of two. She enjoys being surprised by the weird and wonderful and being aesthetically pleased. She believes in the value of connecting diverse perspectives and has an extensive network of great minds to draw upon. Her enthusiasm for ideas is complemented by her proactive energy, applied to making ideas happen. Marieke believes that bringing together design thinking and business sense, in people, methods and instruments will create more succesful innovative - and profitable - products, services and strategies. She loves to bring together people with different backgrounds. And she believes in getting things done. ”</p>",
-                   company: "Design Innovation Group",
+                   anchor: "HughWilliams",
+                   name: "Hugh Williams",
+                   photo: "themes/stretchcon/img/hughwilliams.png",
+                   bio: "<p>Hugh E. Williams is a technology executive who has worked at Pivotal, eBay, and Microsoft. He's also spent a significant part of his career as an Associate Professor and running his own startup. He has built teams rapidly from 2 to 300, and restructured 1,000-person technology organizations and reinvigorated technical cultures. Along the way, he's learnt how to build large organizations from empowered small teams that can change the world. He enjoys writing, and has published over 100 works, including two books for O'Reilly Media Inc. He holds 19 U.S. patents, with many more pending. He has a PhD from RMIT University in Australia.</p>",
+                   company: "Pivotal",
                    link: {
-                   href: "http://twitter.com/DesInnGro",
-                   text: "@DesInnGro"
+                   href: "http://twitter.com/hughewilliams ",
+                   text: "@hughewilliams "
                    },
                    presentation: {
                    //title: "Great teams start with great people, goals, and practices... but is that enough?",
@@ -262,32 +262,15 @@ module.exports = {
                    //  time: "15:00 - 15:40",
                    }
                    },
-                {
-                anchor: "ErranBerger",
-                name: "Erran Berger",
-                photo: "themes/stretchcon/img/erranberger.jpg",
-                bio: "<p>Erran Berger is responsible for Content Engineering at LinkedIn. He leads the engineering teams that develop the company’s content focused products and infrastructure, including professional publishing, SlideShare, Pulse, sharing, and Groups. He is also responsible for building out world-class engineering teams in LinkedIn's San Francisco and New York City offices. Prior to joining LinkedIn in 2009, Erran was a senior software engineer at EMN8 (now Tillster) where he lead numerous software projects. Erran holds a BS in Computer Engineering from The University of California, San Diego.</p>",
-                company: "LinkedIn",
-                link: {
-                    href: "http://twitter.com/eberger45",
-                    text: "@eberger45"
-                },
-                presentation: {
-                    //title: "Great teams start with great people, goals, and practices... but is that enough?",
-                  //  description: "What makes great teams great? What brings them together to build great products? Ask a product manager and a project manager, and you'll get two different answers. Ask a hardcore developer and a team lead and you'll get two more. Great teams start with great people, with leaders and visionaries who set challenging and elevating goals, and tough-minded organizers who choose the right practices to build quality software. But is this enough to make a great product? What does it take to make a team gel into a truly collaborative mindset? Find out how great teams are built in this engaging talk from the bestselling O'Reilly author of <i>Beautiful Teams</i>.",
-                   // day: "Day 1 (Thursday)",
-                  //  time: "15:00 - 15:40",
-                }
-                },
                    {
-                   anchor: "EliasTorres",
-                   name: "Elias Torres",
-                   photo: "themes/stretchcon/img/eliastorres.jpg",
-                   bio: "<p>Elias Torres is focused on building the best engineering organization in Boston. His team at HubSpot builds a distributed, cloud-based software platform for marketers that powers HubSpot's ambition to become the #1 marketing company in the world. He is obsessed with finding the best talent, sculpting company culture, and getting things done. </p>",
-                   company: "HubSpot",
+                   anchor: "TyAmell",
+                   name: "Ty Amell",
+                   photo: "themes/stretchcon/img/TyAmell.jpeg",
+                   bio: "<p>Ty is a Director of Engineering at PayPal. Ty joined PayPal after they acquired StackMob, where he was CEO and Founder. StackMob was the original backend-as-a-service started in 2010 and grew rapidly over 4 years before being acquired by PayPal in December 2013. Prior to StackMob, Ty headed mobile, API, and frontend teams at imeem, a music social platform. He built out imeem’s mobile applications to over 1.2 million users. </p>",
+                   company: "PayPal",
                    link: {
-                   href: "http://twitter.com/eliast",
-                   text: "@eliast"
+                   href: "http://twitter.com/tyamell",
+                   text: "@tyamell"
                    },
                    presentation: {
                    //title: "Great teams start with great people, goals, and practices... but is that enough?",
@@ -296,6 +279,7 @@ module.exports = {
                    //  time: "15:00 - 15:40",
                    }
                    },
+
                    {
                    anchor: "JanNolte",
                    name: "Jan Nolte",
@@ -314,11 +298,47 @@ module.exports = {
                    }
                    },
                    {
+                   anchor: "PeterHeslin",
+                   name: "Peter Heslin",
+                   photo: "themes/stretchcon/img/peterheslin.jpg",
+                   bio: "<p>Peter is a proud dad and Associate Professor of Management at UNSW Australia. His research focuses on self-regulatory dynamics in leadership and career success. Peter is particularly fascinated by the role of a person’s prevailing mindset in how well they think, feel, act, and interact with others, so conducts scholarly research and delivers workshops on enabling growth mindsets to leading corporations, as well as pro bono for little-known non-profits. His related passion is helping people discover how to bring out the best in themselves and others. Peter is a Warrane College Academic Fellow and was elected the 2013-14 Chair of the Academy of Management Careers Division. ”</p>",
+                   company: "UNSW Australia",
+                   link: {
+                   //href: "http://twitter.com/DesInnGro",
+                   //text: "@DesInnGro"
+                   },
+                   presentation: {
+                   //title: "Great teams start with great people, goals, and practices... but is that enough?",
+                   //  description: "What makes great teams great? What brings them together to build great products? Ask a product manager and a project manager, and you'll get two different answers. Ask a hardcore developer and a team lead and you'll get two more. Great teams start with great people, with leaders and visionaries who set challenging and elevating goals, and tough-minded organizers who choose the right practices to build quality software. But is this enough to make a great product? What does it take to make a team gel into a truly collaborative mindset? Find out how great teams are built in this engaging talk from the bestselling O'Reilly author of <i>Beautiful Teams</i>.",
+                   // day: "Day 1 (Thursday)",
+                   //  time: "15:00 - 15:40",
+                   }
+                   },
+
+                   {
+                   anchor: "MariekeRietbergen",
+                   name: "Marieke Rietbergen",
+                   photo: "themes/stretchcon/img/mariekerietbergen.jpg",
+                   bio: "<p>Marieke Rietbergen is the founder of Design Innovation Group. She is a creative collaborator with a passion for human-centered innovation. She believes in the value of creative processes, and the potential they have to accelerate positive change. Marieke is a mother of two. She enjoys being surprised by the weird and wonderful and being aesthetically pleased. She believes in the value of connecting diverse perspectives and has an extensive network of great minds to draw upon. Her enthusiasm for ideas is complemented by her proactive energy, applied to making ideas happen. Marieke believes that bringing together design thinking and business sense, in people, methods and instruments will create more succesful innovative - and profitable - products, services and strategies. She loves to bring together people with different backgrounds. And she believes in getting things done. ”</p>",
+                   company: "Design Innovation Group",
+                   link: {
+                   href: "http://twitter.com/DesInnGro",
+                   text: "@DesInnGro"
+                   },
+                   presentation: {
+                   //title: "Great teams start with great people, goals, and practices... but is that enough?",
+                   //  description: "What makes great teams great? What brings them together to build great products? Ask a product manager and a project manager, and you'll get two different answers. Ask a hardcore developer and a team lead and you'll get two more. Great teams start with great people, with leaders and visionaries who set challenging and elevating goals, and tough-minded organizers who choose the right practices to build quality software. But is this enough to make a great product? What does it take to make a team gel into a truly collaborative mindset? Find out how great teams are built in this engaging talk from the bestselling O'Reilly author of <i>Beautiful Teams</i>.",
+                   // day: "Day 1 (Thursday)",
+                   //  time: "15:00 - 15:40",
+                   }
+                   },
+
+                   {
                    anchor: "JohnBlakey",
                    name: "John Blakey",
                    photo: "themes/stretchcon/img/johnblakey.jpg",
-                   bio: "<p>John is one of the UK’s leading executive coaches and board advisors having worked with CEOs around the globe, as well as with Olympic medallists and Team GB / England sports coaches in rowing, cricket and target shooting. In his business career, John has been a Fast Track 100 entrepreneur, FTSE100 International Managing Director and Chair/Director of a number of voluntary organisations, working collaboratively in diverse teams to deliver outstanding results. Most recently, he has been engaged by Peter Moores, the England team cricket coach, to support Peter’s unprecedented second term in the role. John is an experienced international speaker on the topics of leadership and coaching, contributing to events such as the World Business and Executive Coaching Summit (WBECS), the Marriott Hotels TEDx talks and the Aston Business School MBA speaker series. In 2012, he co-authored with Ian Day the best-selling leadership coaching book 'Challenging Coaching' which has been featured in the Sunday Times, the Guardian and the Financial Times and contains the FACTS coaching model ( see www.challengingcoaching.co.uk). In his work, John draws upon a broad range of influences including his Christian faith, his PCC coaching credential with the International Coach Federation, his expertise in yoga and t'ai chi and his ongoing doctoral research on CEO leadership.</p>",
-                   company: "Vistage",
+                   bio: "<p>John is one of the UK’s leading executive coaches and board advisors having worked with CEOs around the globe, as well as with Olympic medallists and Team GB / England sports coaches in rowing, cricket and target shooting. In his business career, John has been a Fast Track 100 entrepreneur, FTSE100 International Managing Director and Chair/Director of a number of voluntary organisations, working collaboratively in diverse teams to deliver outstanding results. He is an experienced international speaker and co-author with Ian Day of the best-selling leadership coaching book 'Challenging Coaching' which has been featured in the Sunday Times, the Guardian and the Financial Times.</p>",
+                   company: "Author – Challenging Coaching",
                    link: {
                    //href: "http://twitter.com/noltejan",
                    //text: "@noltejan"
@@ -382,14 +402,65 @@ module.exports = {
                    }
                    },
                    {
-                   anchor: "anonim",
-                   name: "Do you have a story to share?",
-                   photo: "themes/stretchcon/img/anonim.jpeg",
-                   bio: "<p>Great, because we have free spot for you on the stage! E-mail a relevant proposal to hello@stretchcon.com. Please include a) a 100-200 word abstract, b) 200 word speaker bio, c) photo of speaker, d) speaker contact information, e) why do you believe your talk would fit.</p>",
-                   //company: "LinkedIn",
+                   anchor: "SeanSouthey",
+                   name: "Sean Southey",
+                   photo: "themes/stretchcon/img/seansouthey.png",
+                   bio: "<p>Sean is deeply committed to community empowerment, peace, and using creative media to facilitate powerful social change. A resourceful manager with over 24 years of experience in the development and communications field, Sean is the Chief Executive Officer at PCI Media Impact. Sean has a rich multi-sector background including 12 years with the United Nations Development Programme, 5 years with the Canadian government and 7 years working with international non-government organizations such as ICLEI (Secretary General), Rare (Vice-President) and PCI Media Impact. Sean is a dual Canadian and South African citizen and has lived and worked in over 70 countries. He holds a MSC from the London School of Economics and a BA in Economics from University of British Columbia, and has a wonderful daughter, Safia.</p>",
+                   company: "PCI Media Impact",
                    link: {
-                  // href: "http://twitter.com/eberger45",
-                  // text: "@eberger45"
+                   href: "http://twitter.com/seansouthey",
+                   text: "@seansouthey"
+                   },
+                   presentation: {
+                   //title: "Great teams start with great people, goals, and practices... but is that enough?",
+                   //  description: "What makes great teams great? What brings them together to build great products? Ask a product manager and a project manager, and you'll get two different answers. Ask a hardcore developer and a team lead and you'll get two more. Great teams start with great people, with leaders and visionaries who set challenging and elevating goals, and tough-minded organizers who choose the right practices to build quality software. But is this enough to make a great product? What does it take to make a team gel into a truly collaborative mindset? Find out how great teams are built in this engaging talk from the bestselling O'Reilly author of <i>Beautiful Teams</i>.",
+                   // day: "Day 1 (Thursday)",
+                   //  time: "15:00 - 15:40",
+                   }
+                   },
+                   {
+                   anchor: "RosemaryKing",
+                   name: "RoseMary King",
+                   photo: "themes/stretchcon/img/rosemaryking.jpg",
+                   bio: "<p>Rosemary King is a Product Manager at Pivotal Labs.  Prior to Labs, Rosemary worked at ThoughtWorks and Case Commons, as a user researcher and product manager.  Before technology Rosemary worked in politics, advocacy and non-profit and strongly believes that user centered research can help build tools that can change the world. She also believes in the importance of having a life rich in hobbies and activities that get us into different mindsets and modes, and yes, she plays quite often. </p>",
+                   company: "Pivotal",
+                   link: {
+                   href: "http://twitter.com/RozemaryKing",
+                   text: "@RozemaryKing"
+                   },
+                   presentation: {
+                   //title: "Great teams start with great people, goals, and practices... but is that enough?",
+                   //  description: "What makes great teams great? What brings them together to build great products? Ask a product manager and a project manager, and you'll get two different answers. Ask a hardcore developer and a team lead and you'll get two more. Great teams start with great people, with leaders and visionaries who set challenging and elevating goals, and tough-minded organizers who choose the right practices to build quality software. But is this enough to make a great product? What does it take to make a team gel into a truly collaborative mindset? Find out how great teams are built in this engaging talk from the bestselling O'Reilly author of <i>Beautiful Teams</i>.",
+                   // day: "Day 1 (Thursday)",
+                   //  time: "15:00 - 15:40",
+                   }
+                   },
+                   {
+                   anchor: "PhilNash",
+                   name: "Phil Nash",
+                   photo: "themes/stretchcon/img/philnash.jpg",
+                   bio: "<p>Phil started his career fascinated with the idea of making computers do anything he wanted. When he discovered this didn’t always work out he became fascinated with the idea of making code better. When he discovered this didn’t always work out he became fascinated with the idea of making coders better. When he discovered this didn’t always work out he became fascinated with the idea of making his own understanding of how to make coders and code better, better. In short he is easily fascinated. Along the way, outside of contract work, consulting, training and coaching he has authored open source projects such as Catch (a C++ & Objective-C test framework), Clara (a C++ command line parser) and several iOS apps. If you're not careful he also speaks at conferences and events.” </p>",
+                   company: "Independent coach and consultant for Two Blue Cubes Ltd",
+                   link: {
+                   href: "http://twitter.com/phil_nash",
+                   text: "@phil_nash"
+                   },
+                   presentation: {
+                   //title: "Great teams start with great people, goals, and practices... but is that enough?",
+                   //  description: "What makes great teams great? What brings them together to build great products? Ask a product manager and a project manager, and you'll get two different answers. Ask a hardcore developer and a team lead and you'll get two more. Great teams start with great people, with leaders and visionaries who set challenging and elevating goals, and tough-minded organizers who choose the right practices to build quality software. But is this enough to make a great product? What does it take to make a team gel into a truly collaborative mindset? Find out how great teams are built in this engaging talk from the bestselling O'Reilly author of <i>Beautiful Teams</i>.",
+                   // day: "Day 1 (Thursday)",
+                   //  time: "15:00 - 15:40",
+                   }
+                   },
+                   {
+                   anchor: "UriNativ",
+                   name: "Uri Nativ",
+                   photo: "themes/stretchcon/img/urinativ.jpg",
+                   bio: "<p>Uri Nativ, VP Engineering and Site Manager of Klarna Tel Aviv. Has 16+ years working experience in various companies, from small startups to big corporates. Engineer by mind, people manager by heart. Uri has adopted Agile methodologies more than 7 years ago and had never let go since then. Uri constantly lectures about Agile, Methodologies, Culture and People in order to share and brainstorm new ideas. Uri is currently on a journey to build and grow Klarna Engineering Center in Israel.” </p>",
+                   company: "Klarna",
+                   link: {
+                   href: "http://twitter.com/unativ",
+                   text: "@unativ"
                    },
                    presentation: {
                    //title: "Great teams start with great people, goals, and practices... but is that enough?",
@@ -399,7 +470,9 @@ module.exports = {
                    }
                    },
 
-                    /*
+
+
+                                       /*
             {
                 anchor: "MichaelLopp",
                 name: "Michael Lopp",
