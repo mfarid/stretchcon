@@ -227,7 +227,23 @@ module.exports = {
 
         // Speakers and talks
         speakers: [
-           
+                   {
+                   anchor: "DavidAllen",
+                   name: "David Allen",
+                   photo: "themes/stretchcon/img/davidallen.jpeg",
+                   bio: "<p>David Allen is widely recognized as the world’s leading authority on personal and organizational productivity. His thirty years of pioneering research, coaching and education of some of the world’s highest-performing professionals has earned him Forbes’ recognition as one of the “Top five executive coaches” in the United States, and as one of the “Top 100 thought leaders” by Leadership Magazine. Fast Company hailed David Allen “One of the world’s most influential thinkers” in the arena of personal productivity, for his outstanding programs and writing on time and stress management, the power of aligned focus and vision, and his ground-breaking methodologies in management and executive peak performance.</p>",
+                   company: "David Allen Company",
+                   link: {
+                   href: "http://twitter.com/gtdguy",
+                   text: "@gtdguy"
+                   },
+                   presentation: {
+                   //title: "Great teams start with great people, goals, and practices... but is that enough?",
+                   //  description: "What makes great teams great? What brings them together to build great products? Ask a product manager and a project manager, and you'll get two different answers. Ask a hardcore developer and a team lead and you'll get two more. Great teams start with great people, with leaders and visionaries who set challenging and elevating goals, and tough-minded organizers who choose the right practices to build quality software. But is this enough to make a great product? What does it take to make a team gel into a truly collaborative mindset? Find out how great teams are built in this engaging talk from the bestselling O'Reilly author of <i>Beautiful Teams</i>.",
+                   // day: "Day 1 (Thursday)",
+                   //  time: "15:00 - 15:40",
+                   }
+                   },
                    {
                    anchor: "DavidMarquet",
                    name: "David Marquet",
