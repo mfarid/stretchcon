@@ -39,7 +39,7 @@ module.exports = {
             'speakers',
             'location',
             'tickets',
-            //'sponsors',
+            'sponsors',
             'organizers',
             'contact'
         ],
