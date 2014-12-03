@@ -35,7 +35,7 @@ module.exports = {
             //'summary',
             //'photos',
             'about',
-            //'schedule',
+            'schedule',
             'speakers',
             'location',
             'tickets',
@@ -61,167 +61,147 @@ module.exports = {
                 header: "Day 1 (Thursday)",
                 slots: [
                     {
-                        time: "08:45 - 09:45",
+                        time: "08:00 - 09:00",
                         title: "Registration & Breakfast"
                     },
                     {
-                        time: "09:45 - 10:00",
-                        title: "Welcome"
+                        time: "09:00 - 09:20",
+                        title: "A conference can change your life",
+                        speaker: true
                     },
                     {
-                        time: "10:00 - 10:40",
-                        title: "Non-intuitive strategies for success",
+                        time: "09:20 - 10:20",
+                        title: "The Art of Stress-Free Productivity",
                         keynote: true,
-                        speaker: true,
-                        recordedUrl: "http://www.ustream.tv/recorded/41391884/highlight/442620"
+                        speaker: true
+                        //recordedUrl: "http://www.ustream.tv/recorded/41391884/highlight/442620"
+                    },
+                    {
+                        time: "10:20 - 10:40",
+                        title: "Break"
                     },
                     {
                         time: "10:40 - 11:20",
-                        title: "Leading a learning organization",
-                        speaker: true,
-                        recordedUrl: "http://www.ustream.tv/recorded/41391884/highlight/442623",
-                        presentationUrl: "https://prezi.com/bh84olgmbcqm/leading-a-learning-organization-stretch/",
+                        title: "What you say matters. How you say it matters even more.",
+                        speaker : true
                     },
                     {
-                        time: "11:20 - 11:40",
-                        title: "Break"
+                        time: "11:20 - 12:00",
+                        title: "Mindsets and Realising Human Potential",
+                        speaker: true
                     },
                     {
-                        time: "11:40 - 12:20",
-                        title: "Does your team fit? From Idea to International Success, practical tips and lessons learnt",
-                        speaker: true,
-                        recordedUrl: "http://www.ustream.tv/recorded/41394346/highlight/442652",
-                        presentationUrl: "http://goo.gl/Oys8A4",
-                    },
-                    {
-                        time: "12:20 - 13:00",
-                        title: "How Agile Coaches help us win—the Agile Coach role at Spotify",
-                        speaker: true,
-                        recordedUrl: "http://www.ustream.tv/recorded/41394346/highlight/442656",
-                        presentationUrl: "https://drive.google.com/file/d/0B21W5ntVUsoMMjJBWjcycTZYcjQ/edit?usp=sharing",
-                    },
-                    {
-                        time: "13:00 - 14:10",
+                        time: "12:00 - 13:30",
                         title: "Lunch"
                     },
                     {
-                        time: "14:10 - 14:20",
-                        title: "Sponsor Pitches"
+                        time: "13:30 - 14:10",
+                        title: "Mens Sana In Corpore Sano : A Healthy Mind In A Healthy Body",
+                        speaker: true
                     },
                     {
-                        time: "14:20 - 15:00",
-                        title: "Getting our brains to sing together",
-                        speaker: true,
-                        recordedUrl: "http://www.ustream.tv/recorded/41397690/highlight/443646",
-                        presentationUrl: "https://drive.google.com/file/d/0B9Pcexls_M0CNjJRVTQ4ODBVdmFOMHRwXzZLVTQ4b1FSdTFN/edit?usp=sharing",
+                        time: "14:10 - 14:50",
+                        title: "Finding Me - The value part",
+                        speaker: true
                     },
                     {
-                        time: "15:00 - 15:40",
-                        title: "Great teams start with great people, goals, and practices... but is that enough?",
-                        speaker: true,
-                        recordedUrl: "http://www.ustream.tv/recorded/41398692/highlight/443648"
+                        time: "14:50 - 15:10",
+                        title: "Break",
                     },
                     {
-                        time: "15:40 - 16:00",
-                        title: "Break"
+                        time: "15:10 - 15:50",
+                        title: "Dance with the System",
+                        speaker: true
                     },
                     {
-                        time: "16:00 - 16:40",
-                        title: "People don't quit their job, they quit their boss",
-                        speaker: true,
-                        recordedUrl: "http://www.ustream.tv/recorded/41400204/highlight/443649",
-                        presentationUrl: "https://speakerdeck.com/orenellenbogen/strechconf-2013-people-dont-quit-their-job-they-quit-their-boss",
+                        time: "15:50 - 16:30",
+                        title: "Bringing everyone to the table - Stretching impact through meaningful partnerships",
+                        speaker: true
                     },
                     {
-                        time: "16:40 - 17:00",
-                        title: "Closing"
+                        time: "16:30 - 17:10",
+                        title: "Challenging Coaching: Going beyond traditional coaching to face the FACTS.",
+                        speaker: true
                     },
                     {
-                        time: "17:00 - 20:00",
+                        time: "17:10 - 18:00",
                         title: "Snacks & Drinks"
                     },
                     {
                         time: "20:00",
-                        title: "After Party @ Kocka (45 Kazinczy)"
+                        title: "After Party @ GMK (Gozsdu Mano Klub)"
                     }
                 ]
             },
             {
                 header: "Day 2 (Friday)",
                 slots: [
-                    {
+                        {
                         time: "09:00 - 10:00",
                         title: "Registration & Breakfast"
-                    },
-                    {
-                        time: "10:00 - 10:40",
-                        title: "Offer hope to your staff: build a culture of learning",
+                        },
+                        {
+                        time: "10:00 - 11:00",
+                        title: "Intent-Based Leadership. Create Leaders at Every Level.",
                         keynote: true,
-                        speaker: true,
-                        recordedUrl: "http://www.ustream.tv/recorded/41424807/highlight/443655",
-                        presentationUrl: "http://www.slideshare.net/sarahnovotny/learningculture-portraits",
-                    },
-                    {
-                        time: "10:40 - 11:20",
-                        title: "The role of the manager in modern tech organizations",
-                        speaker: true,
-                        recordedUrl: "http://www.ustream.tv/recorded/41424807/highlight/443657",
-                        presentationUrl: "http://www.slideshare.net/andreasehn/stretch-2013-role-of-the-manager",
-                    },
-                    {
-                        time: "11:20 - 11:40",
+                        speaker: true
+                        },
+                        {
+                        time: "11:00 - 11:40",
+                        title: "How design will solve the wicked problems in our world",
+                        speaker: true
+                        },
+                        {
+                        time: "11:40 - 12:00",
                         title: "Break"
-                    },
-                    {
-                        time: "11:40 - 12:20",
-                        title: "PostCards from the Future: Tipis for overcoming barriers to innovation",
-                        speaker: true,
-                        recordedUrl: "http://www.infoq.com/presentations/leadership-learning-business-needs",
-                        presentationUrl: "https://prezi.com/dlbfavsgf9mn/postcards-from-the-future/",
-                    },
-                    {
-                        time: "12:20 - 12:50",
-                        title: "Panel and Q&A",
-                        recordedUrl: "http://www.ustream.tv/recorded/41426796/highlight/443660"
-                    },
-                    {
-                        time: "12:50 - 13:00",
-                        title: "Organizor Pitches",
-                        recordedUrl: "http://www.ustream.tv/recorded/41426796/highlight/443661"
-                    },
-                    {
-                        time: "13:00 - 14:10",
+                        },
+                        {
+                        time: "12:00 - 12:40",
+                        title: "#TheNextBillion: Reaching the Next Billion With Life Changing Stories",
+                        speaker: true
+                        },
+                        {
+                        time: "12:40 - 13:20",
+                        title: "It's a marathon, not a sprint",
+                        speaker: true
+                        },
+                        {
+                        time: "13:20 - 14:20",
                         title: "Lunch"
-                    },
-                    {
-                        time: "14:10 - 14:20",
-                        title: "Sponsor Pitches"
-                    },
-                    {
+                        },
+                        {
                         time: "14:20 - 15:00",
-                        title: "Building great agile teams",
-                        speaker: true
-                    },
-                    {
+                        title: "Get Back to Play: How Play and Playfulness can help build better Products and more Innovative Teams",
+                        speaker : true
+                        },
+                        {
                         time: "15:00 - 15:40",
-                        title: "The EPAM way managing from 0 to the Dow Jones",
-                        speaker: true,
-                        presentationUrl: "https://drive.google.com/file/d/0B6hXWVB6ezYbZjA1U3BaWDFvMlU/edit?usp=sharing",
-                    },
-                    {
-                        time: "15:40 - 15:50",
-                        title: "Break"
-                    },
-                    {
-                        time: "15:50 - 16:30",
-                        title: "CANCELLED—The Kemény method",
-                        speaker: true
-                    },
-                    {
-                        time: "16:30",
+                        title: "Conflict Isn't a Bad Word",
+                        speaker : true
+                        },
+                        {
+                        time: "15:40 - 16:00",
+                        title: "Break",
+                        },
+                        {
+                        time: "16:00 - 16:40",
+                        title: "The Missing Lecture",
+                        speaker : true
+                        },
+                        {
+                        time: "16:40 - 17:20",
+                        title: "Lessons from the Road: A Look Into Exploration and Endurance",
+                        speaker : true
+                        },
+                        {
+                        time: "17:20 - 18:00",
+                        title: "Panel Talk"
+                        },
+                        {
+                        time: "18:00 - 18:20",
                         title: "Closing"
-                    }
-                ]
+                        }
+                                    ]
             }
         ],
 
@@ -238,10 +218,10 @@ module.exports = {
                    text: "@gtdguy"
                    },
                    presentation: {
-                   //title: "Great teams start with great people, goals, and practices... but is that enough?",
-                   //  description: "What makes great teams great? What brings them together to build great products? Ask a product manager and a project manager, and you'll get two different answers. Ask a hardcore developer and a team lead and you'll get two more. Great teams start with great people, with leaders and visionaries who set challenging and elevating goals, and tough-minded organizers who choose the right practices to build quality software. But is this enough to make a great product? What does it take to make a team gel into a truly collaborative mindset? Find out how great teams are built in this engaging talk from the bestselling O'Reilly author of <i>Beautiful Teams</i>.",
-                   // day: "Day 1 (Thursday)",
-                   //  time: "15:00 - 15:40",
+                   title: "The Art of Stress-Free Productivity",
+                     description: "A presentation of the core principles and best practices for getting things done with minimal effort. David will share the keys and practical techniques for achieving and maintaining control and perspective in a world of too much to do.</i>",
+                    day: "Day 1 (Thursday)",
+                     time: "09:20 - 10:20",
                    }
                    },
                    {
@@ -255,10 +235,27 @@ module.exports = {
                    text: "@ldavidmarquet"
                    },
                    presentation: {
-                   //title: "Great teams start with great people, goals, and practices... but is that enough?",
-                   //  description: "What makes great teams great? What brings them together to build great products? Ask a product manager and a project manager, and you'll get two different answers. Ask a hardcore developer and a team lead and you'll get two more. Great teams start with great people, with leaders and visionaries who set challenging and elevating goals, and tough-minded organizers who choose the right practices to build quality software. But is this enough to make a great product? What does it take to make a team gel into a truly collaborative mindset? Find out how great teams are built in this engaging talk from the bestselling O'Reilly author of <i>Beautiful Teams</i>.",
-                   // day: "Day 1 (Thursday)",
-                   //  time: "15:00 - 15:40",
+                   title: "Intent-Based Leadership. Create Leaders at Every Level.",
+                   description: "David Marquet imagines a work place where everyone engages and contributes their full intellectual capacity. A place where people are healthier and happier because they have more control over their work – a place where everyone is a leader. Intent-Based Leadership create an environment for people to contribute so that they feel valued and reach their potential. Leadership is not for the select few at the top. In highly effective organizations, there are leaders at every level. When we give people more authority, we create more effective leaders. Leaders embed the capacity for greatness in the people and practices of an organization, and decouple it from the personality of leaders.",
+                   day: "Day 2 (Friday)",
+                   time: "10:00 - 11:00",
+                   }
+                   },
+                   {
+                   anchor: "ZoeRomano",
+                   name: "Zoë Romano",
+                   photo: "themes/stretchcon/img/zoeromano.jpg",
+                   bio: "<p>Zoë Romano is taking the sport of long-distance running to places it’s never been. In 2010, at age 23, she became the first female to run across the U.S. unsupported, and in 2013 became the first and only person to ever run all 2,000 miles of the Tour de France route. Completing this goal in ten weeks required Zoë to run 30 miles a day, taking only one day of rest every nine days. The course includes roughly 100,000 feet of elevation change, which is equal to three and a half Mt. Everest climbs. She burned through five pairs of sneakers, zillions of calories, battled dangerous weather, wild animals, exhaustion, and finally, complete and utter boredom. Throughout her journey, Zoë learned powerful lessons about what it means to be vulnerable and persistent; and how the relationship between uncertainty and determination can lead to successful innovation and pioneering in achieving a goal. </p>",
+                   company: "Zoe Goes Running",
+                   link: {
+                   href: "http://twitter.com/zoeromano ",
+                   text: "@zoeromano "
+                   },
+                   presentation: {
+                   title: "Lessons from the Road: A Look Into Exploration and Endurance",
+                   description: "In this presentation, Zoë will share lessons from her journey running the Tour de France - as they apply to a professional and leadership environment - through storytelling and shared discoveries. Her anecdotes focus on themes of perseverance, exploration, and re-thinking traditional notions of what’s possible. You’ll come away with the inspiration to push yourself in new ways, bridge the gap between personal ambition and community support, and, as Zoë says, to live your question. With her help, you’ll explore how to harness the power of vulnerability, how to uncover the virtue of uncertainty, and how to discipline your own determination, leaving you full of endorphins and big ideas.</i>.",
+                   day: "Day 2 (Friday)",
+                   time: "16:40 - 17:20",
                    }
                    },
                    {
@@ -272,10 +269,10 @@ module.exports = {
                    text: "@hughewilliams "
                    },
                    presentation: {
-                   //title: "Great teams start with great people, goals, and practices... but is that enough?",
-                   //  description: "What makes great teams great? What brings them together to build great products? Ask a product manager and a project manager, and you'll get two different answers. Ask a hardcore developer and a team lead and you'll get two more. Great teams start with great people, with leaders and visionaries who set challenging and elevating goals, and tough-minded organizers who choose the right practices to build quality software. But is this enough to make a great product? What does it take to make a team gel into a truly collaborative mindset? Find out how great teams are built in this engaging talk from the bestselling O'Reilly author of <i>Beautiful Teams</i>.",
-                   // day: "Day 1 (Thursday)",
-                   //  time: "15:00 - 15:40",
+                   title: "It's a marathon, not a sprint",
+                   description: "We've all done an all-night coding or exam cram session. Think back: how did it really turn out? It's hard to be strategic, thoughtful, and purposeful when you're sprinting all the time. In this talk, Hugh shares his experiences on how and why to treat your journey as a software engineering professional as a marathon, and not endless sprints. He'll share stories, ideas, and thoughts from successful leaders who think and act in a sustainable, balanced way in their careers. He'll leave you believing that you should live a balanced life, and that it'll lead to being a more productive and impactful leader over the journey of your career.",
+                   day: "Day 2 (Friday)",
+                   time: "12:40 - 13:20",
                    }
                    },
                    {
@@ -289,10 +286,10 @@ module.exports = {
                    text: "@tyamell"
                    },
                    presentation: {
-                   //title: "Great teams start with great people, goals, and practices... but is that enough?",
-                   //  description: "What makes great teams great? What brings them together to build great products? Ask a product manager and a project manager, and you'll get two different answers. Ask a hardcore developer and a team lead and you'll get two more. Great teams start with great people, with leaders and visionaries who set challenging and elevating goals, and tough-minded organizers who choose the right practices to build quality software. But is this enough to make a great product? What does it take to make a team gel into a truly collaborative mindset? Find out how great teams are built in this engaging talk from the bestselling O'Reilly author of <i>Beautiful Teams</i>.",
-                   // day: "Day 1 (Thursday)",
-                   //  time: "15:00 - 15:40",
+                   title: "Conflict Isn't a Bad Word",
+                   description: "Growing productive teams is about hiring the right people and building a culture of excellence. The best cultures are built on trust, but also on conflict. In today's world conflict has a negative connotation but embracing conflict leads to more productive and higher performing teams. This talk will cover how to embrace conflict, keep it productive and build a culture for lasting success. It will draw upon some great concepts such as Patrick Lencioni's 'Five Dysfunctions of a Team' and Robert Sutton's 'The No Asshole Rule'",
+                   day: "Day 2 (Friday)",
+                   time: "15:00 - 15:40",
                    }
                    },
 
@@ -307,10 +304,10 @@ module.exports = {
                    text: "@noltejan"
                    },
                    presentation: {
-                   //title: "Great teams start with great people, goals, and practices... but is that enough?",
-                   //  description: "What makes great teams great? What brings them together to build great products? Ask a product manager and a project manager, and you'll get two different answers. Ask a hardcore developer and a team lead and you'll get two more. Great teams start with great people, with leaders and visionaries who set challenging and elevating goals, and tough-minded organizers who choose the right practices to build quality software. But is this enough to make a great product? What does it take to make a team gel into a truly collaborative mindset? Find out how great teams are built in this engaging talk from the bestselling O'Reilly author of <i>Beautiful Teams</i>.",
-                   // day: "Day 1 (Thursday)",
-                   //  time: "15:00 - 15:40",
+                   title: "What you say matters. How you say it matters even more.",
+                   description: "Your success as a leader depends on your ability to communicate and use every speaking opportunity to assert your personal brand. Making the conversation memorable is what makes you influential. Jan Nolte, professional actress and executive voice coach, will show you how to move the audiences in your life.  You’ll learn the tools to speak with confidence, project with ease and move others to action in every situation.  Her entertaining, inspiring talk will take you from drab conformity to dazzling authenticity.",
+                   day: "Day 1 (Thursday)",
+                   time: "10:40 - 11:20",
                    }
                    },
                    {
@@ -324,10 +321,10 @@ module.exports = {
                    //text: "@DesInnGro"
                    },
                    presentation: {
-                   //title: "Great teams start with great people, goals, and practices... but is that enough?",
-                   //  description: "What makes great teams great? What brings them together to build great products? Ask a product manager and a project manager, and you'll get two different answers. Ask a hardcore developer and a team lead and you'll get two more. Great teams start with great people, with leaders and visionaries who set challenging and elevating goals, and tough-minded organizers who choose the right practices to build quality software. But is this enough to make a great product? What does it take to make a team gel into a truly collaborative mindset? Find out how great teams are built in this engaging talk from the bestselling O'Reilly author of <i>Beautiful Teams</i>.",
-                   // day: "Day 1 (Thursday)",
-                   //  time: "15:00 - 15:40",
+                   title: "Mindsets and Realising Human Potential",
+                   description: "Many people have big dreams, though then somehow get discouraged and diverted from passionately pursuing them. When inevitable setbacks are encountered, your prevailing mindset can play a decisive role in whether you disengage or systematically work to realise your potential. In this presentation, I will share some highlights of three decades of research regarding the nature of mindsets, what results from them, whether they can be changed, and practical implications for bringing out the best in yourself and others.",
+                    day: "Day 1 (Thursday)",
+                    time: "11:20 - 12:00",
                    }
                    },
 
@@ -342,10 +339,10 @@ module.exports = {
                    text: "@DesInnGro"
                    },
                    presentation: {
-                   //title: "Great teams start with great people, goals, and practices... but is that enough?",
-                   //  description: "What makes great teams great? What brings them together to build great products? Ask a product manager and a project manager, and you'll get two different answers. Ask a hardcore developer and a team lead and you'll get two more. Great teams start with great people, with leaders and visionaries who set challenging and elevating goals, and tough-minded organizers who choose the right practices to build quality software. But is this enough to make a great product? What does it take to make a team gel into a truly collaborative mindset? Find out how great teams are built in this engaging talk from the bestselling O'Reilly author of <i>Beautiful Teams</i>.",
-                   // day: "Day 1 (Thursday)",
-                   //  time: "15:00 - 15:40",
+                   title: "How design will solve the wicked problems in our world",
+                   description: "We live in a rapidly changing world of endless potential. Technological possibilities are quadrupling and the amount of business models are expanding at a rate faster than the speed of light. At the same time we face more and more wicked problems like poverty, energy and pollution. Now is the time to come up with real disruptive ways of thinking and doing for developing innovative solutions. The challenge here is to design products, services and strategies that people actually desire. After all, disruptive innovation is not about pushing technology or making more money - it is about the user who needs to act upon and adopt to the solutions. Marieke Rietbergen will show how to create teams who disrespect anything but the user in such a way their workings find a valuable balance between business, technology and design.",
+                   day: "Day 2 (Friday)",
+                   time: "11:00 - 11:40",
                    }
                    },
 
@@ -360,10 +357,10 @@ module.exports = {
                    //text: "@noltejan"
                    },
                    presentation: {
-                   //title: "Great teams start with great people, goals, and practices... but is that enough?",
-                   //  description: "What makes great teams great? What brings them together to build great products? Ask a product manager and a project manager, and you'll get two different answers. Ask a hardcore developer and a team lead and you'll get two more. Great teams start with great people, with leaders and visionaries who set challenging and elevating goals, and tough-minded organizers who choose the right practices to build quality software. But is this enough to make a great product? What does it take to make a team gel into a truly collaborative mindset? Find out how great teams are built in this engaging talk from the bestselling O'Reilly author of <i>Beautiful Teams</i>.",
-                   // day: "Day 1 (Thursday)",
-                   //  time: "15:00 - 15:40",
+                   title: "Challenging Coaching: Going beyond traditional coaching to face the FACTS.",
+                   description: "Challenging Coaching is a real-world, timely, and provocative approach which provides a wake-up call to move beyond the limitations of traditional coaching. Based on the speaker's extensive experience working with CEOs and elite sport coaches, John will suggest that for too long coaching approaches have shied away from adopting a more challenging stance - a stance that can unlock a deeper potential in business leaders and their teams. Long-held coaching principles are put under the spotlight with the speaker questioning their relevance to a 21st-century business environment. John will explore his book's FACTS coaching model in theory and in practice using case studies, psychological research and lively anecdotes; inspiring the audience to challenge others using respectful yet direct techniques.</i>.",
+                   day: "Day 1 (Thursday)",
+                   time: "16:30 - 17:10",
                    }
                    },
                    {
@@ -377,10 +374,10 @@ module.exports = {
                    //ßtext: "@noltejan"
                    },
                    presentation: {
-                   //title: "Great teams start with great people, goals, and practices... but is that enough?",
-                   //  description: "What makes great teams great? What brings them together to build great products? Ask a product manager and a project manager, and you'll get two different answers. Ask a hardcore developer and a team lead and you'll get two more. Great teams start with great people, with leaders and visionaries who set challenging and elevating goals, and tough-minded organizers who choose the right practices to build quality software. But is this enough to make a great product? What does it take to make a team gel into a truly collaborative mindset? Find out how great teams are built in this engaging talk from the bestselling O'Reilly author of <i>Beautiful Teams</i>.",
-                   // day: "Day 1 (Thursday)",
-                   //  time: "15:00 - 15:40",
+                   title: "Finding Me - The value part",
+                   description: "Looking for business results? Processes failed, struggling to deliver? Start focusing on the human software. Be more aware of yourself. Feel gratitude and connect to your own values before you work on any value proposition. Be brave to show and generous to share.  </i>.",
+                   day: "Day 1 (Thursday)",
+                   time: "14:10 - 14:50",
                    }
                    },
                    {
@@ -394,10 +391,10 @@ module.exports = {
                    text: "@acottin17"
                    },
                    presentation: {
-                   //title: "Great teams start with great people, goals, and practices... but is that enough?",
-                   //  description: "What makes great teams great? What brings them together to build great products? Ask a product manager and a project manager, and you'll get two different answers. Ask a hardcore developer and a team lead and you'll get two more. Great teams start with great people, with leaders and visionaries who set challenging and elevating goals, and tough-minded organizers who choose the right practices to build quality software. But is this enough to make a great product? What does it take to make a team gel into a truly collaborative mindset? Find out how great teams are built in this engaging talk from the bestselling O'Reilly author of <i>Beautiful Teams</i>.",
-                   // day: "Day 1 (Thursday)",
-                   //  time: "15:00 - 15:40",
+                   title: "Bringing everyone to the table - Stretching impact through meaningful partnerships",
+                   description: "Ending world hunger is a team effort: It requires the skillset, creativity and influence of all stakeholders, far beyond the nonprofit world. In short, it takes a village. Alex Cottin, Associate Director of Partnerships at Action Against Hunger, will discuss how the international development landscape is stretching - moving away from the traditional corporate philanthropic paradigm and seeking to diversify relationships in more inclusive and innovative partnerships to change the face of humanitarian aid. Drawing upon a decade’s worth of experience on the front lines of disaster relief and development projects from Liberia to Haiti - he will outline a roadmap of how thinking differently about our approach to the world’s most pressing problems is both needed and possible to unleash our potential to scale up impact. He’ll highlight exciting ways that companies and teams from all sectors can - and must - have a seat at the table to put an end to global hunger.",
+                   day: "Day 1 (Thursday)",
+                   time: "15:50 - 16:30",
                    }
                    },
                    {
@@ -407,14 +404,14 @@ module.exports = {
                    bio: "<p>Henri is Head Coach at Ericsson Finland. He has been working in R&D more than 13 years in different roles. His main insights come from scaling lean and agile into complex environment. Henri has been presenting his learnings in different conferences during past years and comes up always with a clear and inspiring message.</p>",
                    company: "Ericsson Finland",
                    link: {
-                   //href: "http://twitter.com/eliast",
-                   //text: "@eliast"
+                   href: "https://twitter.com/hkivioja",
+                   text: "@hkivioja"
                    },
                    presentation: {
-                   //title: "Great teams start with great people, goals, and practices... but is that enough?",
-                   //  description: "What makes great teams great? What brings them together to build great products? Ask a product manager and a project manager, and you'll get two different answers. Ask a hardcore developer and a team lead and you'll get two more. Great teams start with great people, with leaders and visionaries who set challenging and elevating goals, and tough-minded organizers who choose the right practices to build quality software. But is this enough to make a great product? What does it take to make a team gel into a truly collaborative mindset? Find out how great teams are built in this engaging talk from the bestselling O'Reilly author of <i>Beautiful Teams</i>.",
-                   // day: "Day 1 (Thursday)",
-                   //  time: "15:00 - 15:40",
+                   title: "Dance with the System",
+                     description: "When I look around I see very clearly two “forces” fighting:  The world and how we experience it and our attempt to understand and control it. You may call the latter dogma, intent or process. What we usually try to achieve with this is a simplified view and linear cause-effect dependencies for better understanding. The other entity is entropy. In our surroundings entropy is everywhere. It is valid for SW and product development and it is valid for human interaction, information and work. This presentation is about how our people have learned to dance in the unbalanced world of these two entities. What have been the tools and thinking when moving beyond lean-agile? How we apply systems thinking and how we address people business? Key topics for the session are: Leadership and dancing metaphor; Entropy and commanders intent; Systems thinking in R&D; People business; Passion-compassion model; Radical Coaching. Main message embedded in the presentation is: How our leaders have learned to dance with the system?",
+                   day: "Day 1 (Thursday)",
+                   time: "15:10 - 15:50",
                    }
                    },
                    {
@@ -428,10 +425,10 @@ module.exports = {
                    text: "@seansouthey"
                    },
                    presentation: {
-                   //title: "Great teams start with great people, goals, and practices... but is that enough?",
-                   //  description: "What makes great teams great? What brings them together to build great products? Ask a product manager and a project manager, and you'll get two different answers. Ask a hardcore developer and a team lead and you'll get two more. Great teams start with great people, with leaders and visionaries who set challenging and elevating goals, and tough-minded organizers who choose the right practices to build quality software. But is this enough to make a great product? What does it take to make a team gel into a truly collaborative mindset? Find out how great teams are built in this engaging talk from the bestselling O'Reilly author of <i>Beautiful Teams</i>.",
-                   // day: "Day 1 (Thursday)",
-                   //  time: "15:00 - 15:40",
+                   title: "#TheNextBillion: Reaching the Next Billion With Life Changing Stories",
+                   description: "PCI Media Impact harnesses the power of good stories to educate people in countries around the globe about some of today’s most pressing issues. In this session, I will share a story of stories – narratives that inspire, empower and change the world.  In our first three decades, PCI Media Impact produced 5,000 episodes of 100 long-run serial dramas on TV and radio that have reached a billion listeners and viewers in over 50 countries. From addressing violence against women in Peru, to helping tackle Ebola in West Africa – we are helping build a better world through media. A billion is not a small number – but with seven billion global citizens, our work is far from finished. It’s time to stretch! In this session, I will give an overview of the organization’s unique storytelling methodology, explaining how locally created stories are changing lives. For the first time, I will share our strategy to reach another billion listeners and viewers in only five years as part of the #TheNextBillion initiative. It is a lofty goal, and we want your ideas on how to achieve it and, in so doing, extend the reach of our mission to change the world, one story at a time.</i>.",
+                   day: "Day 2 (Friday)",
+                   time: "12:00 - 12:40",
                    }
                    },
                    {
@@ -445,10 +442,10 @@ module.exports = {
                    text: "@RozemaryKing"
                    },
                    presentation: {
-                   //title: "Great teams start with great people, goals, and practices... but is that enough?",
-                   //  description: "What makes great teams great? What brings them together to build great products? Ask a product manager and a project manager, and you'll get two different answers. Ask a hardcore developer and a team lead and you'll get two more. Great teams start with great people, with leaders and visionaries who set challenging and elevating goals, and tough-minded organizers who choose the right practices to build quality software. But is this enough to make a great product? What does it take to make a team gel into a truly collaborative mindset? Find out how great teams are built in this engaging talk from the bestselling O'Reilly author of <i>Beautiful Teams</i>.",
-                   // day: "Day 1 (Thursday)",
-                   //  time: "15:00 - 15:40",
+                   title: "Get Back to Play: How Play and Playfulness can help build better Products and more Innovative Teams",
+                   description: "As children, we played in order to learn about the world around us and press against our growing boundaries. We took wild journeys of fantasy where every object in front of us had possibilities. This concept of child-eyes essentially means abandoning our ingrained assumptions about the world around us and seeing something with a sense of innocence. This talk will cover the concept of play as a cognitive developer, examine case studies where play and imagination contributed to amazing product design, and give some ideas as to how we can continue to do this with our team and on our own everyday to help strengthen our 'play' muscles. ",
+                   day: "Day 2 (Friday)",
+                   time: "14:20 - 15:00",
                    }
                    },
                    {
@@ -462,10 +459,10 @@ module.exports = {
                    text: "@phil_nash"
                    },
                    presentation: {
-                   //title: "Great teams start with great people, goals, and practices... but is that enough?",
-                   //  description: "What makes great teams great? What brings them together to build great products? Ask a product manager and a project manager, and you'll get two different answers. Ask a hardcore developer and a team lead and you'll get two more. Great teams start with great people, with leaders and visionaries who set challenging and elevating goals, and tough-minded organizers who choose the right practices to build quality software. But is this enough to make a great product? What does it take to make a team gel into a truly collaborative mindset? Find out how great teams are built in this engaging talk from the bestselling O'Reilly author of <i>Beautiful Teams</i>.",
-                   // day: "Day 1 (Thursday)",
-                   //  time: "15:00 - 15:40",
+                   title: "Mens Sana In Corpore Sano : A Healthy Mind In A Healthy Body",
+                   description: "Our minds and bodies do not exist in isolation. Even the Romans knew that. What the Romans didn't know was how our modern lifestyles - especially in the sedentary professions we tend to have - would throw the balance between them into crisis! Surprisingly going to the gym 2-3 times a week (if we even do that) doesn’t fix this. That latest studies are showing that more fundamental changes are needed - with NEAT (Non-Excercise Activity Thermogenesis) at the centre of it. Our diet, too, is critical to getting the best out of, not just our bodies, but our minds too. Doing the right things the right way can have a profound effect on how our minds and bodies work as a whole - and may literally be a matter of life and death!</i>.",
+                   day: "Day 1 (Thursday)",
+                   time: "13:30 - 14:10",
                    }
                    },
                    {
@@ -479,12 +476,30 @@ module.exports = {
                    text: "@unativ"
                    },
                    presentation: {
-                   //title: "Great teams start with great people, goals, and practices... but is that enough?",
-                   //  description: "What makes great teams great? What brings them together to build great products? Ask a product manager and a project manager, and you'll get two different answers. Ask a hardcore developer and a team lead and you'll get two more. Great teams start with great people, with leaders and visionaries who set challenging and elevating goals, and tough-minded organizers who choose the right practices to build quality software. But is this enough to make a great product? What does it take to make a team gel into a truly collaborative mindset? Find out how great teams are built in this engaging talk from the bestselling O'Reilly author of <i>Beautiful Teams</i>.",
-                   // day: "Day 1 (Thursday)",
-                   //  time: "15:00 - 15:40",
+                   title: "The Missing Lecture",
+                   description: "I want to share with you the missing lecture. This one lecture I’ve missed. While trivial to me in retrospect, this lesson was hidden from me years ago. I'll talk about two of my latest journeys. The first, changing an organisation. The second, building an organisation from scratch. How do we build an amazing development organisation? What is our role as leaders? I'll share what I’ve done wrong so you can learn faster. I'll give you my perspective, based on my experience, on what you should focus as leaders.",
+                   day: "Day 2 (Friday)",
+                   time: "16:00 - 16:40",
                    }
                    },
+                   {
+                   anchor: "JozsefCzapovics",
+                   name: "Jozsef Czapovics",
+                   photo: "themes/stretchcon/img/jozsefczapovics.jpg",
+                   bio: "<p>I'm engineering director at Prezi. I believe in a bright future and our ability to build it together. I love to think about how to scale agile and what it means being a supportive manager. If you believe in a world where people go home everyday feeling happy with their work, we have already something in common. </p>",
+                   company: "Prezi",
+                   link: {
+                   href: "http://twitter.com/czapinho",
+                   text: "@czapinho"
+                   },
+                   presentation: {
+                   title: "A conference can change your life",
+                   description: "This is the story of how I sneaked in to Stretch last year for free.",
+                   day: "Day 1 (Thursday)",
+                   time: "09:00 - 09:20",
+                   }
+                   },
+                   
 
 
 
@@ -729,6 +744,17 @@ module.exports = {
                     text: "@czapinho"
                 },
             },
+            {
+                name: "Attila Balogi, event organizer",
+                photo: "themes/stretchcon/img/attilabalogi.jpg",
+                bio: "Co-Organising international tech conferences in Budapest with 300-1000 participants. Project management of the events, Design and execute global communication campaigns for Stretch, Mloc.JS, Craft, Redefine ​Conferences.",
+            company: "Prezi",
+            link: {
+                //href: "http://twitter.com/czapinho",
+                //text: "@czapinho"
+                },
+            },
+
                           {
                           name: "Péter Halácsy, program committee",
                           photo: "themes/stretchcon/img/peterhalacsy.jpg",
@@ -773,91 +799,48 @@ module.exports = {
 
         // List of Sponsors
         sponsors: [
+                   
             {
-                name: "Your Company",
-                logo: "themes/stretchcon/img/your-logo.jpg",
-                //url: "http://www.logmein.com/"
-            },
-            /*{
-                name: "UPC",
-                logo: "themes/stretchcon/img/upcbusiness.jpg",
-                url: "http://www.upc.hu/"
+                name: "Microsoft Azure",
+                logo: "themes/stretchcon/img/azure.png",
+                url: "http://www.microsoft.com/"
             },
             {
-                name: "avec accelerator",
-                logo: "themes/stretchcon/img/avec.png",
-                url: "http://avecincubator.com/"
+                name: "Hamar Consulting",
+                logo: "themes/stretchcon/img/hamar_logo.png",
+                url: "http://www.hamar.hu/"
             },
             {
-                name: "Kürt Akadémia",
-                logo: "themes/stretchcon/img/kurtakademia.png",
-                url: "http://www.kurt-akademia.hu/"
-            }*/
+                name: "Precognox",
+                logo: "themes/stretchcon/img/pre.png",
+                url: "http://www.precognox.com"
+            },
+            {
+                name: "Unicredit",
+                logo: "themes/stretchcon/img/uni.png",
+                url: "https://www.unicreditbank.hu/"
+            },
+            {
+                name: "Logmein",
+                logo: "themes/stretchcon/img/logmein.jpg",
+                url: "http://www.logmein.com/"
+            },
         ],
 
         // List of Partners
         partners: [
                  
+            
             {
-                //name: "Your Company",
-                logo: "themes/stretchcon/img/your-logo.jpg",
-                //url: "http://infoq.com"
-            },
-            /*{
-                name: "Software Lead Weekly",
-                logo: "themes/stretchcon/img/softwareleadweekly.jpg",
-                url: "http://softwareleadweekly.com/"
+            name: "Budapest Business Journal",
+            logo: "themes/stretchcon/img/bbj_logo.jpg",
+            url: "http://bbj.hu"
             },
             {
-                name: "ComputerWorld Számítástechnika",
-                logo: "themes/stretchcon/img/computerworld.jpg",
-                url: "http://computerworld.hu/"
+            name: "Optional",
+            logo: "themes/stretchcon/img/optional.png",
+            url: "http://www.sprintconsulting.com"
             },
-            {
-                name: "popforms",
-                logo: "themes/stretchcon/img/popforms_logo.png",
-                url: "https://popforms.com/"
-            },
-            {
-                name: "O'Reilly",
-                logo: "themes/stretchcon/img/oreilly.jpg",
-                url: "http://www.oreilly.com/"
-            },
-            {
-                name: "Napi.hu",
-                logo: "themes/stretchcon/img/napihu.jpg",
-                url: "http://www.napi.hu/"
-            },
-            {
-                name: "Budapest Business Jourbnal",
-                logo: "themes/stretchcon/img/bbj_logo.jpg",
-                url: "http://www.bbj.hu/"
-            },
-            {
-                name: "Figyelő",
-                logo: "themes/stretchcon/img/figyelo.jpg",
-                url: "http://figyelo.hu/"
-            },
-            {
-                name: "HWSW",
-                logo: "themes/stretchcon/img/hwsw.jpg",
-                url: "http://www.hwsw.hu/"
-            },
-            {
-                name: "VS",
-                logo: "themes/stretchcon/img/vslogo.png",
-                url: "http://vs.hu/"
-            },
-            {
-                name: "Haszon",
-                logo: "themes/stretchcon/img/haszon.png",
-                url: "http://www.haszon.hu/"
-            },
-            {
-                name: "Üzlet & Pszichológia",
-                logo: "themes/stretchcon/img/upszi.png",
-                url: "http://www.upszi.hu/"
-            }*/
         ],
 
         // List of Organizers
