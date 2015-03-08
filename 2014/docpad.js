@@ -67,14 +67,15 @@ module.exports = {
                     {
                         time: "09:00 - 09:20",
                         title: "A conference can change your life",
+                        recordedUrl: "http://www.ustream.tv/recorded/56103084",
                         speaker: true
                     },
                     {
                         time: "09:20 - 10:20",
                         title: "The Art of Stress-Free Productivity",
                         keynote: true,
-                        speaker: true
-                        //recordedUrl: "http://www.ustream.tv/recorded/41391884/highlight/442620"
+                        speaker: true,
+                        recordedUrl: "http://www.ustream.tv/recorded/56103363"
                     },
                     {
                         time: "10:20 - 10:40",
@@ -83,11 +84,13 @@ module.exports = {
                     {
                         time: "10:40 - 11:20",
                         title: "What you say matters. How you say it matters even more.",
+                        recordedUrl: "http://www.ustream.tv/recorded/56104542",
                         speaker : true
                     },
                     {
                         time: "11:20 - 12:00",
                         title: "Mindsets and Realising Human Potential",
+                        recordedUrl: "http://www.ustream.tv/recorded/56105138",
                         speaker: true
                     },
                     {
@@ -97,11 +100,13 @@ module.exports = {
                     {
                         time: "13:30 - 14:10",
                         title: "Mens Sana In Corpore Sano : A Healthy Mind In A Healthy Body",
+                        recordedUrl: "http://www.ustream.tv/recorded/56107221",
                         speaker: true
                     },
                     {
                         time: "14:10 - 14:50",
                         title: "Finding Me - The value part",
+                        recordedUrl: "http://www.ustream.tv/recorded/56107988",
                         speaker: true
                     },
                     {
@@ -111,16 +116,19 @@ module.exports = {
                     {
                         time: "15:10 - 15:50",
                         title: "Dance with the System",
+                        recordedUrl: "http://www.ustream.tv/recorded/56109204",
                         speaker: true
                     },
                     {
                         time: "15:50 - 16:30",
                         title: "Bringing everyone to the table - Stretching impact through meaningful partnerships",
+                        recordedUrl: "http://www.ustream.tv/recorded/56109962",
                         speaker: true
                     },
                     {
                         time: "16:30 - 17:10",
                         title: "Challenging Coaching: Going beyond traditional coaching to face the FACTS.",
+                        recordedUrl: "http://www.ustream.tv/recorded/56110818",
                         speaker: true
                     },
                     {
@@ -144,11 +152,13 @@ module.exports = {
                         time: "10:00 - 11:00",
                         title: "Intent-Based Leadership. Create Leaders at Every Level.",
                         keynote: true,
+                        recordedUrl: "http://www.ustream.tv/recorded/56134415",
                         speaker: true
                         },
                         {
                         time: "11:00 - 11:40",
                         title: "How design will solve the wicked problems in our world",
+                        recordedUrl: "http://www.ustream.tv/recorded/56135383",
                         speaker: true
                         },
                         {
@@ -158,11 +168,13 @@ module.exports = {
                         {
                         time: "12:00 - 12:40",
                         title: "#TheNextBillion: Reaching the Next Billion With Life Changing Stories",
+                        recordedUrl: "http://www.ustream.tv/recorded/56136523",
                         speaker: true
                         },
                         {
                         time: "12:40 - 13:20",
                         title: "It's a marathon, not a sprint",
+                        recordedUrl: "http://www.ustream.tv/recorded/56137378",
                         speaker: true
                         },
                         {
@@ -172,11 +184,13 @@ module.exports = {
                         {
                         time: "14:20 - 15:00",
                         title: "Get Back to Play: How Play and Playfulness can help build better Products and more Innovative Teams",
+                        recordedUrl: "http://www.ustream.tv/recorded/56139182",
                         speaker : true
                         },
                         {
                         time: "15:00 - 15:40",
                         title: "Conflict Isn't a Bad Word",
+                        recordedUrl: "http://www.ustream.tv/recorded/56140137",
                         speaker : true
                         },
                         {
@@ -186,16 +200,19 @@ module.exports = {
                         {
                         time: "16:00 - 16:40",
                         title: "The Missing Lecture",
+                        recordedUrl: "http://www.ustream.tv/recorded/56141555",
                         speaker : true
                         },
                         {
                         time: "16:40 - 17:20",
                         title: "Lessons from the Road: A Look Into Exploration and Endurance",
+                        recordedUrl: "http://www.ustream.tv/recorded/56142521",
                         speaker : true
                         },
                         {
                         time: "17:20 - 18:00",
-                        title: "Panel Talk"
+                        title: "Panel Talk",
+                        recordedUrl: "http://www.ustream.tv/recorded/56143468",
                         },
                         {
                         time: "18:00 - 18:20",
