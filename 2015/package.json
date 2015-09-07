@@ -1,0 +1,29 @@
+{
+  "name": "stretchcon",
+  "version": "2015.09.08",
+  "description": "Website for Stretch conference (based on ConfBoilerPlate)",
+  "homepage": "http://stretchcon.com/2015/",
+  "repository": {
+    "type": "git",
+      "url": "http://github.com/prezi/stretchcon.git"
+  },
+  "engines": {
+    "node": ">0.8.x",
+    "npm": "1.1.x"
+  },
+  "scripts": {
+    "test": "docpad generate",
+    "build": "docpad generate",
+    "deploy": "s3cmd --config ~/.s3cfg-stretchcon sync www/* s3://stretchcon.com/2015/ --verbose",
+    "build-deploy": "npm run build && npm run deploy",
+    "start": "docpad run"
+  },
+  "dependencies": {
+    "docpad-plugin-eco": "2.0.2",
+    "docpad-plugin-marked": "2.1.1",
+    "docpad-plugin-partials": "2.6.1",
+    "docpad-plugin-less": "2.1.3",
+    "docpad-plugin-ghpages": "2.0.2",
+    "docpad": "~6.58.1"
+  }
+}
