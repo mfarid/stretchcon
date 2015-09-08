@@ -2,4 +2,4 @@
 
 <h2 class="section-title"><%= @labels['cfp'] %></h2>
 
-<p>This year we are opening the talking opportunity at Stretch: we are looking for presentations about organizational challenges described in more details in our <a href="https://docs.google.com/document/d/1DSkFuehO_zK1UTixmyQbloTRAZEPcJr8q_35D0CZxck/edit#heading=h.43fclcuwz5w2">Call For Presentation document</a>. This document provides many other details about the application. The CFP process lasts until 1st of October, and we will notify the applicants in the upcoming two weeks.</p>
+<p>This year we are opening the talking opportunity at Stretch: we are looking for presentations about organizational challenges described in more detail in our <a href="https://docs.google.com/document/d/1DSkFuehO_zK1UTixmyQbloTRAZEPcJr8q_35D0CZxck/edit#heading=h.43fclcuwz5w2">Call For Presentation document</a>. This document provides much more info about the application. The CFP process lasts until 1st of October, and we will notify the applicants in the upcoming two weeks.</p>
