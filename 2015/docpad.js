@@ -5,7 +5,7 @@ module.exports = {
     templateData: {
         // Conference info
         conf: {
-            name: "Building Effective, Adaptable and Resilient Organisations. December 9-11, 2015",
+            name: "Building Effective, Adaptable and Resilient Organizations. December 9-11, 2015",
             tagline: "Leadership and management conference",
             description: "Stretch is a leadership and management conference to learn from the best and stretch yourself. Join us in Budapest, Hungary this December and get inspired by stories from leaders in great organizations as they talk about the challenges of leadership coming from within the team.",
             date: "December 9-11, 2015 - Budapest",
@@ -117,13 +117,13 @@ module.exports = {
                 },
             },
             {
-                name: "Balint Koves, program committee, chief organiser",
+                name: "Balint Koves, program committee, chief organizer",
                 photo: "themes/stretchcon/img/org_balintkoves.jpg",
                 bio: "I strongly believe in the constant possibility of improvement and that the only route to this is stretching one's boundaries, instead of following the paved way. My role currently at Ericsson is building, coaching, mentoring and generally enabling a new organization of several teams in the integration area.",
                 company: "Ericsson",
             },
             {
-                name: "Gergely Hodicska, program committee, event organiser",
+                name: "Gergely Hodicska, program committee, event organizer",
                 photo: "themes/stretchcon/img/org_gergelyhodicska.jpg",
                 bio: "I am the VP of Engineering at Ustream and I oversee all the engineering teams. Early on, I specialized in building and operating large scale web applications, including the design and development of several Alexa Top 100 sites. Nowadays I focus on improving the way we develop at Ustream, creating effective processes and building a culture where our engineers can not just continuously deliver but also continuously improve. I strongly believe in teamwork, removing silos, continuous experimentation and lifelong learning.",
                 company: "Ustream",
@@ -135,11 +135,11 @@ module.exports = {
             {
                 name: "Attila Balogi, event organizer",
                 photo: "themes/stretchcon/img/org_attilabalogi.jpg",
-                bio: "Co-Organising international tech conferences in Budapest with 300-1000 participants. Project management of the events, Design and execute global communication campaigns for Stretch, Mloc.JS, Craft, Redefine ​Conferences.",
+                bio: "Co-Organizing international tech conferences in Budapest with 300-1000 participants. Project management of the events, Design and execute global communication campaigns for Stretch, Mloc.JS, Craft, Redefine ​Conferences.",
                 company: "Prezi",
             },
             {
-                name: "Laszlo Csereklei, program committee, event organiser",
+                name: "Laszlo Csereklei, program committee, event organizer",
                 photo: "themes/stretchcon/img/org_laszlocsereklei.jpg",
                 bio: "I am product development leader at Ericsson responsible for specialized development teams. I am passionate about the Lean, Agile and Craftsmanship movement, doing coaching, mentoring, and teaching from individual to organizational levels.",
                 company: "Ericsson",
