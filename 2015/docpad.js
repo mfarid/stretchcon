@@ -29,6 +29,7 @@ module.exports = {
             // 'summary',
             // 'photos',
             'about',
+            'cfp',
             // 'schedule',
             // 'speakers',
             // 'location',
@@ -40,6 +41,7 @@ module.exports = {
         // Labels which you can translate to other languages
         labels: {
             about: "About",
+            cfp: "Call For Presentations",
             location: "Location",
             speakers: "Speakers",
             schedule: "Schedule",
