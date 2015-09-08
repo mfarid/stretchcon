@@ -157,7 +157,7 @@ module.exports = {
             {
                 name: "Ádám Bankó, program committee",
                 photo: "themes/stretchcon/img/org_adambanko.png",
-                bio: "",
+                bio: "I am an Organization Developer at <a href=\"http://www.lab.coop/\">Lab.Coop</a>, evolving Holacracy, NonViolent Communication and transparent salaries at this employee owned product house. I love living on the cutting edge and experimenting with ways of reinventing organizations.",
                 company: "Lab.Coop",
             },
         ],
