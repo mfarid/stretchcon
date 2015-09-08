@@ -148,6 +148,18 @@ module.exports = {
                     text: "@LCsereklei"
                 },
             },
+            {
+                name: "Gergely Orbán, program committee",
+                photo: "themes/stretchcon/img/org_gergelyorban.png",
+                bio: "",
+                company: "DoctuSoft",
+            },
+            {
+                name: "Ádám Bankó, program committee",
+                photo: "themes/stretchcon/img/org_adambanko.png",
+                bio: "",
+                company: "Lab.Coop",
+            },
         ],
         // List of Sponsors
         sponsors: [
