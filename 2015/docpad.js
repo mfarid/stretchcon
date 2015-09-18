@@ -5,7 +5,7 @@ module.exports = {
     templateData: {
         // Conference info
         conf: {
-            name: "Building Effective, Adaptable and Resilient Organizations. December 9-11, 2015",
+            name: "Building Effective, Adaptable, Resilient and Purposeful Organizations. December 9-11, 2015",
             tagline: "Leadership and management conference",
             description: "Stretch is a leadership and management conference to learn from the best and stretch yourself. Join us in Budapest, Hungary this December and get inspired by stories from leaders in great organizations as they talk about the challenges of leadership coming from within the team.",
             date: "December 9-11, 2015 - Budapest",
