@@ -34,7 +34,7 @@ module.exports = {
             // 'speakers',
             // 'location',
             // 'tickets',
-            // 'sponsors',
+            'sponsors',
             'organizers',
             'contact'
         ],
@@ -163,19 +163,19 @@ module.exports = {
         ],
         // List of Sponsors
         sponsors: [
-            {
-                name: "Name",
-                logo: "themes/stretchcon/img/sponsors_xxx.png",
-                url: "http://url"
-            },
+            // {
+            //     name: "Name",
+            //     logo: "themes/stretchcon/img/sponsors_xxx.png",
+            //     url: "http://url"
+            // },
         ],
         // List of Partners
         partners: [
-            {
-                name: "Name",
-                logo: "themes/stretchcon/img/partners_xxx.jpg",
-                url: "http://url"
-            },
+            // {
+            //     name: "Name",
+            //     logo: "themes/stretchcon/img/partners_xxx.jpg",
+            //     url: "http://url"
+            // },
         ],
         // List of Organizers
         organizers: [
