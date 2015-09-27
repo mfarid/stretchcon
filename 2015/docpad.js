@@ -31,10 +31,10 @@ module.exports = {
             'about',
             'cfp',
             // 'schedule',
-            // 'speakers',
+            'speakers',
             // 'location',
             // 'tickets',
-            'sponsors',
+            // 'sponsors',
             'organizers',
             'contact'
         ],
@@ -51,52 +51,137 @@ module.exports = {
             contact: "Contact"
         },
         schedule: [
-            {
-                header: "Day 1 (Thursday)",
-                slots: [
-                    {
-                        time: "08:00 - 09:00",
-                        title: "Registration & Breakfast"
-                    },
-                    {
-                        time: "09:00 - 09:20",
-                        title: "Introduction",
-                        recordedUrl: "http://www.ustream.tv/recorded/xxx",
-                        speaker: true
-                    },
-                    {
-                        time: "09:20 - 10:20",
-                        title: "Keynote",
-                        keynote: true,
-                        speaker: true,
-                        recordedUrl: "http://www.ustream.tv/recorded/xxx"
-                    },
-                ]
-            },
-            {
-                header: "Day 2 (Friday)",
-                slots: [
-                ]
-            }
+            // {
+            //     header: "Day 1 (Thursday)",
+            //     slots: [
+            //         {
+            //             time: "08:00 - 09:00",
+            //             title: "Registration & Breakfast"
+            //         },
+            //         {
+            //             time: "09:00 - 09:20",
+            //             title: "Introduction",
+            //             recordedUrl: "http://www.ustream.tv/recorded/xxx",
+            //             speaker: true
+            //         },
+            //         {
+            //             time: "09:20 - 10:20",
+            //             title: "Keynote",
+            //             keynote: true,
+            //             speaker: true,
+            //             recordedUrl: "http://www.ustream.tv/recorded/xxx"
+            //         },
+            //     ]
+            // },
+            // {
+            //     header: "Day 2 (Friday)",
+            //     slots: [
+            //     ]
+            // }
         ],
         // Speakers and talks
         speakers: [
             {
-                anchor: "JohnDoe",
-                name: "John Doe",
-                photo: "themes/stretchcon/img/speakers_johndoe.png",
-                bio: "<p></p>",
-                company: "FizzBuzz Ltd.",
+                anchor: "DocNorton",
+                name: "Doc Norton",
+                photo: "themes/stretchcon/img/speaker_docnorton.jpg",
+                bio: "<p>Michael Norton (Doc) is a software delivery professional working to make the world of software development a better place. His experience covers a wide range of development topics. Doc declares expertise in no single language or methodology and is immediately suspicious of anyone who declares such expertise. A frequent speaker, Doc is passionate about helping others become better developers, working with teams to improve delivery, and building great organisations.</p>",
+                company: "CTO2",
                 link: {
-                    href: "http://twitter.com/JohnDoe",
-                    text: "@JohnDoe"
+                    href: "http://twitter.com/DocOnDev",
+                    text: "@DocOnDev"
                 },
-                presentation: {
-                    title: "Title",
-                    description: "Description",
-                    day: "Day 1 (Thursday)",
-                    time: "09:20 - 10:20",
-               }
+               //  presentation: {
+               //      title: "Title",
+               //      description: "Description",
+               //      day: "Day 1 (Thursday)",
+               //      time: "09:20 - 10:20",
+               // }
+            },
+            {
+                anchor: "JamesClear",
+                name: "James Clear",
+                photo: "themes/stretchcon/img/speaker_jamesclear.jpg",
+                bio: "<p>James Clear is an entrepreneur, writer, and travel photographer in 17 countries and counting. He has built profitable websites in the travel and small business sectors. His writing has been featured by US News & World Report, American Express, Yahoo, Lifehacker, and dozens of other businesses and media outlets. In 2010, he was awarded the St. Gallen Wings of Excellence Award for his writing on entrepreneurship. He has delivered speeches throughout the United States and Europe to live audiences of up to 2,000 people. His photography work has been published by Travel & Leisure, has been featured on the Flickr homepage, and is showcased in multiple outlets online. He graduated Summa Cum Laude with a degree in Biomechanics from Denison University where he was an ESPN Academic All-American baseball pitcher. He also earned his MBA from Ohio State University. Clear is currently beginning a photography mission to document the habits that lead to health and happiness across the world. He volunteers as a Disaster Action Team leader for the American Red Cross. You can follow his work at <a href=\"http://jamesclear.com/\">jamesclear.com</a>.</p>",
+                company: "James Clear Holdings",
+                link: {
+                    href: "http://twitter.com/james_clear",
+                    text: "@james_clear"
+                },
+               //  presentation: {
+               //      title: "Title",
+               //      description: "Description",
+               //      day: "Day 1 (Thursday)",
+               //      time: "09:20 - 10:20",
+               // }
+            },
+            {
+                anchor: "EvaRambala",
+                name: "Éva Rambala",
+                photo: "themes/stretchcon/img/speaker_evarambala.jpg",
+                bio: "<p>Since 1996, I have studied with Marshall Rosenberg who developed Nonviolent Communication(NVC). Since 2000, I have been training NVC as an authorized trainer of the Center for Nonviolent Communication (CNVC), and I serve as Coordinator for the Central and Eastern European Centers for Nonviolent Communication. This role involves finding people across the region, helping them build local NVC teams, and training people to be trainers. For five years I was working closely with Marshall Rosenberg. My work takes me all over the world, bringing me a huge range of experiences working with people from diverse cultures. I have had the privilege to work in Asia, South America, the USA, Canada, many of the ex-Soviet countries, and several countries in Western Europe. I have worked in Argentina, Bosnia and Herzegovina, Brazil, Canada, Croatia, Czech Republic, Denmark, England, Estonia, Georgia, Hungary, India, Mexico, Moldova, Netherlands, Norway, Poland, Puerto Rico, Romania, Russia, Slovakia, South Korea, Sri Lanka, Scotland, Sweden, Switzerland, Turkey, Ukraine, USA.</p>",
+                company: "International Center for Nonviolent Communication",
+                link: {
+                    href: "http://www.rambala.hu/en/",
+                    text: "rambala.hu"
+                },
+               //  presentation: {
+               //      title: "Title",
+               //      description: "Description",
+               //      day: "Day 1 (Thursday)",
+               //      time: "09:20 - 10:20",
+               // }
+            },
+            {
+                anchor: "JosephPelrine",
+                name: "Joseph Pelrine",
+                photo: "themes/stretchcon/img/speaker_josephpelrine.png",
+                bio: "<p>As Kent Beck’s assistant, Joseph Pelrine was one of the first in the world who worked with eXtreme Programming. As Europe’s first certified ScrumMaster and Trainer, he was largely responsible for introducing Scrum to the german-speaking part of Europe. For almost 20 years, Joseph Pelrine has been helping some of the world’s most important companies improve their software development process and successfully transition to Agile. A noted international speaker, he conducts research in the field of social complexity theory and its application to Agile processes, and is currently pursuing a PhD in psychology and linguistics.</p>",
+                company: "Megadon AG",
+                link: {
+                    href: "http://twitter.com/josephpelrine",
+                    text: "@josephpelrine"
+                },
+               //  presentation: {
+               //      title: "Title",
+               //      description: "Description",
+               //      day: "Day 1 (Thursday)",
+               //      time: "09:20 - 10:20",
+               // }
+            },
+            {
+                anchor: "AnneLoehr",
+                name: "Anne Loehr",
+                photo: "themes/stretchcon/img/speaker_anneloehr.png",
+                bio: "<p>Named the “Generational Guru” by The Washington Post, Anne Loehr’s insights into effectively leveraging the four generations gives her clients a leading edge. Working with diverse organizations such as Facebook, Morgan Stanley Smith Barney, US Air Force, Merrill Lynch, American Red Cross, MD Anderson Cancer Center, Coca-Cola, Booz Allen Hamilton, and Graphic Packaging International, she consistently helps managers improve their generational communication skills.<br><br>Anne’s work has been featured in Newsweek International, The Washington Post, The New York Times, Huffington Post, National Geographic Traveler, Elle and CNN Money. A member of the prestigious National Speakers Association, Anne speaks regularly at national conferences and on the radio. She is also a faculty member of the American Management Association.<br><br>American Management Association published Anne’s acclaimed book, A Manager’s Guide to Coaching: Simple and Effective Ways to Get the Best from Your Employees. Career Press published her newest book, Managing the Unmanageable: How to Motivate Even the Most Unruly Employee.</p>",
+                company: "Anne Loehr & Associates",
+                link: {
+                    href: "http://twitter.com/anneloehr",
+                    text: "@anneloehr"
+                },
+               //  presentation: {
+               //      title: "Title",
+               //      description: "Description",
+               //      day: "Day 1 (Thursday)",
+               //      time: "09:20 - 10:20",
+               // }
+            },
+            {
+                anchor: "JohnBlakey",
+                name: "John Blakey",
+                photo: "themes/stretchcon/img/speaker_johnblakey.jpg",
+                bio: "<p>John is one of the UK’s leading executive coaches and board advisors having worked with CEOs around the globe, as well as with Olympic medallists and Team GB / England sports coaches in rowing, cricket and target shooting. In his business career, John has been a Fast Track 100 entrepreneur, FTSE100 International Managing Director and Chair/Director of a number of voluntary organisations, working collaboratively in diverse teams to deliver outstanding results. He is an experienced international speaker and co-author with Ian Day of the best-selling leadership coaching book 'Challenging Coaching' which has been featured in the Sunday Times, the Guardian and the Financial Times.</p>",
+                company: "Author – Challenging Coaching",
+                link: {
+                    href: "http://challengingcoaching.co.uk",
+                    text: "challengingcoaching.co.uk"
+                },
+               //  presentation: {
+               //      title: "Title",
+               //      description: "Description",
+               //      day: "Day 1 (Thursday)",
+               //      time: "09:20 - 10:20",
+               // }
             },
         ],
         eventorganizers: [
@@ -163,19 +248,19 @@ module.exports = {
         ],
         // List of Sponsors
         sponsors: [
-            // {
-            //     name: "Name",
-            //     logo: "themes/stretchcon/img/sponsors_xxx.png",
-            //     url: "http://url"
-            // },
+            {
+                name: "Name",
+                logo: "themes/stretchcon/img/sponsors_xxx.png",
+                url: "http://url"
+            },
         ],
         // List of Partners
         partners: [
-            // {
-            //     name: "Name",
-            //     logo: "themes/stretchcon/img/partners_xxx.jpg",
-            //     url: "http://url"
-            // },
+            {
+                name: "Name",
+                logo: "themes/stretchcon/img/partners_xxx.jpg",
+                url: "http://url"
+            },
         ],
         // List of Organizers
         organizers: [
