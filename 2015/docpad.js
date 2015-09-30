@@ -33,7 +33,7 @@ module.exports = {
             // 'schedule',
             'speakers',
             // 'location',
-            // 'tickets',
+            'tickets',
             'sponsors',
             'organizers',
             'contact'
