@@ -82,14 +82,14 @@ module.exports = {
         // Speakers and talks
         speakers: [
             {
-                anchor: "DocNorton",
-                name: "Doc Norton",
-                photo: "themes/stretchcon/img/speaker_docnorton.jpg",
-                bio: "<p>Michael Norton (Doc) is a software delivery professional working to make the world of software development a better place. His experience covers a wide range of development topics. Doc declares expertise in no single language or methodology and is immediately suspicious of anyone who declares such expertise. A frequent speaker, Doc is passionate about helping others become better developers, working with teams to improve delivery, and building great organisations.</p>",
-                company: "CTO2",
+                anchor: "NiklasModig",
+                name: "Niklas Modig",
+                photo: "themes/stretchcon/img/speaker_niklasmodig.jpg",
+                bio: "<p>Niklas Modig is a researcher at the Center for Innovation and Operations Management at Stockholm School of Economics and is one of the leading authorities within lean and operational excellence in Scandinavia. He has been living for extended periods in Japan and reads, writes, and speaks Japanese fluently. From 2006 to 2008, Niklas was a visiting researcher at the “Center of Excellence – Manufacturing Management Research Center” at University of Tokyo where he researched together with professor Takahiro Fujimoto who is one of the leading Toyota researcher of all time. Between 2006-2008 Niklas was given access to conduct a in-depth study of Toyota Motor Corporation’s most high-performing service systems Japan. He has spent thousands of hours inside Toyota trying to understand the depth of their philosophy.<br><br>Niklas also works as a supervisor and strategic facilitator for various multi-national companies but also for hospitals, public organizations, management consulting firms, private equity firms, venture capital firms, etc from all over the world. He has taken a leading position as inspirational lecturer within the field of lean and operational excellence.<br><br>Niklas is the author of the best-selling book “This Is Lean - Resolving the Efficiency Paradox” which has sold over 170 000 copies and became the Nr.1 best-selling management book in Sweden 2012 and one of the most sold lean books of all time in Sweden. The book has been launched in more than 10 languages. In 2012 Niklas was selected as one out of 101 Super-talents in Sweden by the weekly business publication Veckans Affärer.</p>",
+                company: "Author of This Is Lean - Resolving the Efficiency Paradox",
                 link: {
-                    href: "http://twitter.com/DocOnDev",
-                    text: "@DocOnDev"
+                    href: "http://twitter.com/LeanOnMyself",
+                    text: "@LeanOnMyself"
                 },
                //  presentation: {
                //      title: "Title",
@@ -107,6 +107,23 @@ module.exports = {
                 link: {
                     href: "http://twitter.com/james_clear",
                     text: "@james_clear"
+                },
+               //  presentation: {
+               //      title: "Title",
+               //      description: "Description",
+               //      day: "Day 1 (Thursday)",
+               //      time: "09:20 - 10:20",
+               // }
+            },
+            {
+                anchor: "DocNorton",
+                name: "Doc Norton",
+                photo: "themes/stretchcon/img/speaker_docnorton.jpg",
+                bio: "<p>Michael Norton (Doc) is a software delivery professional working to make the world of software development a better place. His experience covers a wide range of development topics. Doc declares expertise in no single language or methodology and is immediately suspicious of anyone who declares such expertise. A frequent speaker, Doc is passionate about helping others become better developers, working with teams to improve delivery, and building great organisations.</p>",
+                company: "CTO2",
+                link: {
+                    href: "http://twitter.com/DocOnDev",
+                    text: "@DocOnDev"
                 },
                //  presentation: {
                //      title: "Title",
@@ -175,6 +192,23 @@ module.exports = {
                 link: {
                     href: "http://challengingcoaching.co.uk",
                     text: "challengingcoaching.co.uk"
+                },
+               //  presentation: {
+               //      title: "Title",
+               //      description: "Description",
+               //      day: "Day 1 (Thursday)",
+               //      time: "09:20 - 10:20",
+               // }
+            },
+            {
+                anchor: "WiboKoole",
+                name: "Wibo Koole",
+                photo: "themes/stretchcon/img/speaker_wibokoole.jpg",
+                bio: "<p>Wibo Koole is director of the <a href=\"http://centrumvoormindfulness.nl/en/\">Centre for Mindfulness</a> in Amsterdam (the Netherlands) and founder of its widely acknowledged leadership program Resilience in management, mindfulness-based leadership in 10 weeks. He is a public speaker on leadership, mindfulness and organizational development and the author of the bestselling Mindful Leadership. Tools to help you focus and succeed that provides the first comprehensive framework for mindfulness-based leadership and teamwork. Other books include Mindful Leiderschap voor effectieve teams en organisaties (in Dutch) and Mindful Werken. In 8 stappen je werkdruk de baas (Dutch).<br><br>The Centre for Mindfulness is a professional, innovative and open training and knowledge centre for mindfulness in the Netherlands and Europe. Its mission is contribute to the enhancement of the quality of life and work, education and health by integrating mindfulness in all parts of society.<br><br>Besides teaching mindfulness based leadership programs Wibo works as a management consultant and leadership expert for innovation in complex systems. His work focuses on strategy and innovation, change management and leadership development in a wide range of organizations, both corporate and social. His clients range from KLM to local governments like the City of Amsterdam, from the Ministry of Agriculture in Ethiopia to international ngo's like Oxfam and Synergos.</p>",
+                company: "Centre for Mindfulness",
+                link: {
+                    href: "http://twitter.com/WiboKoole",
+                    text: "@WiboKoole"
                 },
                //  presentation: {
                //      title: "Title",
