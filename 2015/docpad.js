@@ -217,6 +217,40 @@ module.exports = {
                //      time: "09:20 - 10:20",
                // }
             },
+            {
+                anchor: "ChristianHausner",
+                name: "Christian Hausner",
+                photo: "themes/stretchcon/img/speaker_christianhausner.png",
+                bio: "<p>Christian Hausner is a project manager at ESBZ which a teal school. The Evangelische Schule Berlin Zentrum (ESBZ) was founded in 2007 by a group of parents whose kids had attended traditional schools for grades 1-6. They wanted a different experience for their kids in upper school. Different ESBZ is–and not a little amazing. ESBZ prizes interdisciplinary and collaborative work. Project-based learning occurs in at least one block per day, which it’s important that these students practice, because they must design and complete a major “challenge” in 8th, 9th, and 10th grade. If it sounds like ESBZ would like deeper educational outcomes than solid performance on standardized tests (on which they are in fact top-ranked), you may be interested in what school assistant Christian Hausner described as the \“four pillars of what we want children to learn\”: Knowledge and skills, How to live together, How to act (i.e. apply knowledge), How to be (as in a full human being).</p>",
+                company: "ESBZ",
+                link: {
+                    href: "http://www.ev-schule-zentrum.de/aktuell/",
+                    text: "ESBZ"
+                },
+               //  presentation: {
+               //      title: "Title",
+               //      description: "Description",
+               //      day: "Day 1 (Thursday)",
+               //      time: "09:20 - 10:20",
+               // }
+            },
+            {
+                anchor: "BeataKalamar",
+                name: "Beata Kalamar",
+                photo: "themes/stretchcon/img/speaker_beatakalamar.png",
+                bio: "<p>Leaders today must own qualities like CREATIVITY, RESILIENCE, AGILITY, FOCUS and TRUST in order to meet the challenges of the unpredictable, continuously changing business market. They have to lead and manage ongoing organisational changes by enhancing their TRANSFORMATIONAL LEADERSHIP. My role as an Executive Coach and a Leadership Developer is to facilitate and accelerate this journey. I provide unique, personalized and invaluable support to leaders on how to tackle wide scale of complex challenges and uncertainties of today’s global business market: CRAFT LEADERSHIP Development - Executive Coaching, TRANSFORMATIONAL LEADERSHIP Development - Executive Coaching, Building & Leading High Performing Teams, Leadership DEEP DIVE Series.</p>",
+                company: "Executive Coach, Leadership Developer",
+                link: {
+                    href: "http://beatakalamar.com/",
+                    text: "beatakalamar.com"
+                },
+               //  presentation: {
+               //      title: "Title",
+               //      description: "Description",
+               //      day: "Day 1 (Thursday)",
+               //      time: "09:20 - 10:20",
+               // }
+            },
         ],
         eventorganizers: [
             {
