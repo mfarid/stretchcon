@@ -82,6 +82,23 @@ module.exports = {
         // Speakers and talks
         speakers: [
             {
+                anchor: "JamesClear",
+                name: "James Clear",
+                photo: "themes/stretchcon/img/speaker_jamesclear.jpg",
+                bio: "<p>James Clear writes about behavioral psychology, habit formation, and performance improvement at JamesClear.com. Over 200,000 people subscribe to his weekly email newsletter. His work has been covered in TIME, Entrepreneur Magazine, Forbes, USA TODAY, and many other outlets. He has delivered keynote presentations on how to build better habits at elite organizations like Stanford University and Google. You can learn more about his work and browse his popular online seminars about building better habits at <a href=\"http://jamesclear.com/\">JamesClear.com</a>.</p>",
+                company: "James Clear Holdings",
+                link: {
+                    href: "http://twitter.com/james_clear",
+                    text: "@james_clear"
+                },
+               //  presentation: {
+               //      title: "Title",
+               //      description: "Description",
+               //      day: "Day 1 (Thursday)",
+               //      time: "09:20 - 10:20",
+               // }
+            },
+            {
                 anchor: "NiklasModig",
                 name: "Niklas Modig",
                 photo: "themes/stretchcon/img/speaker_niklasmodig.jpg",
@@ -99,14 +116,14 @@ module.exports = {
                // }
             },
             {
-                anchor: "JamesClear",
-                name: "James Clear",
-                photo: "themes/stretchcon/img/speaker_jamesclear.jpg",
-                bio: "<p>James Clear writes about behavioral psychology, habit formation, and performance improvement at JamesClear.com. Over 200,000 people subscribe to his weekly email newsletter. His work has been covered in TIME, Entrepreneur Magazine, Forbes, USA TODAY, and many other outlets. He has delivered keynote presentations on how to build better habits at elite organizations like Stanford University and Google. You can learn more about his work and browse his popular online seminars about building better habits at <a href=\"http://jamesclear.com/\">JamesClear.com</a>.</p>",
-                company: "James Clear Holdings",
+                anchor: "BrianRobertson",
+                name: "Brian Robertson",
+                photo: "themes/stretchcon/img/speaker_brianrobertson.jpg",
+                bio: "<p>Brian Robertson is a seasoned entrepreneur and organization builder, and a recovering CEO – a job he now helps free others from with Holacracy. Generally regarded as the primary developer of the system, Brian’s work allows leaders to release the reins of personal power and persuasion into a trustworthy and explicit governance process. Brian also serves as the drafter and steward of the Holacracy Constitution, which captures the system’s unique “rules of the game” in concrete form. Beyond joyfully crafting legal documents, Brian’s creative expression takes many forms – he co-founded HolacracyOne to support Holacracy’s growth, and he fills and loves a broad variety of the company’s roles. He’s particularly grateful to hold no fancy titles and wield no special powers, so he can show up as just another partner doing his part to support something he cares about.<br><br>Brian is the author of the book <a href=\"http://holacracybook.com/\">Holacracy: The New Management System for a Rapidly Changing World.</a></p>",
+                company: "HolacracyOne",
                 link: {
-                    href: "http://twitter.com/james_clear",
-                    text: "@james_clear"
+                    href: "http://twitter.com/h1brian",
+                    text: "@h1brian"
                 },
                //  presentation: {
                //      title: "Title",
