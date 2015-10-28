@@ -5,10 +5,10 @@ module.exports = {
     templateData: {
         // Conference info
         conf: {
-            name: "Building Effective, Adaptable, Resilient and Purposeful Organizations. December 9-11, 2015",
-            tagline: "Leadership and management conference",
-            description: "Stretch is a leadership and management conference to learn from the best and stretch yourself. Join us in Budapest, Hungary this December and get inspired by stories from leaders in great organizations as they talk about the challenges of leadership coming from within the team.",
-            date: "December 9-11, 2015 - Budapest",
+            name: "Leadership and Management Conference",
+            tagline: "Building Effective, Adaptable, Resilient and Purposeful Organizations",
+            description: "Stretch is a conference to learn from the best and stretch yourself. Join us in Budapest, Hungary this December and get inspired by stories from leaders in great organizations as they talk about the challenges of leadership coming from within the team.",
+            date: "Budapest, December 9-11, 2015",
             venue: "Uránia National Film Theatre",
             address: "1088 Rákóczi Way 21",
             city: "Budapest",
@@ -29,14 +29,15 @@ module.exports = {
             // 'summary',
             // 'photos',
             'about',
-            'cfp',
+            // 'cfp',
             // 'schedule',
             'speakers',
-            // 'location',
-            'tickets',
+            'location',
             'sponsors',
             'organizers',
-            'contact'
+            'codeofconduct',
+            'contact',
+            // 'tickets'
         ],
         // Labels which you can translate to other languages
         labels: {
@@ -48,6 +49,7 @@ module.exports = {
             tickets: "Tickets",
             sponsors: "Sponsors",
             organizers: "Organizers",
+            codeofconduct: "Code of Conduct",
             contact: "Contact"
         },
         schedule: [
@@ -268,6 +270,57 @@ module.exports = {
                //      time: "09:20 - 10:20",
                // }
             },
+            {
+                anchor: "AdamBanko",
+                name: "Ádám Bankó",
+                photo: "themes/stretchcon/img/speaker_adambanko.png",
+                bio: "<p>Adam works on scaling organizations and code. He worked as a developer at Prezi while it has grown from 30 to 200 people. This experience fueled his interest in organization development. Now he guides Lab.Coop on the way to a scalable agile organization.</p>",
+                company: "LAB.COOP",
+                link: {
+                    href: "https://twitter.com/adam_banko",
+                    text: "@adam_banko"
+                },
+               //  presentation: {
+               //      title: "Title",
+               //      description: "Description",
+               //      day: "Day 1 (Thursday)",
+               //      time: "09:20 - 10:20",
+               // }
+            },
+            {
+                anchor: "GergelyOrban",
+                name: "Gergely Orbán",
+                photo: "themes/stretchcon/img/speaker_gergelyorban.png",
+                bio: "<p>Gergely is leading organizational change and manage IT projects at Doctusoft. Coach teams and individuals and live the story they share while they go together for the project objectives. His recent focus is on: Self management and self governing teams, Teal organizational practices (Frederic Laloux), Holacracy, Mindfulness in work.</p>",
+                company: "DOCTUSOFT",
+                // link: {
+                  //  href: "https://twitter.com/adam_banko",
+                  //  text: "@adam_banko"
+              //  },
+               //  presentation: {
+               //      title: "Title",
+               //      description: "Description",
+               //      day: "Day 1 (Thursday)",
+               //      time: "09:20 - 10:20",
+               // }
+            },
+            {
+                anchor: "TimSteigert",
+                name: "Tim Steigert",
+                photo: "themes/stretchcon/img/speaker_timsteigert.jpg",
+                bio: "<p>Tim is leading Digital & Innovation Strategy for GE, driving large scale changes in Europe. Due to a strong background in technology he prefers working with people. He is passionate about education, healthcare & energy. Being a very visual person his professional interests are in strategy, innovation and psychology. He is constantly being trained by kids and enjoys being a jester, keynote speaker and coach in his spare time.</p>",
+                company: "GE",
+                link: {
+                    href: "https://twitter.com/t_1_m",
+                    text: "@t_1_m"
+                },
+               //  presentation: {
+               //      title: "Title",
+               //      description: "Description",
+               //      day: "Day 1 (Thursday)",
+               //      time: "09:20 - 10:20",
+               // }
+            },
         ],
         eventorganizers: [
             {
@@ -318,18 +371,6 @@ module.exports = {
                     text: "@LCsereklei"
                 },
             },
-            {
-                name: "Gergely Orbán, program committee",
-                photo: "themes/stretchcon/img/org_gergelyorban.png",
-                bio: "",
-                company: "DoctuSoft",
-            },
-            {
-                name: "Ádám Bankó, program committee",
-                photo: "themes/stretchcon/img/org_adambanko.png",
-                bio: "I am an Organization Developer at <a href=\"http://www.lab.coop/\">Lab.Coop</a>, evolving Holacracy, NonViolent Communication and transparent salaries at this employee owned product house. I love living on the cutting edge and experimenting with ways of reinventing organizations.",
-                company: "Lab.Coop",
-            },
         ],
         // List of Sponsors
         sponsors: [
@@ -360,7 +401,7 @@ module.exports = {
                 url: "http://ustream.tv/"
             },
             {
-                name: "ERICKSON",
+                name: "ERICSSON",
                 logo: "themes/stretchcon/img/org_ericsson.jpg",
                 url: "http://ericsson.hu/"
             }

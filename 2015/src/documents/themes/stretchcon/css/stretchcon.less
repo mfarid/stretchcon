@@ -5,32 +5,93 @@
 
 
 .header {
-    background: #000 url(../img/stretch_sarah_header.jpg) no-repeat center 60%;
-    background-size: 100%;
-    padding: 320px 0 10px 0;
+    background: #000 url(../img/stretch_urania_header.png) no-repeat center 80%;
+    background-size: cover;
+    background-position: center bottom;
 }
 
 .header .logo-name {
     font-size: 3.5em;
-    line-height: 1.3em;
-    width: 70%;
+    line-height: 1em;
+    width: 85%;
     margin: 0 auto;
 }
 
-.header:before {
-    content: " ";
-    top: 15%;
-    left: 0;
-    right: 0;
-    margin-left: auto;
-    margin-right: auto;
-    position: absolute;
-    width: 140px;
-    height: 140px;
-    background: transparent url(../img/logo_white_text.png) no-repeat center center;
-    background-size: 100%;
+.header .date {
+    font-size:0.6em;
+    margin-bottom: 2em;
+    font-weight: 500;
+  }
+
+.header .tagline {
+    margin: 0.5em auto;
+    font-size:0.8em;
+    color:#C4FF6A;
+    width:65%;
 }
 
+.stretch-logo{
+    margin-top: 6em;
+    max-width: 350px;
+    width:100%;
+  }
+
+h1 .logo-link {
+    display:block;
+    margin-top:0.5em;
+}
+header .social {
+    display:block;
+    bottom: 0;
+}
+
+header .social a {
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: rgba(255,255,255,0.72);
+    color: white;
+    text-transform: uppercase;
+    vertical-align: middle;
+    line-height: 2.4rem;
+    vertical-align: middle;
+    position: relative;
+    display: inline-block;
+    transition: color .2s ease-out;
+    margin-right:2.1rem;
+}
+
+header .social img {
+    font-size: 2rem;
+    margin-right: 0.5rem;
+    line-height: 2.4rem;
+    float:left;
+    color: white;
+}
+header .social a:hover {
+    color: white;
+}
+header .social a .icon-facebook {
+    margin-left: 3rem;
+}
+
+#nav {
+    text-align:center;
+}
+
+nav li .button {
+	padding: 0.8rem 2rem;
+	border: 1px solid rgba(255,255,255, 0.6);
+	transition: all 0.2s ease-out;
+	border-radius: 2px;
+    margin-top: 1.6rem;
+	color: #fff;
+}
+
+nav li a.button:hover {
+	color: #98cd48;
+	background-color: #fff;
+    border-color: #fff;
+}
 @media only screen and (max-width: 800px) {}
 
 .content a {

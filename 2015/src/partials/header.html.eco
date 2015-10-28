@@ -1,10 +1,18 @@
 <!-- HEADER -->
 <header class="header">
   <div class="wrapper">
+  <img src="themes/stretchcon/img/logo_white_text.png" alt="Stretch" class="stretch-logo">
     <h1 class="logo-name">
-      <a class="logo-link" href="#" title="<%= @conf.name %>" itemprop="name"><%= @conf.name %></a>
+      <span class="logo-link"><%= @conf.name %></span>
+      <span class="logo-link tagline"><%= @conf.tagline %></span>
+      <span class="logo-link date"><%= @conf.date %></span>
     </h1>
+   <div class="social">
+    <a href="https://twitter.com/stretchcon" class="twitter"><img src="themes/stretchcon/img/twitter.png" alt="Stretch on Twitter" />Twitter</a>
+    <a href="https://www.facebook.com/stretchcon" class="facebook"><img src="themes/stretchcon/img/facebook.png" alt="Stretch on Facebook" />Facebook</a>
+    </div>
   </div>
+
 </header>
 <!--  / HEADER -->
 <hr>
