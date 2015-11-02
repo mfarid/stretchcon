@@ -152,6 +152,23 @@ module.exports = {
                // }
             },
             {
+                anchor: "JohnBunch",
+                name: "John Bunch",
+                photo: "themes/stretchcon/img/speaker_johnbunch.jpg",
+                bio: "<p>John Bunch was born and raised in Tallahassee, FL.  He completed his undergraduate studies at Georgia Institute of Technology with a B.S. in Computer Science and later received an M.S. In Computer Science from UNLV.  After trying out High School math teaching and professional poker playing John joined Zappos.com in 2009 as a Software Developer.  He moved on to lead the Public API team and subsequently transitioned into the role of Technical Advisor to Zappos CEO, Tony Hsieh.  John is currently leading Holacracy implementation efforts at Zappos which look to transform traditional hierarchies towards self-organization, empowerment, and innovation.</p>",
+                company: "Zappos",
+                link: {
+                    href: "http://twitter.com/BunchBunchBunch",
+                    text: "@BunchBunchBunch"
+                },
+               //  presentation: {
+               //      title: "Title",
+               //      description: "Description",
+               //      day: "Day 1 (Thursday)",
+               //      time: "09:20 - 10:20",
+               // }
+            },
+            {
                 anchor: "EvaRambala",
                 name: "Éva Rambala",
                 photo: "themes/stretchcon/img/speaker_evarambala.jpg",
