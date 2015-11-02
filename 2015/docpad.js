@@ -357,7 +357,7 @@ module.exports = {
                 },
             },
             {
-                name: "Balint Koves, program committee, chief organizer",
+                name: "Bálint Köves, program committee, chief organizer",
                 photo: "themes/stretchcon/img/org_balintkoves.jpg",
                 bio: "I strongly believe in the constant possibility of improvement and that the only route to this is stretching one's boundaries, instead of following the paved way. My role currently at Ericsson is building, coaching, mentoring and generally enabling a new organization of several teams in the integration area.",
                 company: "Ericsson",
