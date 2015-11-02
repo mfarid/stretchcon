@@ -14,8 +14,10 @@
   "scripts": {
     "test": "docpad generate",
     "build": "docpad generate",
+    "dryrun": "s3cmd -n --config ~/.s3cfg-stretchcon sync www/* s3://stretchcon.com/2015/ --verbose",
     "deploy": "s3cmd --config ~/.s3cfg-stretchcon sync www/* s3://stretchcon.com/2015/ --verbose",
     "build-deploy": "npm run build && npm run deploy",
+    "build-dryrun": "npm run build && npm run dryrun",
     "start": "docpad run"
   },
   "dependencies": {
