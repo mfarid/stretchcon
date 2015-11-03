@@ -32,6 +32,7 @@ module.exports = {
             // 'cfp',
             // 'schedule',
             'speakers',
+            'workshops',
             'location',
             'sponsors',
             'organizers',
@@ -45,6 +46,7 @@ module.exports = {
             cfp: "Call For Presentations",
             location: "Location",
             speakers: "Speakers",
+            workshops: "Workshops",
             schedule: "Schedule",
             tickets: "Tickets",
             sponsors: "Sponsors",
@@ -389,6 +391,45 @@ module.exports = {
                 },
             },
         ],
+        // List of Workshops
+        workshops: [
+            {
+                anchor: "DocNortonWorkS",
+                name: "Doc Norton",
+                photo: "themes/stretchcon/img/speaker_docnorton.jpg",
+                bio: "Even high functioning teams occasionally have a hard time making decisions or coming up with creative ideas. There are times when the conversation seems to drag on long after a decision is reached. There are times when we have too many people involved in the discussion or the wrong people involved. There are times when we're not sure who's the actual decision maker. And there are those times when we just seem to be out of synch with each other. This creative collaboration workshop provides tools that help resolve all of these issues.",
+                company: "Creative Collaboration: Tools for Teams",
+                date: "8th December 2015"
+                // link: {
+                //    href: "http://twitter.com/james_clear",
+                //    text: "@james_clear"
+                // },
+               //  presentation: {
+               //      title: "Title",
+               //      description: "Description",
+               //      day: "Day 1 (Thursday)",
+               //      time: "09:20 - 10:20",
+               // }
+            },
+            {
+                anchor: "WiboKooleWorkS",
+                name: "Wibo Koole",
+                photo: "themes/stretchcon/img/speaker_wibokoole.jpg",
+                bio: "Over the last few years Mindful Leadership has worldwide become a core element in corporate leadership programs. In this half day workshop you will learn how using your emotional intelligence and focusing your attention through mindfulness can greatly enhance your leadership performance.",
+                company: "Mindful Leadership. Enhancing leadership performance through emotional intelligence and mindfulness",
+                date: "8th December 2015"
+                // link: {
+                //    href: "http://twitter.com/james_clear",
+                //    text: "@james_clear"
+                // },
+               //  presentation: {
+               //      title: "Title",
+               //      description: "Description",
+               //      day: "Day 1 (Thursday)",
+               //      time: "09:20 - 10:20",
+               // }
+            },
+            ],
         // List of Sponsors
         sponsors: [
             // {
