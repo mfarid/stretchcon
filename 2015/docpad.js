@@ -306,41 +306,18 @@ module.exports = {
                     // time: "09:20 - 10:20",
                }
             },
-            //     name: "Brendan Marsh, Kristian Lindwall",
-            //     bio: "<p><strong>Brendan Marsh</strong> — <a href=\"http://twitter.com/brendanmarsh\">@brendanmarsh</a> — is an Agile Coach in the Infrastructure &amp; Operations tribe at Spotify. An Australian expat, Brendan now lives in Stockholm and coaches teams that build and maintain Spotify's big data infrastructure. Brendan has been coaching &amp; growing teams for the past 5 years.</p><p><strong>Kristian Lindwall</strong> — <a href=\"https://twitter.com/klindwall\">@klindwall</a> — is a Chapter Lead and Agile Coach at Spotify. Kristian has been coaching agile teams for the last 5 years, he is an experienced scrum master, agile coach and development manager.</p>",
             {
-                anchor: "AdamBanko",
-                name: "Ádám Bankó",
-                photo: "themes/stretchcon/img/speaker_adambanko.png",
-                bio: "<p>Adam works on scaling organizations and code. He worked as a developer at Prezi while it has grown from 30 to 200 people. This experience fueled his interest in organization development. Now he guides Lab.Coop on the way to a scalable agile organization.</p>",
-                company: "LAB.COOP",
-                link: {
-                    href: "https://twitter.com/adam_banko",
-                    text: "@adam_banko"
-                },
-               //  presentation: {
-               //      title: "Title",
-               //      description: "Description",
-               //      day: "Day 1 (Thursday)",
-               //      time: "09:20 - 10:20",
-               // }
-            },
-            {
-                anchor: "GergelyOrban",
-                name: "Gergely Orbán",
-                photo: "themes/stretchcon/img/speaker_gergelyorban.png",
-                bio: "<p>Gergely is leading organizational change and manage IT projects at Doctusoft. Coach teams and individuals and live the story they share while they go together for the project objectives. His recent focus is on: Self management and self governing teams, Teal organizational practices (Frederic Laloux), Holacracy, Mindfulness in work.</p>",
-                company: "DOCTUSOFT",
-                // link: {
-                  //  href: "https://twitter.com/adam_banko",
-                  //  text: "@adam_banko"
-              //  },
-               //  presentation: {
-               //      title: "Title",
-               //      description: "Description",
-               //      day: "Day 1 (Thursday)",
-               //      time: "09:20 - 10:20",
-               // }
+                anchor: "AdamBankoGergelyOrban",
+                name: "Ádám Bankó, Gergely Orbán",
+                photo: "themes/stretchcon/img/speaker_adambankogergelyorban.png",
+                bio: "<p><strong>Ádám Bankó</strong> — <a href=\"http://twitter.com/adam_banko\">@adam_banko</a> — works on scaling organizations and code. He worked as a developer at Prezi while it has grown from 30 to 200 people. This experience fueled his interest in organization development. Now he guides Lab.Coop on the way to a scalable agile organization.</p><p><strong>Gergely Orbán</strong> — is leading organizational change and manage IT projects at Doctusoft. Coach teams and individuals and live the story they share while they go together for the project objectives. His recent focus is on: Self management and self governing teams, Teal organizational practices (Frederic Laloux), Holacracy, Mindfulness in work.</p>",
+                company: "Lab.Coop, Doctusoft",
+                presentation: {
+                    title: "Holacracy implementatimon in Hungary",
+                    description: "See a talk about two different journies to Holacracy.<br><br>One is an experimental transition in Doctusoft, changing the operating structure of a division from conventional to this new adaptive system.<br><br>The other example is Lab.Coop, an 18 person employee-owned company built from scratch on the priciples of Holacracy.",
+                    // day: "Day 1 (Thursday)",
+                    // time: "09:20 - 10:20",
+               }
             },
             {
                 anchor: "TimSteigert",
