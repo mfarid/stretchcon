@@ -313,7 +313,7 @@ module.exports = {
                 bio: "<p><strong>Ádám Bankó</strong> — <a href=\"http://twitter.com/adam_banko\">@adam_banko</a> — works on scaling organizations and code. He worked as a developer at Prezi while it has grown from 30 to 200 people. This experience fueled his interest in organization development. Now he guides Lab.Coop on the way to a scalable agile organization.</p><p><strong>Gergely Orbán</strong> — is leading organizational change and manage IT projects at Doctusoft. Coach teams and individuals and live the story they share while they go together for the project objectives. His recent focus is on: Self management and self governing teams, Teal organizational practices (Frederic Laloux), Holacracy, Mindfulness in work.</p>",
                 company: "Lab.Coop, Doctusoft",
                 presentation: {
-                    title: "Holacracy implementatimon in Hungary",
+                    title: "Holacracy implementation in Hungary",
                     description: "See a talk about two different journies to Holacracy.<br><br>One is an experimental transition in Doctusoft, changing the operating structure of a division from conventional to this new adaptive system.<br><br>The other example is Lab.Coop, an 18 person employee-owned company built from scratch on the priciples of Holacracy.",
                     // day: "Day 1 (Thursday)",
                     // time: "09:20 - 10:20",
