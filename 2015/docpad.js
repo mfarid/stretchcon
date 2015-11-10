@@ -341,7 +341,7 @@ module.exports = {
             {
                 name: "Bernadett Otterbein, event organizer",
                 photo: "themes/stretchcon/img/org_bernadettotterbein.png",
-                bio: "",
+                bio: "I’m a Communication Specialist at Ustream responsible of developing and handling PR and communications duties and co-organising international tech conferences in Budapest (as STRETCH, CRAFT, CRUNCH, AMUSE). At Stretch conference I'm being the main liaison between sponsors as they execute their partnership, and taking care of all duties to create a positive experience for conference partners, attendees and speakers.",
                 company: "Ustream",
             },
             {
