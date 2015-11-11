@@ -95,12 +95,12 @@ module.exports = {
                     href: "http://twitter.com/james_clear",
                     text: "@james_clear"
                 },
-               //  presentation: {
-               //      title: "Title",
-               //      description: "Description",
-               //      day: "Day 1 (Thursday)",
-               //      time: "09:20 - 10:20",
-               // }
+                presentation: {
+                    title: "The Surprising Power of Small Habits",
+                    description: "This session is about the hidden forces that shape our behavior at work and at home. We will cover the psychology of how habits work and practical strategies for how to stick to good habits and break bad ones.",
+                    day: "Day 1 (Wednesday)",
+                    time: "09:30 - 10:15",
+               }
             },
             {
                 anchor: "NiklasModig",
@@ -115,8 +115,8 @@ module.exports = {
                 presentation: {
                     title: "“One” lean operations strategy – How to resolve the efficiency paradox",
                     description: "Lean is the most spread management concept of all time, yet academically, there is not even a generally accepted definition of lean. When it comes to “what” lean actually is, the confusion is overwhelming. A variety of management concepts, with different origin and purpose, are today competing for attention within organizations. What improvement concept is the best? How can we achieve consistency when new concepts are almost launched every year? How can we achieve congruence when we adopt different concepts in different contents?<br><br>In this lecture, <b>Niklas Modig</b> - bestselling author of «This Is Lean» - shares his latest insights on lean. Niklas sheds new light on what lean really is about and pragmatically helps you sort out the various aspects of the management philosophy into a coherent whole - one strategy to attain effectiveness and efficiency throughout your whole value chain. Niklas will inspire you why and how to develop a flow efficient and “self-fishing” organization.",
-                    // day: "Day 1 (Thursday)",
-                    // time: "09:20 - 10:20",
+                    day: "Day 3 (Friday)",
+                    time: "15:10 - 16:10",
                }
             },
             {
@@ -132,8 +132,8 @@ module.exports = {
                 presentation: {
                     title: "Introducing Holacracy: A New Management System for Purpose-Driven Organizations",
                     description: "Organizations are the most powerful force for progress on the planet. Yet even the most consciously run business is often limited by an organizational structure that’s not designed to support a dynamic, purpose-driven company. Sometimes those within achieve great results despite the organization’s management structure, but rarely because of it – more often it subtly works against efforts to nurture a conscious, empowered culture. There has to be a better way.<br><br>Holacracy is a fundamentally different “operating system” for an organization, with a new approach to clarifying accountability, distributing power, and structuring an organization’s functions and flows. It operates without a traditional top-down management hierarchy, and yet its alternative approach to structuring a company allows the alignment, clarity, and rapid decision-making that are often lacking in “flat” organizations.<br><br>This session introduces the core principles and practices of Holacracy through presentation, Q&A, and stories of companies using the method. Participants will leave with a vision for a completely novel way to structure an organization, and key questions to consider around how their organization’s structure interplays with building a conscious culture and purpose-driven business.",
-                    // day: "Day 1 (Thursday)",
-                    // time: "09:20 - 10:20",
+                    day: "Day 2 (Thursday)",
+                    time: "13:20 - 14:05",
                }
             },
             {
@@ -146,12 +146,12 @@ module.exports = {
                     href: "http://twitter.com/DocOnDev",
                     text: "@DocOnDev"
                 },
-               //  presentation: {
-               //      title: "Title",
-               //      description: "Description",
-               //      day: "Day 1 (Thursday)",
-               //      time: "09:20 - 10:20",
-               // }
+                presentation: {
+                    title: "The Experimentation Mindset",
+                    description: "Among the traits that distinguish a good team from a great team is their ability to innovate. Despite the rhetoric in favor of innovation, most organizations are stuck in an implementation mindset, stifling creativity, excellence, and the resultant innovation. The experimentation mindset frees us from self-imposed constraints, allowing us to continually learn and improve. In this session, we'll talk about how we learn as individuals and how we learn as organizations. We'll take a look at some examples of the experimentation mindset happening in the agile community today and we'll talk about how you can foster such a mindset in your own organization.",
+                    day: "Day 2 (Thursday)",
+                    time: "09:15 - 10:00",
+               }
             },
             {
                 anchor: "JohnBunch",
