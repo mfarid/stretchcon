@@ -163,12 +163,12 @@ module.exports = {
                     href: "http://twitter.com/BunchBunchBunch",
                     text: "@BunchBunchBunch"
                 },
-               //  presentation: {
+                presentation: {
                //      title: "Title",
                //      description: "Description",
-               //      day: "Day 1 (Thursday)",
-               //      time: "09:20 - 10:20",
-               // }
+                    day: "Day 3 (Friday)",
+                    time: "10:00 - 10:45",
+               }
             },
             {
                 anchor: "EvaRambala",
@@ -183,8 +183,8 @@ module.exports = {
                 presentation: {
                     title: "Introduction to Nonviolent Communication",
                     description: "If something happens and you don’t like, speak up, without being critical!<br>• Would you like to be able to stand up for yourself in a way that evokes cooperation and deeper connection?<br>• Are you fed up with trying your best to communicate, only to find that your intention is not getting through and that you end up with more issues?<br>• Would you like to be able to hear not just what people are saying but what is in their hearts?<br>• Would you like to know when respectful understanding is enough and when it is important to come to agreement?<br><br>Nonviolent Communication (NVC) has been called the “language of life”. It was developed by US psychologist Marshall B. Rosenberg in the sixties, and is now practiced in more than 70 different countries worldwide. By focusing on each person’s feelings and needs and by working with these, NVC helps people to find common ground beyond their cultural differences, as needs are neutral and shared by all of us. NVC is effective in helping people suspend judgment, freeing them from prejudice and culturally-patterned expectations. This greatly facilitates intercultural interaction.",
-                    // day: "Day 1 (Thursday)",
-                    // time: "09:20 - 10:20",
+                    day: "Day 3 (Friday)",
+                    time: "13:20 - 14:50",
                }
             },
             {
@@ -200,8 +200,8 @@ module.exports = {
                 presentation: {
                     title: "Change the evolution - The elephant wants to be a mouse",
                     description: "Are perfect companies really places where people like to work? Can these companies offer a long term perspective or is there a point when they have to rethink how they are organized and how they could and should work?<br><br>Growing, increasing productivity, becoming the market leader: this is what many companies have as their main targets.<br><br>During their corporate development, they start to build up departments, and a lot of other important or not so important things arise. From the outside, these companies appear perfect, well organized and able to withstand every storm. They have some well-known leaders, who represent the company to the inside and to the outside world.<br><br>In my presentation I´d like to share some challenges we have been faced during our organizational life cycle over the last 20 years. What mistakes did we make and what did we learn from them? What did we try out without knowing if it would really work? How did we manage to involve the whole organization and why was this necessary? What is our current situation and why do we still have so much room for improvement?",
-                    // day: "Day 1 (Thursday)",
-                    // time: "09:20 - 10:20",
+                    day: "Day 1 (Wednesday)",
+                    time: "11:20 - 12:05",
                }
             },
             {
@@ -217,8 +217,8 @@ module.exports = {
                 presentation: {
                     title: "Coaching \"self-organising\" teams",
                     description: "Self-organisation is one of the most misunderstood concepts used in agile practice. If people really understood the dynamics of self-organising systems, they most probably would avoid trying to use it. Instead, they (mis-)apply some ideas, close their eyes, wish real hard, hope that magic happens, and then use the term “unintended consequences” to describe the - often unfortunate - result. Nevertheless, self-organisation is a basic Agile principle, which teams are expected to use, so this talk will help you learn to understand how it works, and how to implement it in your teams.",
-                    // day: "Day 1 (Thursday)",
-                    // time: "09:20 - 10:20",
+                    day: "Day 2 (Thursday)",
+                    time: "11:05 - 11:50",
                }
             },
             {
@@ -234,8 +234,8 @@ module.exports = {
                 presentation: {
                     title: "Future Focused Leaders Create Cultures of Purpose",
                     description: "Are you looking for ways to increase employee engagement and improve organizational culture? Then focus on using purpose. Purpose-driven, future focused leaders create a culture of purpose-driven work and employee engagement. In this talk, you’ll learn how to define purpose, what is needed to create a purpose driven DNA and how your own leadership values will add depth to work.",
-                    // day: "Day 1 (Thursday)",
-                    // time: "09:20 - 10:20",
+                    day: "Day 3 (Friday)",
+                    time: "9:15 - 10:00",
                }
             },
             {
@@ -251,8 +251,8 @@ module.exports = {
                 presentation: {
                     title: "The Trusted Executive: Nine leadership habits that inspire results, relationships and reputation",
                     description: "Many of us are tired of reading in the media about one business scandal after another. Trust in business leaders is at a low ebb; undermining performance, damaging relationships and destroying reputations. A new breed of executive will regain our trust by stepping up to a broader, braver role in the world and mastering essential trust-building habits. This session will explore a model of trust based on three pillars; ability, integrity and benevolence. Beneath the three pillars lie the nine habits that inspire trust; habits which will enable the trusted executive to deliver outstanding results, inspiring relationships and a positive contribution to society.",
-                    // day: "Day 1 (Thursday)",
-                    // time: "09:20 - 10:20",
+                    day: "Day 2 (Thursday)",
+                    time: "16:55 - 17:40",
                }
             },
             {
@@ -268,8 +268,8 @@ module.exports = {
                 presentation: {
                     title: "From Ego To Eco-system Economies: Leadership and Collective Awareness For The Emerging Future Through Theory U",
                     description: "We live in a world of change as never before. Forces like population growth and global migration, climate change, internet and other technologies are reshaping markets, social structures and natural environments organizations are dealing with. On the one hand we sense incredible opportunities for bringing forth a world a much happier world. While on the other we still seem collectively to produce results nobody wants. How do leaders and organizations navigate into a more purposeful, brighter and connected world?<br><br>In this lecture Wibo Koole, senior practitioner at the Presencing Institute, mindful leadership expert and management consultant will introduce Theory U, a globally used social technology for creating change.<br><br>Theory U is both:<br>- A framework/lens/language for seeing and talking about our deeper levels of experience.<br>- A methodology for shifting the place we come from as we work in the world, and for operating from deeper levels more effectively (a process for making it happen).<br>- A phenomenon--part of a larger social movement that is about waking up to operating from Source (its latest online course called U.Lab is attended by over 40.000 participants that work both off- and online).<br><br>Meeting the challenges of this century requires updating our economic logic and operating system from an obsolete “ego-system” focused entirely on the well-being of oneself to an eco-system awareness that emphasizes the well-being of the whole.",
-                    // day: "Day 1 (Thursday)",
-                    // time: "09:20 - 10:20",
+                    day: "Day 1 (Wednesday)",
+                    time: "10:15 - 11:00",
                }
             },
             {
@@ -285,8 +285,8 @@ module.exports = {
                 presentation: {
                     title: "On the way to a teal school - building purposeful education",
                     description: "Schools are the counterexample for effective, adaptable, resilient and purposeful organizations. The DNA of our school systems stem from the century of industrialization. Children are objects, being processed in rather soulless factories, and being treated as interchangeable units that need to be channeled through a predefined curriculum. The factory spirit has massive effects on students as well as staff. A fundamental change in school culture throughout Europe is desperately needed to build purposeful education.<br><br>The Evangelische Schule Berlin Zentrum believes that youth today have to be prepared for uncertainty, be actively linked to their surroundings, have to embrace failure and have to practice appreciation and empathy. Schools have to be transformed by radically putting students in charge.<br><br>The school, founded in 2007, holistically puts known pedagogical best cases into practices (i.e. school students learn in inclusive and age-mixed groups, pupils are defining and monitoring their own projects and use teachers as coaches), but moves far beyond that. From mere knowledge transfer to the ability to process knowledge and apply it to one’s own actions, from teaching children to do something to putting children in charge of shaping their own education and life. In school assemblies pupils learn to publicly praise their peers – to cultivate feedback and empathy. One of the subjects is called “Responsibility”, centering on civic engagement in the local community. Also, every student has to annually (for three years in a row) master a self-chosen three-week “Challenge” outside of school with almost no budget, like hiking across Germany or help building something in a social institution. Although students have not been selected for intellectual ability, their GPAs in A levels are comparable or better than in other German high schools.<br><br><b>Christian Hausner</b> opens up a 360 degree view on the school, pointing out the main success factors for the school in terms of pedagogical practice and work culture.",
-                    // day: "Day 1 (Thursday)",
-                    // time: "09:20 - 10:20",
+                    day: "Day 2 (Thursday)",
+                    time: "10:00 - 10:45",
                }
             },
             {
@@ -302,8 +302,8 @@ module.exports = {
                 presentation: {
                     title: "Transformational Leadership – Leader in the mirror",
                     description: " Leading and being the change in the organisation.<br><br><b>“Everything changes. Everything is connected. Pay attention.” – Classic Buddhist teaching</b><br><br>Transformational Leadership is a new must nowadays! Today’s organisations are in a constant move in order to respond to the needs of unpredictable, continuously changing business environment. Every day is full of complex challenges, which require developing answers and solutions that are yet unknown. Today’s workforce is diverse with different needs and ambitions, therefore, the composition of teams are dynamically changing and uneven. Leaders must respond to these challenges in a way <b>to expand their leadership capacity to be, think and lead in a transformational way</b>.",
-                    // day: "Day 1 (Thursday)",
-                    // time: "09:20 - 10:20",
+                    day: "Day 1 (Wednesday)",
+                    time: "13:35 - 14:20",
                }
             },
             {
@@ -315,8 +315,8 @@ module.exports = {
                 presentation: {
                     title: "Holacracy implementation in Hungary",
                     description: "See a talk about two different journies to Holacracy.<br><br>One is an experimental transition in Doctusoft, changing the operating structure of a division from conventional to this new adaptive system.<br><br>The other example is Lab.Coop, an 18 person employee-owned company built from scratch on the priciples of Holacracy.",
-                    // day: "Day 1 (Thursday)",
-                    // time: "09:20 - 10:20",
+                    day: "Day 2 (Thursday)",
+                    time: "16:10 - 16:55",
                }
             },
             {
@@ -332,8 +332,8 @@ module.exports = {
                 presentation: {
                     title: "Teaching an elephant how to dance",
                     description: "What can you do, working for a 130+ year old behemoth that employs more than 300.000 people world wide across many different industries to not drop into obsolescence in these VUCA times?<br><br><b>Tim Steigert</b> is sharing some insight on how GE has set out to reinvent itself in a time where people try to understand what \"digital disruption\" is really all about and where the average age of companies on the Forbes 500 has dropped from 70+ to 15 years since 2000.",
-                    // day: "Day 1 (Thursday)",
-                    // time: "09:20 - 10:20",
+                    day: "Day 1 (Wednesday)",
+                    time: "16:25 - 17:10",
                }
             },
         ],
