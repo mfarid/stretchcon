@@ -194,8 +194,8 @@ module.exports = {
                 bio: "<p>My name is Rene Kottlowski, I am the Chief Operation Officer, responsible for all customer projects. I started my carrier at evosoft in 2001 in Germany as a junior consultant and had the opportunity to grow with the company. I came over to Hungary 1.5 years ago. I have seen a lot of changes in our company and I am really happy that I could be a part of these changes, especially when they went in the direction of organizational development.</p>",
                 company: "evosoft",
                 link: {
-                    href: "http://twitter.com/josephpelrine",
-                    text: "@josephpelrine"
+                    href: "http://www.evosoft.hu/",
+                    text: "evosoft.hu"
                 },
                 presentation: {
                     title: "Change the evolution - The elephant wants to be a mouse",
