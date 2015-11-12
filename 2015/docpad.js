@@ -30,7 +30,7 @@ module.exports = {
             // 'photos',
             'about',
             // 'cfp',
-            // 'schedule',
+            'schedule',
             'speakers',
             'workshops',
             'location',
@@ -55,33 +55,177 @@ module.exports = {
             contact: "Contact"
         },
         schedule: [
-            // {
-            //     header: "Day 1 (Thursday)",
-            //     slots: [
-            //         {
-            //             time: "08:00 - 09:00",
-            //             title: "Registration & Breakfast"
-            //         },
-            //         {
-            //             time: "09:00 - 09:20",
-            //             title: "Introduction",
-            //             recordedUrl: "http://www.ustream.tv/recorded/xxx",
-            //             speaker: true
-            //         },
-            //         {
-            //             time: "09:20 - 10:20",
-            //             title: "Keynote",
-            //             keynote: true,
-            //             speaker: true,
-            //             recordedUrl: "http://www.ustream.tv/recorded/xxx"
-            //         },
-            //     ]
-            // },
-            // {
-            //     header: "Day 2 (Friday)",
-            //     slots: [
-            //     ]
-            // }
+            {
+                header: "Day 1 (Wednesday)",
+                slots: [
+                    {
+                        time: "08:00 - 09:15",
+                        title: "Registration & Breakfast"
+                    },
+					{
+                        time: "09:15 - 09:30",
+                        title: "Opening",
+                        //recordedUrl: "http://www.ustream.tv/recorded/xxx",
+                        speaker: false
+                    },
+                    {
+                        time: "09:30 - 10:15",
+                        title: "The Surprising Power of Small Habits",
+                        //recordedUrl: "http://www.ustream.tv/recorded/xxx",
+                        speaker: true
+                    },
+                    {
+						title: "From Ego To Eco-system Economies: Leadership and Collective Awareness For The Emerging Future Through Theory U",
+						time: "10:15 - 11:00",
+                        speaker: true,
+                        //recordedUrl: "http://www.ustream.tv/recorded/xxx"
+                    },
+                    {
+                        time: "11:00 - 11:20",
+                        title: "Break"
+                    },					
+                    {
+						time: "11:20 - 12:05",
+						title: "Change the evolution - The elephant wants to be a mouse",
+                        //recordedUrl: "http://www.ustream.tv/recorded/xxx",
+                        speaker: true
+                    },
+                    {
+                        time: "12:05 - 13:35",
+                        title: "Lunch"
+                    },						
+                    {
+						title: "Transformational Leadership – Leader in the mirror",
+						time: "13:35 - 14:20",
+                        //recordedUrl: "http://www.ustream.tv/recorded/xxx",
+                        speaker: true
+                    },
+                    {
+                        time: "14:20 - 16:05",
+                        title: "<b>Open Space</b>"
+                    },						
+                    {
+                        time: "16:05 - 16:25",
+                        title: "Break"
+                    },						
+                    {
+						title: "Teaching an elephant how to dance",
+						time: "16:25 - 17:10",
+                        //recordedUrl: "http://www.ustream.tv/recorded/xxx",
+                        speaker: true
+                    },							
+                ]
+            },
+            {
+                header: "Day 2 (Thursday)",
+                slots: [
+                    {
+                        time: "08:00 - 09:15",
+                        title: "Registration & Breakfast"
+                    },
+                    {
+						time: "09:15 - 10:00",
+						title: "The Experimentation Mindset",
+                        speaker: true,
+                        //recordedUrl: "http://www.ustream.tv/recorded/xxx"
+                    },
+					{
+						title: "On the way to a teal school - building purposeful education",
+						time: "10:00 - 10:45",
+                        speaker: true,
+                        //recordedUrl: "http://www.ustream.tv/recorded/xxx"
+                    },
+                    {
+                        time: "10:45 - 11:05",
+                        title: "Break"
+                    },						
+					{
+						title: "Coaching \"self-organising\" teams",
+						time: "11:05 - 11:50",
+                        speaker: true,
+                        //recordedUrl: "http://www.ustream.tv/recorded/xxx"
+                    },
+                    {
+                        time: "11:50 - 13:20",
+                        title: "Lunch"
+                    },						
+					{
+						title: "Introducing Holacracy: A New Management System for Purpose-Driven Organizations",
+						time: "13:20 - 14:05",
+						speaker: true,
+                        //recordedUrl: "http://www.ustream.tv/recorded/xxx"
+					},
+                    {
+                        time: "14:05 - 15:50",
+                        title: "<b>Open Space</b>"
+                    },						
+                    {
+                        time: "15:50 - 16:10",
+                        title: "Break"
+                    },						
+					{
+						title: "Holacracy implementation in Hungary",
+						time: "16:10 - 16:55",
+						speaker: true,
+                        //recordedUrl: "http://www.ustream.tv/recorded/xxx"
+					},
+					{
+						title: "The Trusted Executive: Nine leadership habits that inspire results, relationships and reputation",
+						time: "16:55 - 17:40",
+						speaker: true,
+                        //recordedUrl: "http://www.ustream.tv/recorded/xxx"
+					},
+						]
+            },
+			{
+                header: "Day 3 (Friday)",
+                slots: [
+                    {
+                        time: "08:00 - 09:15",
+                        title: "Registration & Breakfast"
+                    },
+                    {
+						title: "Future Focused Leaders Create Cultures of Purpose",
+						time: "9:15 - 10:00",
+                        //recordedUrl: "http://www.ustream.tv/recorded/xxx",
+                        speaker: true
+                    },
+					{
+						time: "10:00 - 10:45",
+                        title: "John Bunch",
+                        //recordedUrl: "http://www.ustream.tv/recorded/xxx",
+                        speaker: true
+                    },
+                    {
+                        time: "10:45 - 11:05",
+                        title: "Break"
+                    },
+                    {
+                        time: "11:50 - 13:20",
+                        title: "Lunch"
+                    },						
+                    {
+					    title: "Introduction to Nonviolent Communication",
+						time: "13:20 - 14:50",
+                        //recordedUrl: "http://www.ustream.tv/recorded/xxx",
+                        speaker: true
+                    },					
+                    {
+                        time: "14:50 - 15:10",
+                        title: "Break"
+                    },						
+					{
+						title: "“One” lean operations strategy – How to resolve the efficiency paradox",
+						time: "15:10 - 16:10",
+                        //recordedUrl: "http://www.ustream.tv/recorded/xxx",
+                        speaker: true
+                    },
+                    {
+                        time: "16:10 - 16:40",
+                        title: "Closing"
+                    },						
+                ]
+            }
         ],
         // Speakers and talks
         speakers: [
