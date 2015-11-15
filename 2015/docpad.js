@@ -113,7 +113,11 @@ module.exports = {
 						time: "16:25 - 17:10",
                         //recordedUrl: "http://www.ustream.tv/recorded/xxx",
                         speaker: true
-                    },							
+                    },
+                    {
+                        time: "17:10 - 19:10",
+                        title: "Dinner"
+                    },  							
                 ]
             },
             {
@@ -175,7 +179,15 @@ module.exports = {
 						speaker: true,
                         //recordedUrl: "http://www.ustream.tv/recorded/xxx"
 					},
-						]
+                    {
+                        time: "17:40 - 19:40",
+                        title: "Dinner"
+                    },
+                    {
+                        time: "19:40 - 23:40",
+                        title: "Party"
+                    },                      
+				]
             },
 			{
                 header: "Day 3 (Friday)",
@@ -211,17 +223,17 @@ module.exports = {
                         speaker: true
                     },					
                     {
-                        time: "14:50 - 15:10",
-                        title: "Break"
+                        time: "14:50 - 15:30",
+                        title: "Break +<br>Book Dedication with Niklas Modig"
                     },						
 					{
 						title: "“One” lean operations strategy – How to resolve the efficiency paradox",
-						time: "15:10 - 16:10",
+						time: "15:30 - 16:30",
                         //recordedUrl: "http://www.ustream.tv/recorded/xxx",
                         speaker: true
                     },
                     {
-                        time: "16:10 - 16:40",
+                        time: "16:30 - 17:00",
                         title: "Closing"
                     },						
                 ]
@@ -260,8 +272,15 @@ module.exports = {
                     title: "“One” lean operations strategy – How to resolve the efficiency paradox",
                     description: "Lean is the most spread management concept of all time, yet academically, there is not even a generally accepted definition of lean. When it comes to “what” lean actually is, the confusion is overwhelming. A variety of management concepts, with different origin and purpose, are today competing for attention within organizations. What improvement concept is the best? How can we achieve consistency when new concepts are almost launched every year? How can we achieve congruence when we adopt different concepts in different contents?<br><br>In this lecture, <b>Niklas Modig</b> - bestselling author of «This Is Lean» - shares his latest insights on lean. Niklas sheds new light on what lean really is about and pragmatically helps you sort out the various aspects of the management philosophy into a coherent whole - one strategy to attain effectiveness and efficiency throughout your whole value chain. Niklas will inspire you why and how to develop a flow efficient and “self-fishing” organization.",
                     day: "Day 3 (Friday)",
-                    time: "15:10 - 16:10",
-               }
+                    time: "15:30 - 16:30",
+                },
+                booksigning: {
+                    title: "Book Dedication",
+                    description: "Niklas Modig has offered a free copy of his ground-breaking book «This Is Lean» to all conference participants.<br>A dedication session will be held on the last day, right before Niklas will speak.",
+                    link: {
+                        href: "//player.vimeo.com/video/142062635?title=0&amp;byline=0&amp;portrait=0&amp;color=c9ff23\" width=\"750\" height=\"320\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen",
+                    },
+                },
             },
             {
                 anchor: "BrianRobertson",

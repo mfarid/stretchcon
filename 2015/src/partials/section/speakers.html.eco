@@ -4,6 +4,7 @@
 <% for speaker in @speakers: %>
   <li class="speakers-item" itemprop="performer" itemscope itemtype="http://schema.org/Person"
       id="speakers/<%= speaker.anchor %>">
+
     <% if speaker.photo: %>
       <span class="speaker-photo">
         <img class="photo" src="<%= speaker.photo %>" alt="<%= speaker.name %>" itemprop="image">
@@ -23,6 +24,19 @@
       </h3>
       <p><%- speaker.presentation.description %></p>
     <% end %>
+
+    <% if speaker.booksigning: %>
+        <div class="speaker-booksigning">
+          <h4><%- speaker.booksigning.title %></h4>
+          <p class="booksigning-description"><%- speaker.booksigning.description %></p>
+          <% if speaker.booksigning.link: %>
+            <div class="video-wrapper">
+              <iframe src="<%= speaker.booksigning.link.href %>"></iframe>
+            </div>
+          <% end %>
+        </div>
+    <% end %>
+
   </li>
 <% end %>
 </ul>
