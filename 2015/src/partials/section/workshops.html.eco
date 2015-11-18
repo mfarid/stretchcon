@@ -12,16 +12,10 @@
 
     <h3 class="workshop-name"><%= workshop.name %> <% if workshop.link: %><a href="<%= workshop.link.href %>" title="<%= workshop.link.text %>"><%= workshop.link.text %></a><% end %><h2 class="workshop-date"><%= workshop.date %></h2></h3>
     <p class="workshop-company"><%= workshop.company %></p>
-    <div class="workshop-bio"><%- workshop.bio %> <a href="#tickets" title="Tickets" class="workshop-button nav-link">Workshop tickets</a></div>
+    <div class="workshop-bio"><%- workshop.bio %><a href="#tickets" title="Tickets" class="workshop-button nav-link">Workshop tickets</a></div>
 
     <% if workshop.presentation: %>
-      <h3 class="speech-title">
-        <% if workshop.presentation.time: %>
-        <span class="speech-time"><%= workshop.presentation.day %> &mdash; <%= workshop.presentation.time %></span>
-        <% end %>
-        <span> <%= workshop.presentation.title %></span>
-      </h3>
-      <p><%- workshop.presentation.description %></p>
+      <p class="workshop-description"><%- workshop.presentation.description %></p>
     <% end %>
   </li>
 <% end %>

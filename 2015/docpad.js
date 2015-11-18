@@ -539,36 +539,46 @@ module.exports = {
                 photo: "themes/stretchcon/img/speaker_docnorton.jpg",
                 bio: "Even high functioning teams occasionally have a hard time making decisions or coming up with creative ideas. There are times when the conversation seems to drag on long after a decision is reached. There are times when we have too many people involved in the discussion or the wrong people involved. There are times when we're not sure who's the actual decision maker. And there are those times when we just seem to be out of synch with each other. This creative collaboration workshop provides tools that help resolve all of these issues.",
                 company: "Creative Collaboration: Tools for Teams",
-                date: "8th December 2015"
+                date: "8th December 2015",
                 // link: {
-                //    href: "http://twitter.com/james_clear",
-                //    text: "@james_clear"
+                //    href: "",
+                //    text: ""
                 // },
-               //  presentation: {
-               //      title: "Title",
-               //      description: "Description",
-               //      day: "Day 1 (Thursday)",
-               //      time: "09:20 - 10:20",
-               // }
+              //   presentation: {
+              //       description: "Description",
+              //  }
             },
             {
                 anchor: "WiboKooleWorkS",
                 name: "Wibo Koole",
                 photo: "themes/stretchcon/img/speaker_wibokoole.jpg",
-                 bio: "Over the last few years Mindful Leadership has worldwide become a core element in corporate leadership programs. In this half day workshop you will learn how using your emotional intelligence and focusing your attention through mindfulness can greatly enhance your leadership performance.<br><br><b>The Mindful Leadership workshop evolves around these themes:</b><ul><li>The science behind mindfulness and leadership</li><li>What is mindful leadership?</li><li>Health and well-being, stress and resilience, focus and mindset</li><li>Emotional and social intelligence.</li><li>Experience mindfulness first hand through directly applicable exercises</li><li>Build your mindful leadership performance.</li></ul><br>We will start this workshop with the science behind mindfulness and its applications in a business leadership context. We will present recent research at the Center for Mindfulness into mindful leadership programs at work, which shows significant positive outcomes on attention, stress, motivation and effectiveness.<br>The workshop will be experiential and highly interactive. Participants will be guided through several mindfulness exercises, in order to understand the practice of mindfulness from direct experience. This experience gives the opportunity to test the possible effect first hand.<br>We will then link mindfulness to the daily practice of high level leaders building on the Mindful Leadership-model from my book. Important elements here will be the function of mindfulness practices to create a higher level of personal resilience and an open mind. These are two crucial capabilities that help to steer attention (both personal and organizational) in a continuously shifting and very demanding corporate environment. Participants in the workshop will learn how to apply the learnings in their own daily work and life as a leader. Tools and tips on how to do this will be provided.<br>Mindful leadership has applications on both personal, team and strategic level. While focusing on the personal leadership level, we will show an overview of applications on team and strategy level. ",
+                bio: "Over the last few years Mindful Leadership has worldwide become a core element in corporate leadership programs. In this half day workshop you will learn how using your emotional intelligence and focusing your attention through mindfulness can greatly enhance your leadership performance.<br><br><b>The Mindful Leadership workshop evolves around these themes:</b><ul><li>The science behind mindfulness and leadership</li><li>What is mindful leadership?</li><li>Health and well-being, stress and resilience, focus and mindset</li><li>Emotional and social intelligence.</li><li>Experience mindfulness first hand through directly applicable exercises</li><li>Build your mindful leadership performance.</li></ul><br>We will start this workshop with the science behind mindfulness and its applications in a business leadership context. We will present recent research at the Center for Mindfulness into mindful leadership programs at work, which shows significant positive outcomes on attention, stress, motivation and effectiveness.<br>The workshop will be experiential and highly interactive. Participants will be guided through several mindfulness exercises, in order to understand the practice of mindfulness from direct experience. This experience gives the opportunity to test the possible effect first hand.<br>We will then link mindfulness to the daily practice of high level leaders building on the Mindful Leadership-model from my book. Important elements here will be the function of mindfulness practices to create a higher level of personal resilience and an open mind. These are two crucial capabilities that help to steer attention (both personal and organizational) in a continuously shifting and very demanding corporate environment. Participants in the workshop will learn how to apply the learnings in their own daily work and life as a leader. Tools and tips on how to do this will be provided.<br>Mindful leadership has applications on both personal, team and strategic level. While focusing on the personal leadership level, we will show an overview of applications on team and strategy level. ",
                 company: "Mindful Leadership. Enhancing leadership performance through emotional intelligence and mindfulness",
-                date: "8th December 2015"
+                date: "8th December 2015",
                 // link: {
-                //    href: "http://twitter.com/james_clear",
-                //    text: "@james_clear"
+                //    href: "",
+                //    text: ""
                 // },
                //  presentation: {
-               //      title: "Title",
                //      description: "Description",
-               //      day: "Day 1 (Thursday)",
-               //      time: "09:20 - 10:20",
                // }
             },
+            {
+                anchor: "GeorgePorWorkS",
+                name: "George Pór",
+                photo: "themes/stretchcon/img/speaker_georgepor.png",
+                bio: "Our habitual ways of sensing, thinking, working and leading will fail us in a VUCA world of increasing <i>Volatility, Uncertainty, Complexity, and Ambiguity.</i> We need to meet that challenge with our VUCA of increasing the power of <i>Vision, Understanding, Clarity, and Adaptability.</i> It is a challenge that leaders can ignore only at the peril of their organizations. It is that imperative that this workshop will address.     <br><br>      The core questions that we will work with are defined by the three foundational breakthroughs necessary to personal reinvention. They are patterned after Frederic Laloux’s “Reinventing Organizations”:<br><b>• Committing to an Evolutionary Purpose.</b> How do I realize my fuller creative potential for the common good that is personally meaningful to me?<br><b>• Embracing Personal Wholeness.</b> Are the intelligence of my head, heart, and hands aligned? Do I bring them to all situations?<br><b>•  Enjoying Self-management.</b> How can I choreograph my energies for a well-balanced conscious life, even under stress and facing unexpected challenges?     <br><br>     <b>What you will learn</b><br>• A practical, 10-word definition of Teal consciousness, which can frame and guide your developmental journey<br>• How to use the Teal Maturity Self-Assessment instrument<br>• Resting in your core intelligence and co-creating from it the next upgrade of yourself<br>• What an “evolutionary purpose” is how you can discover yours<br>• The difference between work/life balance and work/life integration and why it matters<br>• How to find a Teal coach and why you need one<br>• What a Teal practice group can do for you and what you can do for it<br>• How to start “going Teal” with your team/community/organization     <br><br>     <h6><a href=\"https://drive.google.com/file/d/0BxHj_XVfYMWfMEV0WEMzX0szM2E1eG85bXV5d1RvSGVuV0ZJ/view?usp=sharing\">More details about the workshop and how to prepare behind this link.</a></h6>  <br>",
+                company: "The Art of Reinventing Yourself: Teal Principles and Practices",
+                date: "12th December 2015",
+                // link: {
+                //    href: "",
+                //    text: ""
+                // },
+                presentation: {
+                    description: "<b>Your workshop facilitator:</b><br><b>George Pór</b> is a strategic learning partner to visionary leaders in business, government, and civil society. He is a Fellow of Future Considerations, the London-based global transformation agency, and s the founding publisher of <a href=\"http://www.enliveningedge.org/\">Enlivening Edge</a>: News from Next-Stage Organizations, and has been publishing the Blog of Collective Intelligence since 2003. George is also the founder of the <a href=\"http://www.enliveningedge.org/\">Teal Practice Group</a> in London.<br>A select list of his articles and book chapters on the fields of collective intelligence, organizational and social renewal can be found <a href=\"https://independent.academia.edu/GeorgeP%C3%B3r\">here</a>. More about George’s work is <a href=\"http://www.enliveningedge.org/about/our-team/\">here</a>.",
+               }
+            },
+
             ],
         // List of Sponsors
         sponsors: [
