@@ -83,7 +83,7 @@ module.exports = {
                     {
                         time: "11:00 - 11:20",
                         title: "Break"
-                    },					
+                    },
                     {
 						time: "11:20 - 12:05",
 						title: "Change the evolution - The elephant wants to be a mouse",
@@ -93,7 +93,7 @@ module.exports = {
                     {
                         time: "12:05 - 13:35",
                         title: "Lunch"
-                    },						
+                    },
                     {
 						title: "Transformational Leadership – Leader in the mirror",
 						time: "13:35 - 14:20",
@@ -103,11 +103,11 @@ module.exports = {
                     {
                         time: "14:20 - 16:05",
                         title: "<b>Open Space</b>"
-                    },						
+                    },
                     {
                         time: "16:05 - 16:25",
                         title: "Break"
-                    },						
+                    },
                     {
 						title: "Teaching an elephant how to dance",
 						time: "16:25 - 17:10",
@@ -117,7 +117,7 @@ module.exports = {
                     {
                         time: "17:10 - 19:10",
                         title: "Dinner"
-                    },  							
+                    },
                 ]
             },
             {
@@ -142,7 +142,7 @@ module.exports = {
                     {
                         time: "10:45 - 11:05",
                         title: "Break"
-                    },						
+                    },
 					{
 						title: "Coaching \"self-organising\" teams",
 						time: "11:05 - 11:50",
@@ -152,7 +152,7 @@ module.exports = {
                     {
                         time: "11:50 - 13:20",
                         title: "Lunch"
-                    },						
+                    },
 					{
 						title: "Introducing Holacracy: A New Management System for Purpose-Driven Organizations",
 						time: "13:20 - 14:05",
@@ -162,11 +162,11 @@ module.exports = {
                     {
                         time: "14:05 - 15:50",
                         title: "<b>Open Space</b>"
-                    },						
+                    },
                     {
                         time: "15:50 - 16:10",
                         title: "Break"
-                    },						
+                    },
 					{
 						title: "Holacracy implementation in Hungary",
 						time: "16:10 - 16:55",
@@ -186,7 +186,7 @@ module.exports = {
                     {
                         time: "19:40 - 23:40",
                         title: "Party"
-                    },                      
+                    },
 				]
             },
 			{
@@ -215,17 +215,17 @@ module.exports = {
                     {
                         time: "11:50 - 13:20",
                         title: "Lunch"
-                    },						
+                    },
                     {
 					    title: "Introduction to Nonviolent Communication",
 						time: "13:20 - 14:50",
                         //recordedUrl: "http://www.ustream.tv/recorded/xxx",
                         speaker: true
-                    },					
+                    },
                     {
                         time: "14:50 - 15:30",
                         title: "Break +<br>Book Dedication with Niklas Modig"
-                    },						
+                    },
 					{
 						title: "“One” lean operations strategy – How to resolve the efficiency paradox",
 						time: "15:30 - 16:30",
@@ -235,7 +235,7 @@ module.exports = {
                     {
                         time: "16:30 - 17:00",
                         title: "Closing"
-                    },						
+                    },
                 ]
             }
         ],
@@ -371,8 +371,8 @@ module.exports = {
                 anchor: "JosephPelrine",
                 name: "Joseph Pelrine",
                 photo: "themes/stretchcon/img/speaker_josephpelrine.png",
-                bio: "<p>As Kent Beck’s assistant, Joseph Pelrine was one of the first in the world who worked with eXtreme Programming. As Europe’s first certified ScrumMaster and Trainer, he was largely responsible for introducing Scrum to the german-speaking part of Europe. For almost 20 years, Joseph Pelrine has been helping some of the world’s most important companies improve their software development process and successfully transition to Agile. A noted international speaker, he conducts research in the field of social complexity theory and its application to Agile processes, and is currently pursuing a PhD in psychology and linguistics.</p>",
-                company: "Megadon AG",
+                bio: "<p>As Kent Beck’s assistant, Joseph Pelrine was one of the first in the world who worked with eXtreme Programming. As Europe’s first certified ScrumMaster and Trainer, he was largely responsible for introducing Scrum to the german-speaking part of Europe. For almost 20 years, Joseph Pelrine has been helping some of the world’s most important companies improve their software development process and successfully transition to Agile. A noted international speaker, he conducts research in the field of social complexity theory and its application to Agile processes, and is currently pursuing a PhD in psychology.</p>",
+                company: "MetaProg GmbH",
                 link: {
                     href: "http://twitter.com/josephpelrine",
                     text: "@josephpelrine"
