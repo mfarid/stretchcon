@@ -109,7 +109,7 @@ module.exports = {
                         title: "Break"
                     },
                     {
-						title: "Teaching an elephant how to dance",
+						title: "Don't blame the goats. Get a Goatherd.",
 						time: "16:25 - 17:10",
                         //recordedUrl: "http://www.ustream.tv/recorded/xxx",
                         speaker: true
@@ -516,7 +516,7 @@ module.exports = {
                     text: "@t_1_m"
                 },
                 presentation: {
-                    title: "Teaching an elephant how to dance",
+                    title: "Don't blame the goats. Get a Goatherd.",
                     description: "What can you do, working for a 130+ year old behemoth that employs more than 300.000 people world wide across many different industries to not drop into obsolescence in these VUCA times?<br><br><b>Tim Steigert</b> is sharing some insight on how GE has set out to reinvent itself in a time where people try to understand what \"digital disruption\" is really all about and where the average age of companies on the Forbes 500 has dropped from 70+ to 15 years since 2000.",
                     day: "Day 1 (Wednesday)",
                     time: "16:25 - 17:10",
