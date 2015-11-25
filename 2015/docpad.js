@@ -204,7 +204,7 @@ module.exports = {
                     },
 					          {
 						            time: "10:00 - 10:45",
-                        title: "John Bunch",
+                        title: "Zappos' evolution towards teal",
                         //recordedUrl: "http://www.ustream.tv/recorded/xxx",
                         speaker: true
                     },
@@ -350,8 +350,8 @@ module.exports = {
                     text: "@BunchBunchBunch"
                 },
                 presentation: {
-               //      title: "Title",
-               //      description: "Description",
+                    title: "Zappos' evolution towards teal",
+                    description: "In December 2013, Zappos.com CEO Tony Hsieh announced that the company would change its organizational model to Holacracy. Over the past 2 years, John Bunch has lead Zappos transition to Holacracy. John will tell the story of Zappos' evolution towards teal, especially reflecting on the lessons learned during this exciting and trailblazing journey. He will elaborate on the systems and procedures developed to help support self-management, touching on examples for both software and non-software apps.",
                     day: "Day 3 (Friday)",
                     time: "10:00 - 10:45",
                }
