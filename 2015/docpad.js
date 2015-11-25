@@ -197,13 +197,13 @@ module.exports = {
                         title: "Registration & Breakfast"
                     },
                     {
-						title: "Future Focused Leaders Create Cultures of Purpose",
-						time: "9:15 - 10:00",
+            						title: "Future Focused Leaders Create Cultures of Purpose",
+            						time: "9:15 - 10:00",
                         //recordedUrl: "http://www.ustream.tv/recorded/xxx",
                         speaker: true
                     },
-					{
-						time: "10:00 - 10:45",
+					          {
+						            time: "10:00 - 10:45",
                         title: "John Bunch",
                         //recordedUrl: "http://www.ustream.tv/recorded/xxx",
                         speaker: true
@@ -211,6 +211,12 @@ module.exports = {
                     {
                         time: "10:45 - 11:05",
                         title: "Break"
+                    },
+                    {
+                        time: "11:05 - 11:50",
+                        title: "The future of leadership",
+                        //recordedUrl: "http://www.ustream.tv/recorded/xxx",
+                        speaker: true
                     },
                     {
                         time: "11:50 - 13:20",
@@ -297,6 +303,23 @@ module.exports = {
                     description: "Organizations are the most powerful force for progress on the planet. Yet even the most consciously run business is often limited by an organizational structure that’s not designed to support a dynamic, purpose-driven company. Sometimes those within achieve great results despite the organization’s management structure, but rarely because of it – more often it subtly works against efforts to nurture a conscious, empowered culture. There has to be a better way.<br><br>Holacracy is a fundamentally different “operating system” for an organization, with a new approach to clarifying accountability, distributing power, and structuring an organization’s functions and flows. It operates without a traditional top-down management hierarchy, and yet its alternative approach to structuring a company allows the alignment, clarity, and rapid decision-making that are often lacking in “flat” organizations.<br><br>This session introduces the core principles and practices of Holacracy through presentation, Q&A, and stories of companies using the method. Participants will leave with a vision for a completely novel way to structure an organization, and key questions to consider around how their organization’s structure interplays with building a conscious culture and purpose-driven business.",
                     day: "Day 2 (Thursday)",
                     time: "13:20 - 14:05",
+               }
+            },
+            {
+                anchor: "KallayMadaiSoos",
+                name: "Natalie Kállay, Kriszta Madai and Judit Soós",
+                // photo: "themes/stretchcon/img/xxx.jpg",
+                bio: "<p><strong>Kriszta Madai</strong> is ICF credentialed coach and licensed supervisor with 10+ years of experience in executive and organisational coaching. Her degrees are MBA in economic sciences, MA in applied psychology and gender studies. Having a background in supervision as substantial as coaching her methodology is based on self‐reflection and a solution‐oriented approach. She is motivated by the moments when her executive clients can reveal and differentiate between their own personal stories from the ones originating in the organizational context. Working in organizational development programs she has been repeatedly privileged to witness the energy teams can create when starting to talk in a circle. She is co-­autor of the ECVision European Supervision and Coaching Framework and the ‘Methodological handbook for coaches II’. She is the co-­founder of the internationally accredited coach training program ‘CoachAkademia’.</p><p><strong>Judit Soós</strong> after several years of multinational consulting and management experience Judit started to work as a coach nearly a decade ago. Beyond the business background she graduated as a psychologist, specialized on sport psychology. She considers essential to support each coachee to recognize his inherent potential and to raise his awareness in order to enhance the efficiency. Beyond the individual level Judit believes that the support should happened also on a system level, which includes the individual itself. The system can be either a business organization, or a sport team, such as the world champion men's junior water polo team (U18) in 2014, or the World Cup 3rd place women's U17 basketball team in 2014.</p><p><strong>Natalie Kállay</strong> working as a business communication skills trainer then as the leader of an almost 100-­strong group of trainers, she gained experience that she can rely on when working with executives in organizations. She has been working with senior managers in one­‐on-­one sessions since 2003. She is a professional ICF credentialed coach. In the past five years has also been involved as a personal and team coach in organisational development projects ranging from start-­up companies to entire organisations. She is the co‐author of a book titled Brief and Simple ­‐ Solution Focus in Organisations.</p>",
+                //company: "",
+                // link: {
+                //     href: "http://twitter.com/DocOnDev",
+                //     text: "@DocOnDev"
+                // },
+                presentation: {
+                    title: "The future of leadership",
+                    description: "<i>We’ll never know where we’re going until we start our journey, look back and see where it has led us.</i><br><br>People sense that the way organizations are run today has been stretched to its limits and is about to change.<br>Organisations adopting the coaching approach have found that they undergo a kind of “detoxification” – which means developing a culture of open feedback, more effective communication flows, increased resilience, stronger corporate identification and commitment, higher intrinsic motivation and, consequently, an increased level of efficiency.<br> But when organisations reinvent themselves, what happens to leadership? Where do the organisation’s purpose, its goals come from? How much more powerful is 'sense and respond', compared to 'predict and control'?<br> Behind a facade of success, many top leaders are tired of power games, unsolved conflicts and infighting; despite their desperately overloaded schedules, they feel something is wrong. The vast majority yearn for better ways to work together — for more soulful workplaces where talents are nurtured and deepest aspirations are honored.<br> How can organizations become living entities, oriented toward realizing their potential with people who fully express themselves, bringing unprecedented levels of energy, passion, and creativity to work? We believe it depends on the leaders' skill set and mindset.",
+                    day: "Day 3 (Friday)",
+                    time: "11:05 - 11:50",
                }
             },
             {
